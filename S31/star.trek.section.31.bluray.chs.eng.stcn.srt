@@ -1347,13 +1347,13 @@ I love you. You are everything.
 
 275
 00:20:55,544 --> 00:20:57,177
-- 你喜欢我复杂的情绪光谱吗 - 法兹
-- Does my spectrum work for you? - Fuzz.
+你喜欢我复杂的情绪光谱吗
+Does my spectrum work for you?
 
 276
 00:20:57,177 --> 00:20:59,100
-- 我意思是 你是认真的吗 还是说…  -法兹
-- I mean, like, like, are you into it or...  - Fuzz!
+我意思是 你是认真的吗 还是说
+I mean, like, like, are you into it or...
 
 277
 00:20:59,100 --> 00:21:00,066
@@ -2206,7 +2206,7 @@ Mother of the Fatherland,
 
 447
 00:33:00,287 --> 00:33:01,852
-- 瓦肯领主 - 你带来的是什么
+-瓦肯领主  -你带来的是什么
 - Overlord of Vulc... - What is it?
 
 448
@@ -2845,7 +2845,7 @@ Wait, Godsend. I hear it now.
 
 575
 00:41:14,477 --> 00:41:16,252
--天赐之物 不是暮 -物
+-天赐之物 不是暮  -物
 - It's Godsend. No apostrophe. - Send.
 
 576
