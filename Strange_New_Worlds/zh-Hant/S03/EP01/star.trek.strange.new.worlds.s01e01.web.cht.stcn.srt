@@ -1,0 +1,3955 @@
+0
+00:00:00,000 --> 00:00:00,000
+製作: 星際迷航中國字幕組 (https://www.startrekchina.org)
+翻譯: 諾北 & 北窗高臥久息塵 & 銅綠 & Enterprise-H & Bruce & 凌塔
+校對: narwhrl
+時軸: narwhrl
+特效: narwhrl
+日期: 2025-07-20
+
+1
+00:00:22,320 --> 00:00:24,980
+《星際迷航: 新世界》前情提要
+
+2
+00:00:25,320 --> 00:00:28,340
+向在通訊範圍內的所有聯邦星艦求救
+To any Federation vessels in range, need help.
+
+3
+00:00:28,340 --> 00:00:30,140
+遭遇戈恩人襲擊
+Under attack by the Gorn.
+
+4
+00:00:30,140 --> 00:00:34,300
+如今星際聯邦和戈恩霸權的關係非常緊張
+The Federation's at a dangerous point in our relationship with the Gorn Hegemony.
+
+5
+00:00:34,300 --> 00:00:36,250
+這看起來像是一條分界線
+It looks like a demarcation line.
+
+6
+00:00:36,250 --> 00:00:38,040
+帕納索斯貝塔星和他們所有的武裝力量
+With Parnassus Beta and all their forces
+
+7
+00:00:38,040 --> 00:00:39,080
+在這條線的另一邊
+on the far side of the line.
+
+8
+00:00:39,650 --> 00:00:40,770
+不幸的是 我認為我們的人
+Unfortunately, that is where
+
+9
+00:00:40,770 --> 00:00:42,170
+被關押在那裡
+I believe our people are being held.
+
+10
+00:00:42,170 --> 00:00:44,080
+我不打算丟下他們不管
+I don't plan on leaving them behind.
+
+11
+00:00:47,440 --> 00:00:50,740
+如果我頭腦裡藏著的東西是拯救進取號的答案
+If somewhere in my head is the answer to saving the Enterprise,
+
+12
+00:00:50,740 --> 00:00:51,870
+那我必須冒這個險
+then that's a risk I have to take.
+
+13
+00:00:52,040 --> 00:00:52,980
+拿著這個
+Take this.
+
+14
+00:00:53,640 --> 00:00:54,760
+它能幫你藏起來
+It'll help you hide.
+
+15
+00:00:56,240 --> 00:00:57,280
+快跑
+Run!
+
+16
+00:00:57,880 --> 00:00:59,840
+在下蒙哥馬利·斯考特
+Montgomery Scott at your service.
+
+17
+00:00:59,840 --> 00:01:01,450
+你怎麼還活著
+How are you not dead?
+
+18
+00:01:01,450 --> 00:01:03,560
+我知道如何隱藏在眾目睽睽之下
+Well, I figured out how to hide in plain sight.
+
+19
+00:01:03,560 --> 00:01:05,540
+你造了個戈恩人的應答器嗎
+You built a Gorn transponder?
+
+20
+00:01:05,540 --> 00:01:06,940
+總的來說 對於掃描儀而言
+Eh, basically, to a scanner,
+
+21
+00:01:06,940 --> 00:01:08,630
+我們的穿梭機看起來像是戈恩飛船
+the shuttle looked like a Gorn ship.
+
+22
+00:01:08,630 --> 00:01:10,820
+你還能再造一個類似之前的設備嗎
+Could you build another device like the one you made?
+
+23
+00:01:11,280 --> 00:01:11,980
+發生什麼了
+What's happening?
+
+24
+00:01:11,980 --> 00:01:14,360
+巴特爾艦長需要馬上注射鎮定劑
+Captain Batel is in need of immediate sedation.
+
+25
+00:01:14,360 --> 00:01:15,320
+昨天發生的
+Happened yesterday.
+
+26
+00:01:15,880 --> 00:01:17,030
+我不會放棄她的
+I'm not giving up on her.
+
+27
+00:01:17,030 --> 00:01:18,340
+我也沒那個打算
+I have no intention of doing that.
+
+28
+00:01:18,340 --> 00:01:21,100
+艦長 傳送機目前在星球表面上未探測到任何人
+Captain, the transporter is not currently picking up anyone on the surface.
+
+29
+00:01:27,560 --> 00:01:29,820
+艾普里爾上將命令我們馬上撤離
+Admiral April's ordering our immediate withdrawal.
+
+30
+00:01:30,140 --> 00:01:31,260
+殖民地居民和外勤隊
+The colonists and the landing party
+
+31
+00:01:31,260 --> 00:01:33,060
+顯然被傳送到了
+appear to have been beamed up
+
+32
+00:01:33,060 --> 00:01:33,920
+戈恩人的船上
+by the Gorn.
+
+33
+00:01:33,920 --> 00:01:35,000
+艦長 請下令
+Orders, Captain?
+
+34
+00:01:39,000 --> 00:01:41,140
+現在 即將揭曉結局
+And now, the conclusion.
+
+35
+00:02:02,330 --> 00:02:03,540
+艦長 請下令
+Orders, Captain?
+
+36
+00:02:03,540 --> 00:02:05,470
+護盾只剩50%了
+Shields at 50%.
+
+37
+00:02:05,600 --> 00:02:07,990
+艦長
+Captain.
+
+38
+00:02:12,260 --> 00:02:13,430
+艦長 請下令
+Orders, Captain?
+
+39
+00:02:13,800 --> 00:02:15,820
+烏乎拉 再重複一下上將剛剛的命令
+Uhura, repeat April's last order.
+
+40
+00:02:15,820 --> 00:02:16,730
+撤退 並且
+Retreat and rendez...
+
+41
+00:02:17,380 --> 00:02:19,320
+撤退並與艦隊匯合 艦長
+Retreat and rendezvous with the fleet, sir.
+
+42
+00:02:19,320 --> 00:02:20,600
+他給了坐標
+He gave coordinates.
+
+43
+00:02:20,600 --> 00:02:21,880
+但他沒說要立即會合 對吧
+But he didn't say immediately?
+
+44
+00:02:24,420 --> 00:02:25,500
+行了 各位有什麼點子嗎
+All right, who's got ideas?
+
+45
+00:02:25,500 --> 00:02:26,440
+聲東擊西
+Diversionary tactics.
+
+46
+00:02:26,780 --> 00:02:27,660
+我們被圍困得太厲害了
+We're too boxed in.
+
+47
+00:02:27,660 --> 00:02:29,160
+排空曲速艙 製造一片等離子云團?
+Vent the nacelles, create a cloud?
+
+48
+00:02:29,540 --> 00:02:30,620
+那我們自己也看不見了
+We need to be able to see.
+
+49
+00:02:30,620 --> 00:02:31,450
+干擾敵方的通訊
+Jam their comms
+
+50
+00:02:31,450 --> 00:02:32,930
+使其無法協調攻擊
+so they can't coordinate attacks.
+
+51
+00:02:33,060 --> 00:02:34,320
+對 就是這個
+That's it. That's the one.
+
+52
+00:02:37,850 --> 00:02:39,800
+戈恩人使用光信號作為艦對艦通訊手段
+The Gorn use light for ship-to-ship messaging.
+
+53
+00:02:40,500 --> 00:02:42,920
+我正在調整偏導陣列來發射光譜
+I'm modulating the deflector array to emit a spectrum.
+
+54
+00:02:42,920 --> 00:02:44,200
+應該能迷惑他們一陣
+Should confuse them for a bit.
+
+55
+00:02:48,470 --> 00:02:49,990
+好 現在想想要怎麼把自己人傳送回來
+All right, now how do we beam our people back to Enterprise?
+
+56
+00:02:50,120 --> 00:02:52,280
+掃描顯示戈恩星艦能夠阻斷傳送
+Scans indicate the Gorn ships are transport-resistant.
+
+57
+00:02:52,280 --> 00:02:53,440
+所以即便我們繞過了護盾
+So, even if we get past the shields,
+
+58
+00:02:53,440 --> 00:02:54,620
+也需要授權碼才行
+we need authorization codes.
+
+59
+00:02:54,620 --> 00:02:55,760
+沒時間去破解密碼了
+No time to hack codes.
+
+60
+00:02:55,760 --> 00:02:57,240
+先撤再救
+Retreat and rescue.
+
+61
+00:02:57,380 --> 00:02:58,940
+這是一堆爛選項裡最好的了
+It's the best of a bunch of bad options.
+
+62
+00:02:58,940 --> 00:03:00,400
+那我們要怎樣追蹤一艘
+So how do we track this specific ship
+
+63
+00:03:00,400 --> 00:03:01,830
+跨越數光年的船呢
+across light-years of space?
+
+64
+00:03:01,830 --> 00:03:03,420
+沃凱礦 一種稀有元素
+Wolkite. A rare element
+
+65
+00:03:03,420 --> 00:03:05,140
+含有子空間規範玻色子
+that contains subspace gauge bosons.
+
+66
+00:03:05,220 --> 00:03:06,660
+如果我們調整一個定位信標
+If we modified a homing beacon...
+
+67
+00:03:06,960 --> 00:03:08,880
+戈恩人遠遠地就能看到信標飛過來
+The Gorn would see a beacon coming from a mile away.
+
+68
+00:03:08,880 --> 00:03:10,080
+如果是魚雷就不會
+Not if it's a torpedo.
+
+69
+00:03:11,970 --> 00:03:13,180
+我們對他們發射一顆啞彈
+We tag 'em with a dud.
+
+70
+00:03:13,180 --> 00:03:14,420
+戈恩人猜不到我們要幹什麼
+The Gorn won't know what we're up to.
+
+71
+00:03:19,980 --> 00:03:21,410
+護盾只剩30%了
+Shields at 30%.
+
+72
+00:03:21,410 --> 00:03:23,220
+要想這個方法奏效 我們仍需穿透
+For this to succeed, we still need to penetrate
+
+73
+00:03:23,220 --> 00:03:24,480
+戈恩星艦的護盾系統
+the Gorn's defensive systems.
+
+74
+00:03:24,480 --> 00:03:26,220
+我們已經用上了所有武器攻擊他們
+We've been hitting them with everything we've got,
+
+75
+00:03:26,220 --> 00:03:27,070
+沒多大用
+it doesn't do much.
+
+76
+00:03:27,070 --> 00:03:29,380
+能量護盾基於諧波運作
+Uh, energy shields work on harmonics.
+
+77
+00:03:29,640 --> 00:03:31,120
+如果我們找對頻率
+If we find the right frequency...
+
+78
+00:03:31,120 --> 00:03:32,510
+我們可以撞擊敵艦
+We can ram the ship.
+
+79
+00:03:32,840 --> 00:03:33,600
+確實
+Indeed.
+
+80
+00:03:33,950 --> 00:03:35,560
+我們的護盾和他們的接觸時
+When our shields make contact with theirs,
+
+81
+00:03:35,690 --> 00:03:37,300
+兩列諧波疊加時會出現相消干涉現象
+they will create a destructive interference pattern
+
+82
+00:03:37,430 --> 00:03:39,340
+並在短時間內中斷這兩個頻率的護盾
+and momentarily interrupt both frequencies.
+
+83
+00:03:40,390 --> 00:03:42,280
+沒有護盾 我們就是活靶子
+With our shields down, we'd be sitting ducks.
+
+84
+00:03:42,280 --> 00:03:43,400
+那我們就只有一次機會
+We'd only have one shot.
+
+85
+00:03:43,400 --> 00:03:44,040
+這就足夠了
+That's all we need.
+
+86
+00:03:44,040 --> 00:03:45,220
+米歇爾 調轉方向
+Mitchell, bring us around,
+
+87
+00:03:45,220 --> 00:03:46,600
+與敵方驅逐艦正面交火
+head-to-head with the destroyer.
+
+88
+00:03:47,790 --> 00:03:49,400
+是時候來點硬碰硬了
+Time to play a game of chicken.
+
+89
+00:04:02,140 --> 00:04:03,720
+全艦注意 做好衝擊準備
+All decks, prepare for impact.
+
+90
+00:04:03,720 --> 00:04:05,460
+隨時可讓脈衝引擎全速推進 艦長
+Full impulse on your orders, Captain.
+
+91
+00:04:05,460 --> 00:04:06,810
+讓慣性阻尼器最大功率運行
+Inertial dampeners to maximum.
+
+92
+00:04:06,980 --> 00:04:08,340
+所有人 抓穩扶好了
+Everybody hold onto something.
+
+93
+00:04:09,840 --> 00:04:10,760
+烏娜
+Una...
+
+94
+00:04:12,140 --> 00:04:12,920
+動手吧
+let's hit it.
+
+95
+00:04:28,050 --> 00:04:29,440
+發射魚雷
+Fire torpedoes.
+
+96
+00:04:34,790 --> 00:04:35,660
+舵手 曲速帶離
+Helm, warp us out of here.
+
+97
+00:04:35,660 --> 00:04:36,520
+遵命
+On it.
+
+98
+00:04:37,120 --> 00:04:38,490
+堅持住 各位
+Hang in there, guys.
+
+99
+00:06:35,910 --> 00:06:38,620
+艦長 我們已到達會合點
+Captain, we've arrived at the rendezvous point.
+
+100
+00:06:38,620 --> 00:06:41,310
+聯邦星艦巴勃羅·畢加索號在聯絡我們
+The USS Pablo Picasso is hailing to greet us.
+
+101
+00:06:41,620 --> 00:06:43,020
+是艾普里爾上將 艦長
+It's Admiral April, sir.
+
+102
+00:06:43,020 --> 00:06:44,740
+他現在要傳送上艦聽取匯報
+He's beaming aboard now to debrief.
+
+103
+00:06:46,260 --> 00:06:47,520
+還要打針嗎
+More needles?
+
+104
+00:06:47,520 --> 00:06:48,860
+沒錯 得再來幾針
+Yes, just a few more pokes.
+
+105
+00:06:49,320 --> 00:06:50,280
+沒有這些
+I mean, without these,
+
+106
+00:06:50,280 --> 00:06:53,500
+你的身體會在靜滯場裡面壞死 所以
+your body will go necrotic in the stasis field, so...
+
+107
+00:06:54,180 --> 00:06:56,020
+你會變紫 會很難看
+Things turn purple. It's not pretty.
+
+108
+00:06:56,560 --> 00:06:58,440
+我從沒被凍結冬眠過
+I've never been frozen solid before.
+
+109
+00:06:58,440 --> 00:07:00,590
+這前景不怎麼激動人心
+It's not an exciting prospect.
+
+110
+00:07:00,590 --> 00:07:03,770
+沒事 等我們解決了這小小的戈恩卵感染問題
+Well, as soon as we work out this little Gorn infection,
+
+111
+00:07:03,940 --> 00:07:05,810
+你就又能活蹦亂跳的了
+you'll be up and around again.
+
+112
+00:07:05,810 --> 00:07:08,860
+（* 原文是指小說《瑞普·凡·溫克爾》裡主人公一覺睡了二十年 醒來發現世界已經天翻地覆）
+
+113
+00:07:05,810 --> 00:07:08,860
+感覺我會像小說裡瑞普*那樣 一醒來發現一切都變了
+So this could be like a Rip Van Winkle thing for me.
+
+114
+00:07:08,950 --> 00:07:11,430
+我覺得你更會像是睡美人
+I see you more as a Sleeping Beauty.
+
+115
+00:07:13,620 --> 00:07:15,910
+聽著 我之前說的是認真的
+Listen, I meant what I said before.
+
+116
+00:07:16,320 --> 00:07:18,170
+一旦那時要在我和其他船員之間做出選擇
+The moment it looks like me or the crew,
+
+117
+00:07:18,170 --> 00:07:19,220
+就犧牲掉我
+you take me out.
+
+118
+00:07:19,960 --> 00:07:21,780
+不要想這些了
+Don't think about that.
+
+119
+00:07:22,660 --> 00:07:24,530
+靜滯狀態會阻止你和戈恩胚胎
+Stasis will prevent you and the Gorn
+
+120
+00:07:24,530 --> 00:07:26,820
+進行任何形式的細胞生長
+from any type of cellular growth.
+
+121
+00:07:26,820 --> 00:07:28,700
+做好最壞的打算
+There's another side to the coin.
+
+122
+00:07:31,100 --> 00:07:32,320
+無論代價如何
+Whatever it takes.
+
+123
+00:07:35,220 --> 00:07:37,410
+無論代價如何 我保證
+Whatever it takes. I promise.
+
+124
+00:07:38,480 --> 00:07:41,190
+我現在要給你注射鎮靜劑了
+I'm, uh, I'm gonna give you a sedative now.
+
+125
+00:07:41,370 --> 00:07:44,330
+等你醒來 戈恩感染的問題就治好了
+And when you wake up, you will be Gorn-free.
+
+126
+00:08:01,390 --> 00:08:04,090
+腎上腺素和中和劑 快
+Epinephrine and neutralizer, stat!
+
+127
+00:08:05,570 --> 00:08:07,440
+她的身體正在排斥血清
+Her body's rejecting the serum.
+
+128
+00:08:12,570 --> 00:08:14,000
+醫務室呼叫艦橋
+Sickbay to bridge.
+
+129
+00:08:14,000 --> 00:08:16,620
+有個最新消息 情況不太樂觀
+Uh, I have an update, and it's not good.
+
+130
+00:08:16,620 --> 00:08:17,620
+告訴我最壞情況
+Bottom line it for me.
+
+131
+00:08:18,890 --> 00:08:20,900
+巴特爾艦長對低溫血清過敏
+Captain Batel is allergic to cryoserum.
+
+132
+00:08:21,680 --> 00:08:23,060
+我們不能把她放進靜滯狀態
+We can't put her in stasis.
+
+133
+00:08:23,740 --> 00:08:25,260
+那她的生命已經進入倒計時了嗎
+So she's back on a ticking clock?
+
+134
+00:08:25,840 --> 00:08:29,220
+她身體裡的戈恩卵會在
+The Gorn will hatch from her body in, um...
+
+135
+00:08:29,330 --> 00:08:30,780
+一天之內孵化
+in less than a day.
+
+136
+00:08:33,860 --> 00:08:35,510
+我正在努力尋找治療的方法
+I'm stuck trying to find a treatment.
+
+137
+00:08:35,510 --> 00:08:38,160
+但是
+Um... uh...
+
+138
+00:08:38,160 --> 00:08:40,330
+也許如果約瑟夫在這裡 就可以
+maybe if Joseph was here, I could...
+
+139
+00:08:42,840 --> 00:08:44,440
+我會派人去幫忙
+I'm sending help.
+
+140
+00:08:44,440 --> 00:08:45,800
+克莉絲汀
+Christine...
+
+141
+00:08:48,000 --> 00:08:49,040
+我相信你
+I believe in you.
+
+142
+00:08:50,120 --> 00:08:51,160
+救救她
+Help her.
+
+143
+00:08:51,740 --> 00:08:53,700
+我會盡我所能 艦長
+I'll do my best, Captain.
+
+144
+00:08:55,050 --> 00:08:57,580
+艦長 我或許不是醫生
+Captain, I may not be a doctor,
+
+145
+00:08:57,580 --> 00:08:59,900
+但我能夠把我所有的能力都奉獻在巴特爾艦長的治療上
+but I will dedicate all of my abilities to Captain Batel
+
+146
+00:08:59,900 --> 00:09:03,100
+直到解決她的戈恩卵感染
+until her Gorn infection is... resolved.
+
+147
+00:09:12,500 --> 00:09:13,940
+就只是看著?
+Just stand by?
+
+148
+00:09:14,540 --> 00:09:16,720
+你可是有一整支艦隊在待命啊
+You have the entire fleet out there ready to go.
+
+149
+00:09:16,720 --> 00:09:18,470
+這是力量展示
+It's a show of force.
+
+150
+00:09:18,640 --> 00:09:20,400
+我們先要建立起有效的巡邏
+First we need to establish patrols.
+
+151
+00:09:20,400 --> 00:09:22,820
+他們真這麼覺得嗎
+Do they really think
+
+152
+00:09:22,820 --> 00:09:24,960
+覺得戈恩人只要炸完這些殖民地
+the Gorn are just gonna stop and go home
+
+153
+00:09:24,960 --> 00:09:26,060
+就會收手然後回家?
+after they raided those colonies?
+
+154
+00:09:27,960 --> 00:09:28,880
+好吧 這是很棘手的情況
+Look, it's a tough situation,
+
+155
+00:09:28,880 --> 00:09:30,640
+但我們必須一次解決一個問題
+but we have to manage it one piece at a time.
+
+156
+00:09:30,640 --> 00:09:32,400
+無數無辜生命正危在旦夕 鮑勃
+There are innocent lives at stake, Bob.
+
+157
+00:09:32,400 --> 00:09:33,310
+我明白
+And I get that.
+
+158
+00:09:33,310 --> 00:09:35,520
+但這件事發生在我們的管轄範圍之外
+But it's happening outside of our jurisdiction.
+
+159
+00:09:35,520 --> 00:09:37,080
+拜託 鮑勃
+Oh, come on, Bob.
+
+160
+00:09:37,080 --> 00:09:38,520
+除了你那不怕死的狗斗之外
+Apart from your reckless dogfight,
+
+161
+00:09:38,520 --> 00:09:40,820
+這些攻擊和聯邦並沒有關係
+these attacks do not involve the Federation.
+
+162
+00:09:41,320 --> 00:09:42,480
+我們有規定的 克里斯
+We have regulations, Chris.
+
+163
+00:09:42,480 --> 00:09:44,230
+所以 就因為死的不是聯邦公民
+So, because it's non-Federation citizens that are dying,
+
+164
+00:09:44,230 --> 00:09:45,200
+我們就作壁上觀嗎
+we do nothing?
+
+165
+00:09:45,200 --> 00:09:47,020
+我們對於聯邦成員國都有義務在身
+We have an obligation to our member worlds.
+
+166
+00:09:47,020 --> 00:09:48,940
+那可是數十億人
+Billions of lives.
+
+167
+00:09:48,940 --> 00:09:50,400
+現在就貿然投入戰爭
+To rush into a fight right now
+
+168
+00:09:50,400 --> 00:09:51,160
+會將所有人都置於危險當中
+puts all of them at risk.
+
+169
+00:09:51,160 --> 00:09:52,060
+我們不能這樣
+We can't do it.
+
+170
+00:09:52,060 --> 00:09:53,460
+我們還沒從克林貢戰爭中完全恢復
+We're still recovering from the Klingon War.
+
+171
+00:09:53,460 --> 00:09:55,040
+你說得一點沒錯
+You are absolutely right,
+
+172
+00:09:55,040 --> 00:09:57,020
+戈恩就是利用這一點發動進攻
+and the Gorn sense our weakness.
+
+173
+00:09:57,740 --> 00:09:58,760
+我們現在是獵物
+We are prey.
+
+174
+00:10:03,320 --> 00:10:05,320
+他們只會把這條霸權的邊境線
+They will push this Hegemony line
+
+175
+00:10:05,320 --> 00:10:07,640
+向著聯邦領空內部推得越來越深
+further and further into Federation space.
+
+176
+00:10:07,640 --> 00:10:08,730
+你也知道他們會這麼做
+And you know they will.
+
+177
+00:10:08,730 --> 00:10:09,980
+等到我們真的恢復過來
+And by the time we actually get around
+
+178
+00:10:09,980 --> 00:10:11,220
+有精力反制的時候
+to doing something about it...
+
+179
+00:10:12,780 --> 00:10:13,980
+一切就太晚了
+it'll be way too late.
+
+180
+00:10:17,700 --> 00:10:19,140
+我聽說了外勤隊的事
+I heard about the landing party.
+
+181
+00:10:19,220 --> 00:10:20,880
+對啊 還有幾百號殖民地居民呢
+Yeah, and a couple hundred colonists, too.
+
+182
+00:10:22,760 --> 00:10:23,920
+瑪麗呢
+And Marie?
+
+183
+00:10:26,840 --> 00:10:28,380
+她在醫務室裡
+She's in sickbay.
+
+184
+00:10:37,640 --> 00:10:39,960
+官方地說 給你的命令是監控分界線
+Officially, your orders are to monitor the demarcation line
+
+185
+00:10:39,960 --> 00:10:41,480
+避免戈恩人的進一步進犯
+for any encroachment by the Gorn.
+
+186
+00:10:46,660 --> 00:10:49,210
+好 那不官方的呢
+Okay. And unofficially?
+
+187
+00:10:53,430 --> 00:10:55,910
+為何不給他們點顏色看看 告訴他們我們不是獵物
+How do we punch back and show them we aren't prey?
+
+188
+00:10:58,600 --> 00:10:59,740
+行 我接受這個
+Yeah, I can do that.
+
+189
+00:10:59,740 --> 00:11:01,340
+你做的這個裝置
+This contraption of yours,
+
+190
+00:11:01,340 --> 00:11:02,920
+你再說一遍它是幹什麼的
+what's it supposed to do again?
+
+191
+00:11:02,920 --> 00:11:05,260
+發射極化電磁信號
+Emit a polarized EM signature that
+
+192
+00:11:05,260 --> 00:11:07,280
+誘騙戈恩 讓它們以為我們是他們中的一員
+tricks the Gorn into thinking we're one of them.
+
+193
+00:11:07,280 --> 00:11:08,710
+類似隱身裝置的原理
+It's like a cloaking device.
+
+194
+00:11:08,710 --> 00:11:10,340
+那麼它究竟是怎麼做到這一點的
+And how, exactly, does it do that?
+
+195
+00:11:10,340 --> 00:11:12,740
+說實話 我不太記得了
+Ah, if I'm being honest, I don't really remember.
+
+196
+00:11:12,740 --> 00:11:14,000
+我就是當時靈機一動
+I was kind of in the moment.
+
+197
+00:11:14,000 --> 00:11:16,110
+很好 那我現在要問一個很蠢的問題
+Well, now I'm going to ask a silly question,
+
+198
+00:11:16,110 --> 00:11:18,240
+而且我確定我知道答案
+to which I'm pretty sure I know the answer.
+
+199
+00:11:18,680 --> 00:11:20,110
+別又來這個
+Not this again.
+
+200
+00:11:20,110 --> 00:11:21,630
+就像回到了報告廳一樣
+It's like being back in lecture hall.
+
+201
+00:11:21,630 --> 00:11:23,500
+你怎麼知道 你又沒去過報告廳
+How would you know that? You were never there.
+
+202
+00:11:23,500 --> 00:11:25,180
+我去過 在後排而已
+I was there, in the back.
+
+203
+00:11:25,180 --> 00:11:27,340
+你在把這堆東西拼起來時
+Did you record a work-in-progress log
+
+204
+00:11:27,340 --> 00:11:28,960
+有沒有記工作日誌
+while you were jury-rigging this up?
+
+205
+00:11:28,960 --> 00:11:31,560
+啥 您的意思是在戈恩人正在轟炸我的時候記錄?
+What, you mean as the Gorn were tearing our ship apart?
+
+206
+00:11:31,560 --> 00:11:34,500
+斯考特 工程學第一定律就是寫下來
+First rule in engineering, Scotty: write it down.
+
+207
+00:11:34,500 --> 00:11:36,430
+我們被要求無論什麼情況下
+There's a reason we track our work
+
+208
+00:11:36,430 --> 00:11:38,780
+都要記錄自己的工作是有理由的
+no matter what the circumstance, and this,
+
+209
+00:11:38,780 --> 00:11:41,910
+現在的這個情況 就是最好的理由
+this right now, this is precisely the reason.
+
+210
+00:11:41,910 --> 00:11:43,830
+抱歉打斷
+Pardon the interruption.
+
+211
+00:11:44,240 --> 00:11:45,400
+你們還要多久能讓這東西恢復運作
+How long before you get that working?
+
+212
+00:11:45,530 --> 00:11:46,920
+哦 派克艦長 問題是
+Oh, Captain Pike, the thing is,
+
+213
+00:11:47,010 --> 00:11:48,560
+它在我的小穿梭機上能起作用
+it worked on my wee shuttle,
+
+214
+00:11:48,560 --> 00:11:49,220
+但進取號就
+but the Enterprise is...
+
+215
+00:11:49,220 --> 00:11:51,160
+那您什麼時候需要它呢 艦長
+How soon do you need it, Captain?
+
+216
+00:11:51,160 --> 00:11:52,640
+我們正在航向戈恩的領空
+We're headed into Gorn space,
+
+217
+00:11:52,640 --> 00:11:53,500
+所以現在能用就最好了
+so now would be good.
+
+218
+00:11:53,500 --> 00:11:56,840
+在我們跨過分界線之前它會準備好的
+It'll be up and working before we cross the Hegemony line.
+
+219
+00:11:56,970 --> 00:11:59,580
+我希望如此 因為我和船上所有人的命都指望在它身上了
+I'm counting on it, as are the lives of everyone on board.
+
+220
+00:11:59,580 --> 00:12:00,630
+不管有沒有這個裝置
+We're going after our missing crew,
+
+221
+00:12:00,630 --> 00:12:01,760
+我們都要去搜救被抓走的船員
+with or without that device.
+
+222
+00:12:03,150 --> 00:12:04,340
+明白了嗎
+Understand?
+
+223
+00:12:05,320 --> 00:12:07,260
+哇 還真是一點壓力都沒有呢
+Well, that's no pressure.
+
+224
+00:12:35,230 --> 00:12:36,120
+媽媽
+Mom?
+
+225
+00:12:36,120 --> 00:12:37,860
+拉安 勇敢點
+La'An, be brave.
+
+226
+00:12:38,920 --> 00:12:41,320
+對危險沒有畏懼之心才會置你於死地
+Not believing you're gonna die is what gets you killed.
+
+227
+00:12:41,410 --> 00:12:43,150
+那是戈恩人
+It's the Gorn.
+
+228
+00:12:43,150 --> 00:12:44,500
+醒醒
+Wake up.
+
+229
+00:12:44,630 --> 00:12:45,720
+快醒醒
+Wake up!
+
+230
+00:13:31,020 --> 00:13:32,420
+你能做到的
+You can do this.
+
+231
+00:13:34,560 --> 00:13:36,300
+第一個倒霉的總是醫生
+Always start with the doctor.
+
+232
+00:14:06,120 --> 00:14:07,020
+好了
+Okay.
+
+233
+00:14:18,720 --> 00:14:20,960
+我的媽 我的手
+Holy crap, my hand!
+
+234
+00:14:21,940 --> 00:14:23,440
+我他媽的半隻手都沒了
+Half my hand is frickin' gone.
+
+235
+00:14:23,440 --> 00:14:25,220
+艾麗卡 看著我
+Erica, look at me.
+
+236
+00:14:25,220 --> 00:14:26,700
+看著我 冷靜下來
+Look at me. Relax.
+
+237
+00:14:28,440 --> 00:14:31,390
+會沒事的
+It's going to be okay.
+
+238
+00:14:34,430 --> 00:14:36,350
+只要我們能回到船上就能治好它
+We can fix this when we get back to the ship.
+
+239
+00:14:36,350 --> 00:14:37,400
+拜託
+Please.
+
+240
+00:14:39,090 --> 00:14:40,540
+先保持冷靜
+Try to stay calm.
+
+241
+00:14:40,540 --> 00:14:41,400
+好吧
+Okay.
+
+242
+00:14:45,920 --> 00:14:46,880
+但怎麼
+How?
+
+243
+00:14:48,580 --> 00:14:51,060
+我們怎麼才能回到船上
+How do we get back to the ship?
+
+244
+00:14:53,680 --> 00:14:54,890
+而且他們怎麼辦
+What about them?
+
+245
+00:14:56,720 --> 00:14:58,300
+如果我們一次只能解救一個人
+If we free them one at a time,
+
+246
+00:14:59,400 --> 00:15:01,720
+那我們能救出來的人屈指可數
+we'll only get a handful out.
+
+247
+00:15:02,040 --> 00:15:03,360
+如果能的話
+If that.
+
+248
+00:15:03,360 --> 00:15:06,140
+光是我們四個人脫困就花了這麼久
+Look how long it took for the four of us to get loose.
+
+249
+00:15:09,600 --> 00:15:11,340
+這是一個巨大的消化腔
+This is a massive digestive chamber.
+
+250
+00:15:12,470 --> 00:15:14,380
+而且它正在消化
+And it's working its way through...
+
+251
+00:15:14,380 --> 00:15:16,780
+看起來像是燃料加工廠
+looks like a-a processing plant for fuel.
+
+252
+00:15:16,780 --> 00:15:18,620
+或者只是戈恩人的食物工廠
+Or just food for the Gorn.
+
+253
+00:15:18,620 --> 00:15:20,920
+我真的不想變成哪個戈恩人的盤中餐
+I don't like the idea of being anyone's lunch.
+
+254
+00:15:22,440 --> 00:15:23,940
+即便我們能夠喚醒他們
+And even if we can wake them up,
+
+255
+00:15:24,780 --> 00:15:27,830
+不管是一個還是一百個
+one or a hundred,
+
+256
+00:15:27,970 --> 00:15:31,230
+我們還是沒法離開這個
+we still don't have a way out of...
+
+257
+00:15:31,400 --> 00:15:33,060
+不知道什麼的地方
+wherever this is.
+
+258
+00:15:33,230 --> 00:15:34,700
+先一步一步來吧
+One step at a time.
+
+259
+00:15:35,260 --> 00:15:37,240
+要是什麼都不做 就是等死
+Sitting here doing nothing is a death sentence.
+
+260
+00:15:37,370 --> 00:15:38,200
+而且搞不好
+And for all we know,
+
+261
+00:15:38,200 --> 00:15:40,670
+那些戈恩人可能在我們醒來那會就被驚動了
+the Gorn were alerted the moment that we woke up.
+
+262
+00:15:40,850 --> 00:15:42,580
+所以那些殺人蜥蜴可能已經在來的路上了
+So the killer lizards could already be on their way.
+
+263
+00:15:42,580 --> 00:15:43,320
+他們來了
+They're coming.
+
+264
+00:15:43,320 --> 00:15:44,060
+別害怕
+Don't be afraid.
+
+265
+00:15:44,420 --> 00:15:45,460
+拉安
+La'An.
+
+266
+00:15:45,590 --> 00:15:46,850
+無論發生什麼
+No matter what.
+
+267
+00:15:47,720 --> 00:15:48,780
+拉安
+La'An.
+
+268
+00:15:50,640 --> 00:15:52,470
+上尉 你在想什麼
+What's on your mind, Lieutenant?
+
+269
+00:15:55,170 --> 00:15:57,520
+你說得對
+You're right.
+
+270
+00:15:57,690 --> 00:15:59,650
+不僅僅關乎我們自己
+It's not just about us.
+
+271
+00:16:00,060 --> 00:16:02,260
+這些殖民地居民很快也會被殺害
+All of these people will be dead soon.
+
+272
+00:16:02,880 --> 00:16:03,780
+看這
+Hey.
+
+273
+00:16:03,780 --> 00:16:05,740
+這看起來像個排泄樁
+This looks like an evacuation pile.
+
+274
+00:16:05,870 --> 00:16:10,280
+也許 這艘船不能處理的東西 都由它排出
+Maybe whatever the ship can't process, it expels.
+
+275
+00:16:24,890 --> 00:16:26,980
+糞堆裡的武器
+Weapons from a crap pile.
+
+276
+00:16:30,760 --> 00:16:33,290
+怪了 這個方向是對的
+Strangely, it's a step in the right direction.
+
+277
+00:16:35,620 --> 00:16:37,430
+我不想只救下屈指可數的人
+I don't want to save a handful of colonists,
+
+278
+00:16:37,430 --> 00:16:38,990
+我想拯救全部人
+I want to save them all.
+
+279
+00:16:39,170 --> 00:16:41,140
+所有還活著的人 都能回家
+Everyone that's still alive gets home.
+
+280
+00:16:43,740 --> 00:16:46,040
+即使這意味著 我們必須殺出一條血路
+Even if we have to shoot our way out.
+
+281
+00:17:10,980 --> 00:17:12,840
+哎呀 你個蠢貨
+Ack, bawheid.
+
+282
+00:17:13,960 --> 00:17:14,920
+不是這樣
+That's not it.
+
+283
+00:17:14,920 --> 00:17:16,420
+是戈恩人 他們來了
+They're here!
+
+284
+00:17:16,510 --> 00:17:17,640
+該死
+Oh, shite.
+
+285
+00:17:17,640 --> 00:17:19,340
+我們完蛋了 斯考提
+We're doomed. Scotty.
+
+286
+00:17:19,340 --> 00:17:19,940
+不不不不
+No, no, no, no...
+
+287
+00:17:19,940 --> 00:17:21,220
+我們都死定了
+We're all gonna die!
+
+288
+00:17:23,740 --> 00:17:25,000
+成功了
+It's working.
+
+289
+00:17:25,000 --> 00:17:26,480
+快通知艦橋 把它加到護盾上
+Tell the bridge to patch it to the shields.
+
+290
+00:17:28,180 --> 00:17:29,550
+怎麼 太晚了嗎
+What? Is it too late?
+
+291
+00:17:29,550 --> 00:17:31,320
+艦橋呼叫科學實驗室 你們進展如何了
+Bridge to science lab. What's the status down there?
+
+292
+00:17:31,320 --> 00:17:32,800
+我們馬上要進入戈恩領空了
+We're about to enter Gorn space.
+
+293
+00:17:32,800 --> 00:17:34,380
+真是狡猾
+Oh, you minx.
+
+294
+00:17:34,380 --> 00:17:35,750
+已經在正常運行了 艦長
+It's up and running, Captain.
+
+295
+00:17:35,750 --> 00:17:38,280
+我們現在就能把它加到護盾上
+We can patch it into the shields now.
+
+296
+00:17:38,280 --> 00:17:39,280
+好極了 派克完畢
+Excellent. Pike out.
+
+297
+00:17:39,280 --> 00:17:40,280
+一點都不好笑
+That wasn't funny.
+
+298
+00:17:40,280 --> 00:17:41,280
+明明就很有趣
+It was fun.
+
+299
+00:17:41,280 --> 00:17:42,560
+你差點害我心臟病發作
+You nearly gave me a heart attack.
+
+300
+00:17:42,560 --> 00:17:44,490
+我那麼做 是因為我了解你
+I did it 'cause I know you.
+
+301
+00:17:44,490 --> 00:17:45,740
+你才不了解呢
+No, you don't.
+
+302
+00:17:45,740 --> 00:17:48,160
+太了解了 平時閒得發慌的時候你就擺了
+Yes, with too much time on your hands, you fall apart,
+
+303
+00:17:48,160 --> 00:17:50,240
+但要是有相位槍頂著你的頭 你立刻精神百倍
+but put a phaser to your head and voilà.
+
+304
+00:17:50,240 --> 00:17:52,240
+你管我這麼多幹嘛
+Why do you care what I do?
+
+305
+00:17:53,980 --> 00:17:55,160
+你防備太重了 斯考提
+You put up walls, Scotty.
+
+306
+00:17:55,160 --> 00:17:56,780
+你太害怕承擔風險了
+You're too afraid to take a risk.
+
+307
+00:17:56,780 --> 00:17:58,840
+我修好了你想讓我修的東西
+I fixed what you wanted me to.
+
+308
+00:17:58,840 --> 00:18:00,520
+而且你相當目無上級
+And you're insubordinate to boot.
+
+309
+00:18:00,520 --> 00:18:02,420
+準確來說你又不是我的上級
+Well, technically you're not my C.O.
+
+310
+00:18:02,420 --> 00:18:03,980
+她在馭星號上犧牲了
+She went down on the Stardiver.
+
+311
+00:18:06,320 --> 00:18:07,470
+我可以離開了嗎 長官
+May I be excused, sir?
+
+312
+00:18:07,470 --> 00:18:08,900
+哦 斯考提
+Oh, Scotty.
+
+313
+00:18:17,800 --> 00:18:20,270
+艦長 我們正在接近戈恩霸權領空邊境
+Approaching the Hegemony demarcation line now, sir.
+
+314
+00:18:20,860 --> 00:18:21,780
+脫離曲速
+Drop us out of warp.
+
+315
+00:18:21,780 --> 00:18:23,240
+開啟斯考特的應答器
+Start Mr. Scott's transponder.
+
+316
+00:18:23,240 --> 00:18:24,140
+應答器?
+Transponder?
+
+317
+00:18:24,140 --> 00:18:26,720
+佩利亞說它更像是一個改裝過的電磁脈衝發射器
+Pelia says it's more like a modified EM pulse emitter.
+
+318
+00:18:26,720 --> 00:18:28,330
+好吧 那就說得通了
+Okay, then that makes sense.
+
+319
+00:18:29,520 --> 00:18:31,500
+戈恩人肯定不使用光學數據
+The Gorn must not use optical data.
+
+320
+00:18:31,630 --> 00:18:33,080
+他們已經進化了
+They've evolved,
+
+321
+00:18:33,080 --> 00:18:35,380
+所以他們一定依賴生物識別信息
+so they must rely on biometrics,
+
+322
+00:18:35,380 --> 00:18:37,620
+熱量和電磁信號
+heat and EM signatures.
+
+323
+00:18:37,620 --> 00:18:39,850
+嗯 是時候看看這到底能不能成功了
+Well, time to see if it actually works.
+
+324
+00:18:39,850 --> 00:18:41,880
+我的意思是 它應該可以
+It should. I mean,
+
+325
+00:18:42,500 --> 00:18:44,900
+除非哪個戈恩人突然決定看一眼窗外
+unless maybe one of them decides to look out a window.
+
+326
+00:18:46,730 --> 00:18:48,690
+艦長 戈恩狩獵艦正在接近
+Captain, Gorn hunters approaching.
+
+327
+00:18:52,740 --> 00:18:54,430
+保持穩定航線
+Keep us steady and on course.
+
+328
+00:18:59,920 --> 00:19:01,680
+目前為止 我沒看到任何窗戶
+So far, I don't see any windows.
+
+329
+00:19:16,260 --> 00:19:17,180
+它奏效了
+It worked.
+
+330
+00:19:18,400 --> 00:19:20,370
+烏乎拉 我們還能接收到沃凱礦信標的信號嗎
+Uhura, do we still have a signal from the wolkite beacon?
+
+331
+00:19:20,500 --> 00:19:21,940
+是的 艦長
+Aye, sir.
+
+332
+00:19:22,070 --> 00:19:24,540
+信號很弱且在逐漸減弱 但它還在發射信號
+It's faint and getting weaker but still there.
+
+333
+00:19:24,620 --> 00:19:26,160
+有關於他們去向的情報嗎
+Any intel on where they're headed?
+
+334
+00:19:26,160 --> 00:19:28,500
+一個未知的雙星系統
+An uncharted binary star system.
+
+335
+00:19:28,500 --> 00:19:30,360
+那裡的恆星活動
+The stellar activity there
+
+336
+00:19:30,360 --> 00:19:33,250
+是我們前所未見的
+is like nothing we've ever seen before.
+
+337
+00:19:33,250 --> 00:19:34,340
+舵手 設置航線
+Helm, plot a course.
+
+338
+00:19:34,340 --> 00:19:36,700
+艦長 那個星系的輻射高得超出量表
+Captain, the radiation in that system is off the charts.
+
+339
+00:19:36,700 --> 00:19:38,400
+到最後 我們只能使用脈衝引擎
+At a certain point, we can only use impulse engines,
+
+340
+00:19:38,400 --> 00:19:40,480
+進取號的護盾也無法抵擋輻射了
+and our shields won't be able to protect us.
+
+341
+00:19:40,480 --> 00:19:41,720
+了解 那我們快速行動
+Understood. We'll make it quick.
+
+342
+00:19:41,720 --> 00:19:43,000
+米歇爾 曲速七級
+Mitchell, warp factor seven.
+
+343
+00:19:43,000 --> 00:19:44,040
+遵命 艦長
+Aye aye, sir.
+
+344
+00:19:53,060 --> 00:19:54,410
+有趣
+Intriguing.
+
+345
+00:19:54,410 --> 00:19:56,860
+戈恩卵的孵化進程大幅改變了她身體的生物化學結構
+The incubation has severely altered her biochemistry.
+
+346
+00:19:56,970 --> 00:19:58,960
+她的身體現在依賴於戈恩的幼體
+Her body is now as dependent
+
+347
+00:19:59,040 --> 00:20:01,580
+就像戈恩幼體依賴於她
+on the Gorn hatchlings as they are on her.
+
+348
+00:20:02,200 --> 00:20:04,760
+完美的宿主 不可分割
+The perfect host, inseparable.
+
+349
+00:20:04,890 --> 00:20:06,460
+你試過顯微減瘤術了嗎
+Have you tried microscopic debulking?
+
+350
+00:20:06,590 --> 00:20:07,860
+模擬完畢
+Results completed.
+
+351
+00:20:09,160 --> 00:20:10,550
+這是我最後跑的一次模擬
+It's the last simulation I ran.
+
+352
+00:20:10,550 --> 00:20:13,860
+死亡率為100%
+Probability of fatality is 100%.
+
+353
+00:20:13,860 --> 00:20:16,080
+我做的每一次模擬 結果全都一樣
+That's the chorus of the day. It's every simulation I've run.
+
+354
+00:20:18,430 --> 00:20:20,950
+計算機 模擬顯微減瘤術的情境
+Computer, run scenarios for microscopic debulking
+
+355
+00:20:20,950 --> 00:20:23,060
+將注射扎多拉提取物納入模擬變量中
+factoring for an infusion of Zadora extract.
+
+356
+00:20:23,430 --> 00:20:24,420
+正在處理
+Processing.
+
+357
+00:20:24,680 --> 00:20:26,160
+獵戶星的街頭毒品?
+An Orion street drug?
+
+358
+00:20:28,440 --> 00:20:30,830
+實話說 這真是天才想法
+Actually, that's kind of brilliant.
+
+359
+00:20:31,920 --> 00:20:34,200
+是你教會了我跳出框架去看
+You are the one who taught me to look outside of the box.
+
+360
+00:20:34,980 --> 00:20:36,280
+是「去思考」
+It's "think,"
+
+361
+00:20:36,280 --> 00:20:37,580
+但也差不多
+but close enough.
+
+362
+00:20:38,140 --> 00:20:40,190
+克莉絲汀
+Christine.
+
+363
+00:20:42,440 --> 00:20:43,560
+我知道你想談談
+I know you want to talk.
+
+364
+00:20:43,560 --> 00:20:44,520
+我會盡量簡短
+I will be brief.
+
+365
+00:20:44,720 --> 00:20:46,070
+我只是想為你離開前
+I simply want to apologize
+
+366
+00:20:46,070 --> 00:20:47,590
+我們之間的結局道個歉
+for the way things ended before you left.
+
+367
+00:20:48,580 --> 00:20:50,290
+我當時情緒有點失控
+I reacted poorly.
+
+368
+00:20:51,000 --> 00:20:52,720
+好了
+Apology accepted.
+
+369
+00:20:52,860 --> 00:20:54,070
+原諒你了
+We're good.
+
+370
+00:20:54,400 --> 00:20:56,950
+失去你的念頭
+The thought of losing you,
+
+371
+00:20:56,950 --> 00:20:58,950
+深深困擾著我
+it affected me deeply.
+
+372
+00:20:59,340 --> 00:21:00,780
+我理解
+I understand.
+
+373
+00:21:02,780 --> 00:21:04,660
+事情變得複雜了
+This has gotten complicated,
+
+374
+00:21:04,660 --> 00:21:06,220
+我不擅長應對複雜
+and I am not good at complicated.
+
+375
+00:21:06,640 --> 00:21:11,000
+而我還是要離開三個月
+And I am still going away for three months
+
+376
+00:21:11,000 --> 00:21:13,010
+去和羅傑·科爾比一起學習
+to study with Roger Korby.
+
+377
+00:21:13,860 --> 00:21:16,620
+等我回來 再看看我們的狀態吧
+When I get back, let's just see where we are then.
+
+378
+00:21:17,060 --> 00:21:18,490
+所以你是想說
+So you are saying that perhaps
+
+379
+00:21:18,490 --> 00:21:20,010
+也許分開一段時間 對我們有好處嗎
+some time apart might be good for us?
+
+380
+00:21:21,000 --> 00:21:22,410
+史波克
+Spock.
+
+381
+00:21:23,890 --> 00:21:25,420
+是的
+Yeah.
+
+382
+00:21:26,560 --> 00:21:28,980
+但不是說
+But not like...
+
+383
+00:21:28,980 --> 00:21:32,550
+作為我們倆的我們
+not like "us" us.
+
+384
+00:21:33,640 --> 00:21:35,590
+只是說
+Like...
+
+385
+00:21:35,680 --> 00:21:37,770
+作為兩個個體的我們
+us as people.
+
+386
+00:21:38,990 --> 00:21:41,210
+請別做那些你覺得浪漫的事
+Please don't do something you think is romantic,
+
+387
+00:21:41,210 --> 00:21:44,080
+像是等我之類的
+like wait for me or something.
+
+388
+00:21:44,760 --> 00:21:47,140
+扎多拉提取物情境模擬完畢
+Zadora extract scenario completed.
+
+389
+00:21:47,140 --> 00:21:50,140
+死亡率為100%
+Probability of fatality is 100%.
+
+390
+00:21:52,220 --> 00:21:54,870
+無論我們用什麼方法
+No matter how we approach this,
+
+391
+00:21:54,870 --> 00:21:56,960
+巴特爾的人類基因
+Batel's human DNA is...
+
+392
+00:21:56,960 --> 00:21:58,310
+都存在不足
+Inadequate.
+
+393
+00:21:59,620 --> 00:22:01,440
+她的身體進入休克狀態
+Her body goes into shock,
+
+394
+00:22:01,440 --> 00:22:02,460
+血壓開始下降
+blood pressure drops.
+
+395
+00:22:02,460 --> 00:22:03,400
+最後死亡
+And she dies.
+
+396
+00:22:06,340 --> 00:22:09,320
+哼 人類的身體始終有限
+Huh. Human physiology.
+
+397
+00:22:09,320 --> 00:22:10,800
+但如果我們給她的基因幫點忙呢
+What if we gave her some help there?
+
+398
+00:22:10,930 --> 00:22:12,200
+你已經有主意了
+You have an idea.
+
+399
+00:22:12,540 --> 00:22:13,810
+伊勒利亞人的基因
+Illyrian DNA.
+
+400
+00:22:14,660 --> 00:22:15,260
+烏娜的血液
+Una's blood,
+
+401
+00:22:15,260 --> 00:22:16,880
+基因使其可以實時抵抗感染
+it's designed to combat infections in real time.
+
+402
+00:22:16,880 --> 00:22:19,440
+一劑血清可以給巴特爾的免疫系統來一次大升級
+A plasma injection could provide a boost to Batel's immunity.
+
+403
+00:22:19,440 --> 00:22:20,550
+這樣我們就能在不使其休克的前提下
+And we could attempt the surgery
+
+404
+00:22:20,550 --> 00:22:21,860
+嘗試進行手術了
+without her going into shock.
+
+405
+00:22:22,500 --> 00:22:23,900
+這樣做違反規定
+It is against regulation,
+
+406
+00:22:23,900 --> 00:22:25,100
+但能挽救她的生命
+but it could save her life.
+
+407
+00:22:25,900 --> 00:22:28,040
+計算機 模擬手術結果
+Computer, run scenario for surgery
+
+408
+00:22:28,040 --> 00:22:31,360
+將注射伊勒利亞血清納入模擬變量中
+factoring for a plasma transfusion from an Illyrian blood donor.
+
+409
+00:22:31,700 --> 00:22:33,000
+處理中
+Processing.
+
+410
+00:22:34,090 --> 00:22:35,390
+你當時是怎麼說的來著
+How did you put it once?
+
+411
+00:22:35,980 --> 00:22:37,830
+有些規則就是用來打破的?
+Some rules are intended to be broken?
+
+412
+00:22:39,570 --> 00:22:42,090
+幾乎準確無誤了
+Almost exactly it.
+
+413
+00:22:42,520 --> 00:22:43,820
+這就是機庫
+There's the hangar.
+
+414
+00:22:43,820 --> 00:22:44,840
+好吧
+Okay.
+
+415
+00:22:45,680 --> 00:22:47,140
+大家都了解計劃吧
+Everyone's clear on the plan?
+
+416
+00:22:47,140 --> 00:22:48,700
+訪問這艘船的計算機主機
+Access the ship's mainframe,
+
+417
+00:22:48,700 --> 00:22:50,380
+上傳戈恩星艦的傳送器密碼
+upload the Gorn transporter codes...
+
+418
+00:22:50,380 --> 00:22:52,190
+把他們帶回進取號
+Get them to the Enterprise.
+
+419
+00:22:52,190 --> 00:22:54,820
+要成功 我們必須偷一艘飛船 從這裡飛出去
+To do that, we have to steal a ship and fly it out of here.
+
+420
+00:22:54,820 --> 00:22:56,820
+這個看起來沒什麼警戒措施
+That one doesn't look guarded.
+
+421
+00:22:57,440 --> 00:22:59,460
+我們超有把握 一點都不是不可能任務
+Totally got this, not impossible at all.
+
+422
+00:23:01,030 --> 00:23:02,940
+你什麼都能飛 是真的吧
+And it's true you can fly anything, right?
+
+423
+00:23:02,940 --> 00:23:04,680
+別這麼沒禮貌 當然是真的
+Don't be rude. Of course I can.
+
+424
+00:23:05,500 --> 00:23:07,000
+好
+Okay.
+
+425
+00:23:07,000 --> 00:23:08,430
+來搞定那艘飛船吧
+Let's get to that ship.
+
+426
+00:23:10,760 --> 00:23:11,690
+這是個好計劃
+This is a good plan.
+
+427
+00:23:12,440 --> 00:23:13,640
+一定行得通
+It's gonna work.
+
+428
+00:23:16,780 --> 00:23:19,130
+這是個好計劃
+It's good. It's-it's...
+
+429
+00:23:19,130 --> 00:23:20,880
+是個好計劃 對嗎
+It's a good plan, right?
+
+430
+00:23:20,880 --> 00:23:22,350
+當然了
+It's a good plan.
+
+431
+00:23:22,480 --> 00:23:25,180
+沒錯 我們現在只需要
+Yeah. Yeah. Now all we have to do is
+
+432
+00:23:25,310 --> 00:23:27,270
+別被戈恩人逮住
+not get caught by the Gorn.
+
+433
+00:23:30,920 --> 00:23:31,380
+山姆
+Sam.
+
+434
+00:23:31,380 --> 00:23:32,230
+你為啥要烏鴉嘴
+Why would you say that?
+
+435
+00:23:32,230 --> 00:23:34,180
+不是姐們 這你也能怪我啊
+What? Oh, come on, you can't blame me.
+
+436
+00:23:34,180 --> 00:23:35,020
+相位槍調到擊殺檔
+Phasers to kill.
+
+437
+00:23:35,340 --> 00:23:36,930
+該走了
+Time to go.
+
+438
+00:23:43,120 --> 00:23:44,860
+我和烏乎拉一直在鑽研
+Uhura and I have been poring over
+
+439
+00:23:44,860 --> 00:23:46,640
+手頭能得到的戈恩人數據
+all available data on the Gorn.
+
+440
+00:23:46,640 --> 00:23:49,000
+確認的襲擊 未被證實的目擊
+Confirmed attacks, unverified sightings.
+
+441
+00:23:49,000 --> 00:23:51,380
+如果可能和戈恩人有關係 我們就檢查過一遍
+If it might be a Gorn, we've checked it out.
+
+442
+00:23:51,720 --> 00:23:53,640
+比我們想像的信息多出很多
+And there's a lot more out there than we thought.
+
+443
+00:23:55,220 --> 00:23:56,520
+你得稍微用點想像力
+You have to squint a little.
+
+444
+00:23:56,520 --> 00:23:57,950
+但是每一次戈恩目擊事件
+But every Gorn sighting correlates
+
+445
+00:23:57,950 --> 00:24:00,260
+都和某個特定的恆星活動規律正相關
+to a pattern of specific stellar events.
+
+446
+00:24:00,260 --> 00:24:01,360
+日冕物質拋射
+Coronal mass ejections.
+
+447
+00:24:01,360 --> 00:24:02,560
+我已經了解過了
+I know this already, CMEs.
+
+448
+00:24:02,960 --> 00:24:04,660
+恆星耀斑爆發會引發強烈恆星風
+Stellar flares can set off a frenzy.
+
+449
+00:24:04,660 --> 00:24:06,610
+是的 其活動遵循一定的規律
+Yes, the attacks follow a pattern,
+
+450
+00:24:06,610 --> 00:24:09,090
+戈恩人的休眠也是如此
+but so does Gorn inactivity.
+
+451
+00:24:09,270 --> 00:24:11,270
+這都是烏乎拉發現的
+Uhura is the one who found it.
+
+452
+00:24:11,440 --> 00:24:12,790
+我們知道有很長一段時間
+There are long periods of time
+
+453
+00:24:12,790 --> 00:24:14,670
+沒有任何戈恩人活動的報告
+where no Gorn activity is reported.
+
+454
+00:24:14,840 --> 00:24:16,320
+甚至連一點風聲都沒有
+Not so much as a rumor.
+
+455
+00:24:16,450 --> 00:24:18,100
+在那個時間段
+And in those instances,
+
+456
+00:24:18,230 --> 00:24:21,100
+獨特的恆星活動似乎觸發了某些東西
+there's unique stellar activity that seems to trigger...
+
+457
+00:24:21,100 --> 00:24:22,000
+休眠
+Hibernation.
+
+458
+00:24:22,000 --> 00:24:22,890
+沒錯
+Yes.
+
+459
+00:24:22,890 --> 00:24:25,160
+我們認為戈恩人有著漫長的休眠週期
+We believe that the Gorn have a long hibernation cycle.
+
+460
+00:24:25,160 --> 00:24:27,340
+在適當的條件下 它們會變得溫順
+Under the right conditions, they become docile.
+
+461
+00:24:27,340 --> 00:24:28,180
+我們可以利用這一點
+We can use that.
+
+462
+00:24:28,180 --> 00:24:29,900
+我們的科學團隊協助了計算
+The science team chipped in on the math
+
+463
+00:24:29,900 --> 00:24:32,420
+成功識別出X級太陽耀斑及其伴隨的上弓下沉流
+and was able to isolate the presence of X-class flares
+
+464
+00:24:32,420 --> 00:24:34,730
+兩者在消失前均有明顯前兆
+and supra-arcade downflows that precede their absence.
+
+465
+00:24:37,250 --> 00:24:39,080
+做的好 你們倆
+Good work, both of you.
+
+466
+00:24:39,080 --> 00:24:40,820
+還有一點
+There's something else.
+
+467
+00:24:41,560 --> 00:24:43,200
+數據表明
+The data also suggests that
+
+468
+00:24:43,200 --> 00:24:47,260
+我們可能正處於戈恩人長期侵略行為的初期
+we could be at the beginning of a long cycle of Gorn aggression.
+
+469
+00:24:47,260 --> 00:24:49,580
+這些襲擊可能預示著
+These attacks could signal what
+
+470
+00:24:49,580 --> 00:24:52,570
+戈恩人即將發動全面入侵
+could soon be a full-scale Gorn invasion.
+
+471
+00:24:54,600 --> 00:24:57,360
+艦長 我們將在兩分鐘後脫離曲速
+Dropping out of warp in two minutes, sir.
+
+472
+00:24:57,360 --> 00:24:59,060
+謝謝你 米歇爾 我們這就來
+Thank you, Mitchell. On our way.
+
+473
+00:25:10,200 --> 00:25:12,060
+史波克和查普爾知道自己在做什麼
+Spock and Chapel know what they're doing.
+
+474
+00:25:13,120 --> 00:25:13,960
+我相信他們
+I trust them
+
+475
+00:25:13,960 --> 00:25:15,810
+會好好利用我的血液
+with a couple liters of my blood.
+
+476
+00:25:17,080 --> 00:25:19,120
+謝謝你
+Thank you for that.
+
+477
+00:25:19,250 --> 00:25:21,080
+他們說這可能是她唯一的機會
+They say it may be her only hope.
+
+478
+00:25:21,080 --> 00:25:23,620
+為了瑪麗 他們需要什麼我都願意提供
+For Marie, they can take all they want.
+
+479
+00:25:23,620 --> 00:25:25,200
+這次任務不留存記錄
+This mission's already off-the-record,
+
+480
+00:25:25,200 --> 00:25:26,780
+所以也沒什麼好報告的
+so nothing to report.
+
+481
+00:25:28,170 --> 00:25:29,650
+克里斯
+Chris,
+
+482
+00:25:29,780 --> 00:25:31,830
+聽一聽你自己的建議吧
+take some of your own advice.
+
+483
+00:25:32,000 --> 00:25:34,090
+要抱有希望
+Focus on hope.
+
+484
+00:25:39,050 --> 00:25:41,480
+伊勒利亞血液供給方案已完成
+Illyrian blood donor scenario completed.
+
+485
+00:25:41,480 --> 00:25:45,190
+死亡概率為86%
+Probability of fatality: 86%.
+
+486
+00:25:45,670 --> 00:25:47,700
+只有這個方案能讓她有一線生機
+That's the first one that's given her any chance at all.
+
+487
+00:25:47,700 --> 00:25:49,260
+雖然成功率也不高
+Albeit not a very high one.
+
+488
+00:25:49,260 --> 00:25:51,140
+按理說 不能在這種概率下進行手術
+I mean, we can't do the surgery with these odds.
+
+489
+00:25:52,400 --> 00:25:54,850
+但總算有所進展了 我們繼續努力
+We're on to something. Let's keep at it.
+
+490
+00:25:55,340 --> 00:25:56,480
+好的
+Indeed.
+
+491
+00:25:59,900 --> 00:26:01,730
+我們已接近輻射區
+We're near the radiation zone.
+
+492
+00:26:01,730 --> 00:26:03,990
+從現在起 只能使用脈衝引擎
+From here on, it's impulse engines only.
+
+493
+00:26:09,800 --> 00:26:11,480
+米歇爾 你連續工作很久了
+Mitchell, you've been running nonstop.
+
+494
+00:26:11,480 --> 00:26:12,580
+去換班吧
+Call for relief.
+
+495
+00:26:12,580 --> 00:26:14,570
+恕我直言 在把所有人都救回來前
+With respect, I'm not leaving the station
+
+496
+00:26:14,570 --> 00:26:16,220
+我絕不離開崗位
+until we get everyone back.
+
+497
+00:26:17,530 --> 00:26:18,750
+明白了
+Copy.
+
+498
+00:26:20,310 --> 00:26:21,580
+謝謝你
+Thank you.
+
+499
+00:26:26,670 --> 00:26:28,320
+我收到了沃凱礦的信號
+I have the wolkite signature.
+
+500
+00:26:28,320 --> 00:26:30,060
+即將接近敵方驅逐艦
+We're coming up on the enemy destroyer.
+
+501
+00:26:30,060 --> 00:26:31,200
+我們多久能追上他們
+How soon can we overtake them?
+
+502
+00:26:31,200 --> 00:26:32,460
+克里斯 我們可能來晚了
+Chris, we may be too late.
+
+503
+00:26:32,460 --> 00:26:33,890
+他們已經進入了輻射區
+They've already entered the radiation zone.
+
+504
+00:26:33,890 --> 00:26:35,840
+如果我們繼續深入當前星系
+If we go any deeper into this star system,
+
+505
+00:26:35,840 --> 00:26:37,300
+全體船員都將陷入危險
+we put the entire crew at risk.
+
+506
+00:26:37,300 --> 00:26:38,420
+舵手 立即停船
+Helm, full stop.
+
+507
+00:26:41,030 --> 00:26:43,080
+主屏幕切換為遠距離觀測畫面
+Put the long-range visual up on the main screen.
+
+508
+00:26:47,430 --> 00:26:49,250
+是我的錯覺 還是
+Is it me, or does it look like
+
+509
+00:26:49,250 --> 00:26:51,820
+那艘船確實正朝著恆星的方向行駛?
+that ship is going to fly right into that star?
+
+510
+00:26:53,180 --> 00:26:54,940
+我也看到了 簡直難以置信
+I see it, I don't believe it.
+
+511
+00:26:55,880 --> 00:26:57,390
+遙測數據已確認 艦長
+Telemetry confirms, Captain.
+
+512
+00:26:57,390 --> 00:26:58,620
+我們必須做點什麼
+We have to do something.
+
+513
+00:26:58,620 --> 00:26:59,340
+你看
+Look.
+
+514
+00:27:02,220 --> 00:27:03,700
+他們是失去動力了嗎
+Did they just lose power?
+
+515
+00:27:05,050 --> 00:27:06,010
+不是
+No.
+
+516
+00:27:07,230 --> 00:27:08,530
+我認為他們是故意的
+I think it was intentional.
+
+517
+00:27:08,530 --> 00:27:10,620
+但為什麼呢
+But why?
+
+518
+00:27:17,860 --> 00:27:19,500
+將全部備用能量傳輸至護盾
+All auxiliary power to the shields.
+
+519
+00:27:19,500 --> 00:27:22,080
+盡可能爭取在輻射區停留的時間
+Give me as much time as possible inside that radiation zone.
+
+520
+00:27:23,060 --> 00:27:24,380
+我們追上去
+We're going after 'em.
+
+521
+00:27:30,250 --> 00:27:32,650
+新一輪日冕物質拋射活動逼近
+We've got another CME flare coming.
+
+522
+00:27:39,500 --> 00:27:40,700
+她快不行了
+She's coding.
+
+523
+00:27:40,700 --> 00:27:41,900
+戈恩幼體正在孵化
+The Gorn hatchlings are activating.
+
+524
+00:27:42,460 --> 00:27:44,200
+有什麼東西加速了它們的生長
+Something has accelerated their growth.
+
+525
+00:27:44,200 --> 00:27:46,790
+14%的成功率總比注定的死亡要好
+A 14% chance of survival is better than certain death.
+
+526
+00:27:49,460 --> 00:27:50,980
+準備手術吧
+Let's prep her for surgery.
+
+527
+00:27:59,600 --> 00:28:01,380
+我還能接收到沃凱礦的信號
+I'm still getting a ping on the wolkite signal.
+
+528
+00:28:01,380 --> 00:28:03,940
+我們必須盡我們所能拯救我們的船員
+We need to get to our people while we still can.
+
+529
+00:28:04,020 --> 00:28:07,160
+這裡的磁場干擾讓導航系統無法運作
+The magnetic fields here make navigation impossible.
+
+530
+00:28:07,250 --> 00:28:09,600
+這就解釋了戈恩星艦為何會像失去動力一樣
+That explains why the Gorn go into a free fall.
+
+531
+00:28:09,600 --> 00:28:12,560
+他們利用了強重力井來完成大部分機動
+They let the intense gravity wells do most of the work.
+
+532
+00:28:12,690 --> 00:28:14,470
+星際艦隊方面沒有回覆
+No response from Starfleet.
+
+533
+00:28:14,470 --> 00:28:16,300
+都是因為這些輻射
+It's all the radiation.
+
+534
+00:28:16,300 --> 00:28:17,880
+無論是進取號還是雙星系統以外的區域
+And no visuals on the ship
+
+535
+00:28:17,880 --> 00:28:20,000
+都無法獲得影像反饋
+or what's beyond the binary stars.
+
+536
+00:28:20,000 --> 00:28:22,910
+這種光線折射方式會生成一種自然全息投影
+The light bends in a way that creates a natural hologram.
+
+537
+00:28:22,910 --> 00:28:25,060
+一旦穿過它 就無法被看到了
+They're essentially invisible once they pass through it.
+
+538
+00:28:25,310 --> 00:28:27,180
+形成了絕佳的防禦屏障
+Makes for a great defense system.
+
+539
+00:28:27,180 --> 00:28:29,010
+也許那是一種降落程序
+Maybe it's a landing sequence.
+
+540
+00:28:29,010 --> 00:28:30,700
+有沒有可能 戈恩母星就在這
+Could this be the Gorn homeworld?
+
+541
+00:28:31,710 --> 00:28:34,230
+如果假設成立 那這就是他們回母星的方法
+If it is, that's how they go back to it.
+
+542
+00:28:37,710 --> 00:28:38,600
+艦長
+Captain,
+
+543
+00:28:38,600 --> 00:28:39,900
+外面有情況
+something's moving out there.
+
+544
+00:28:39,900 --> 00:28:40,600
+屏顯
+On screen.
+
+545
+00:28:54,360 --> 00:28:55,490
+一號
+Number One.
+
+546
+00:29:04,170 --> 00:29:05,720
+我計算了他們的軌跡
+I've plotted their trajectory.
+
+547
+00:29:05,720 --> 00:29:07,830
+那些艦船正徑直駛向聯邦領空
+Those ships are headed straight for Federation territory.
+
+548
+00:29:07,830 --> 00:29:08,900
+警告星際艦隊
+Warn Starfleet.
+
+549
+00:29:08,900 --> 00:29:10,440
+只能使用深空通訊中繼聯絡
+It's a deep space relay.
+
+550
+00:29:10,440 --> 00:29:12,140
+我無法確實他們是否收到了訊息
+I won't be able to confirm if they receive it.
+
+551
+00:29:12,140 --> 00:29:13,280
+我們得走了
+We need to go.
+
+552
+00:29:13,280 --> 00:29:14,760
+離開該星系的干擾範圍
+Get clear of this system's interference.
+
+553
+00:29:14,760 --> 00:29:16,620
+艦長 如果我們現在失去沃凱礦的信號
+Captain, if we lose our lock on the wolkite signal,
+
+554
+00:29:16,620 --> 00:29:18,640
+我無法保證我們能再次進行追蹤
+I'm not sure we can reestablish contact.
+
+555
+00:29:18,640 --> 00:29:20,760
+我們會失去外勤小隊和殖民地居民
+We'll lose the landing party and the colonists.
+
+556
+00:29:23,450 --> 00:29:26,460
+我們可以放置一個遠程通信浮標
+We can drop a long-range communication buoy.
+
+557
+00:29:26,460 --> 00:29:27,980
+將信號連接到浮標上
+Tie a signal to it.
+
+558
+00:29:27,980 --> 00:29:29,700
+這樣我們回來時就能找到他們了
+That way we can come back for them.
+
+559
+00:29:30,630 --> 00:29:32,370
+這是我能想到的最好辦法了
+It's the best I've got.
+
+560
+00:29:33,200 --> 00:29:34,180
+就這麼做
+Do it.
+
+561
+00:29:35,400 --> 00:29:36,990
+我們必須阻止這場入侵
+We have to stop this invasion.
+
+562
+00:29:37,260 --> 00:29:38,820
+通信浮標已部署
+Communication buoy is deployed.
+
+563
+00:29:38,820 --> 00:29:40,600
+米歇爾 持續鎖定敵方艦隊
+Mitchell, stay on that enemy fleet.
+
+564
+00:29:40,600 --> 00:29:41,700
+調轉艦艏
+Bringing her about.
+
+565
+00:29:41,700 --> 00:29:43,560
+盡快曲速離開這裡
+As soon as we can, you warp out of here.
+
+566
+00:29:43,560 --> 00:29:45,780
+全速前進 直到我們能夠將警報發給星際艦隊
+Full throttle until we can alert Starfleet.
+
+567
+00:29:47,300 --> 00:29:49,360
+現在我們是聯邦唯一的指望了
+We're the only hope the Federation's got right now.
+
+568
+00:29:56,340 --> 00:30:03,040
+（* 此處查普爾和史波克穿的防護服與《原初系列》1x06 “The Naked Time” 中穿著的防護服是同一樣式）
+
+569
+00:29:57,460 --> 00:29:59,260
+計算機 啟動隔離模式
+Computer, engage quarantine mode.
+
+570
+00:30:00,300 --> 00:30:02,320
+隔離模式已啟動
+Quarantine mode engaged.
+
+571
+00:30:16,980 --> 00:30:20,160
+如果失敗的話 這就是法雷奧貝塔*的悲劇重演
+If this goes sideways, it's, it's Valeo Beta all over again.
+
+572
+00:30:16,980 --> 00:30:20,160
+（* 見《奇異新世界》1x09 聯邦星艦遊隼號上爆發戈恩寄生疫情 墜毀在法雷奧貝塔五星）
+
+573
+00:30:20,290 --> 00:30:22,640
+戈恩卵疫情在全艦爆發的可能性將會是
+The probability of a full-scale Gorn outbreak...
+
+574
+00:30:22,730 --> 00:30:24,690
+我真的不想知道
+I really don't want to know.
+
+575
+00:30:30,080 --> 00:30:33,650
+查普爾護士 聯邦星艦進取號
+Nurse Chapel, USS Enterprise...
+
+576
+00:30:35,220 --> 00:30:37,350
+向患者巴特爾注射
+...injecting Patient Batel
+
+577
+00:30:37,350 --> 00:30:40,090
+實驗性血漿溶液
+with experimental plasma solution.
+
+578
+00:30:46,040 --> 00:30:47,320
+有進展嗎 少尉
+Anything, Ensign?
+
+579
+00:30:47,320 --> 00:30:48,160
+通訊仍受阻礙 艦長
+Still jammed, sir.
+
+580
+00:30:48,540 --> 00:30:50,660
+戈恩人正在發送干擾信號
+The Gorn are transmitting an interference signal.
+
+581
+00:30:52,200 --> 00:30:55,070
+距我們離開雙星系統進入曲速還有多久
+How long before we clear these binary stars and go to warp?
+
+582
+00:30:55,070 --> 00:30:56,200
+時間不夠
+Not soon enough.
+
+583
+00:30:56,200 --> 00:30:58,590
+戈恩星艦的航速比我們快得多
+Those Gorn ships are moving a lot faster than we are.
+
+584
+00:30:58,590 --> 00:30:59,600
+等警告發出
+By the time we get a signal out,
+
+585
+00:30:59,600 --> 00:31:01,860
+戈恩艦隊已經到達聯邦外圍成員國的位置了
+the Gorn will be right on top of the outer Federation worlds.
+
+586
+00:31:02,100 --> 00:31:03,940
+他們只能坐以待斃
+They're sitting ducks.
+
+587
+00:31:03,940 --> 00:31:06,120
+米歇爾 我們在戈恩艦隊的武器射程內嗎
+Mitchell, are we in shooting distance of the Gorn?
+
+588
+00:31:06,120 --> 00:31:07,320
+克里斯
+Chris,
+
+589
+00:31:07,320 --> 00:31:10,040
+你要讓進取號對陣整個戈恩艦隊嗎
+Enterprise against an entire armada?
+
+590
+00:31:11,360 --> 00:31:12,700
+我們根本不是對手
+We wouldn't stand a chance.
+
+591
+00:31:23,560 --> 00:31:25,280
+派克呼叫科學實驗室
+Pike to science lab.
+
+592
+00:31:26,640 --> 00:31:28,180
+佩利亞 我需要你到艦橋來
+Pelia, I need you on the bridge.
+
+593
+00:31:28,180 --> 00:31:30,620
+好的 艦長 馬上來
+Aye, Captain, right away.
+
+594
+00:31:31,060 --> 00:31:32,020
+你打算做什麼
+What are you up to?
+
+595
+00:31:33,500 --> 00:31:35,670
+你和烏乎拉
+You and Uhura,
+
+596
+00:31:35,800 --> 00:31:37,630
+你們之前說恆星耀斑決定了
+you said stellar flares can dictate
+
+597
+00:31:37,760 --> 00:31:40,280
+戈恩人的狩獵和休眠週期
+a Gorn's hunting and resting cycles.
+
+598
+00:31:40,460 --> 00:31:41,860
+確實如此
+Right.
+
+599
+00:31:41,860 --> 00:31:43,770
+我們甚至知道哪種輻射信號
+We even know precisely what kind of radiation signature
+
+600
+00:31:43,770 --> 00:31:45,500
+可以讓戈恩人陷入休眠
+would tell the Gorn to go to sleep.
+
+601
+00:31:45,500 --> 00:31:48,560
+艦長 這只是理論上的
+Um, sir, that's just a theory.
+
+602
+00:31:49,940 --> 00:31:51,070
+所以
+So...
+
+603
+00:31:52,100 --> 00:31:54,390
+我們只需要人為製造一場恆星耀斑爆發
+...we just need to create a stellar flare.
+
+604
+00:31:54,390 --> 00:31:56,020
+抱歉打斷您 艦長
+Oh, forgive me for interrupting,
+
+605
+00:31:56,020 --> 00:31:57,870
+但我們基本沒辦法對恆星造成什麼影響
+but you cannot make a star do much of anything.
+
+606
+00:31:58,000 --> 00:31:59,800
+更別說是精確控制耀斑爆發了
+Certainly not precisely, Captain.
+
+607
+00:31:59,800 --> 00:32:01,580
+所以我們需要自己成為一次日冕物質拋射
+Which is why we need to become a CME, uh,
+
+608
+00:32:02,090 --> 00:32:03,390
+也就是X級耀斑
+X-flare ourselves.
+
+609
+00:32:05,270 --> 00:32:06,240
+艦長 你看
+Captain, look.
+
+610
+00:32:06,240 --> 00:32:07,480
+抱歉 你介意騰位置嗎
+Uh, sorry, do you mind?
+
+611
+00:32:07,960 --> 00:32:09,300
+嗯是 用星艦來操作
+Eh, sure, using the ship
+
+612
+00:32:09,300 --> 00:32:12,500
+的確能讓我們精準調控發射的輻射和電磁信號
+would allow us to modulate the exact radiation and EM signals we'd emit.
+
+613
+00:32:12,500 --> 00:32:14,410
+但你說的基本上就是
+But you're basically talking about
+
+614
+00:32:14,410 --> 00:32:16,280
+把整艘船變成一顆人造恆星
+turning the ship into an artificial star.
+
+615
+00:32:16,280 --> 00:32:17,710
+這基本上是不可能的
+That's-that's nearly impossible.
+
+616
+00:32:17,710 --> 00:32:19,180
+但並非完全不可能
+But not impossible.
+
+617
+00:32:20,060 --> 00:32:21,340
+為了達到這個目的 我們必須深入到
+To do that, we'd have to go deeper
+
+618
+00:32:21,340 --> 00:32:23,180
+這個致死的輻射區裡
+into this deadly radiation zone,
+
+619
+00:32:23,660 --> 00:32:25,940
+徑直飛過外面那對雙星之間
+fly right between those binary stars out there,
+
+620
+00:32:25,940 --> 00:32:29,120
+想辦法製造一個對抗磁場
+and create some kind of competing magnetic field
+
+621
+00:32:29,250 --> 00:32:31,470
+將粒子從雙星中引開
+to draw particles away from both of them.
+
+622
+00:32:31,600 --> 00:32:34,820
+需要調整偏導護盾 通訊陣列 還有
+Modify the deflector shields, comms array, and, well...
+
+623
+00:32:34,900 --> 00:32:36,860
+基本上系統都得重改一遍
+every-everything else, really.
+
+624
+00:32:36,990 --> 00:32:39,650
+連艦體都要磁化 才能吸引恆星物質
+Magnetize the hull to attract stellar material.
+
+625
+00:32:39,820 --> 00:32:41,650
+成功的機率是千分之一
+It's one in a thousand we'd get it done right
+
+626
+00:32:41,650 --> 00:32:43,960
+要麼能完成任務要麼炸飛自己 看吧
+or don't blow ourselves up along the way, and, look.
+
+627
+00:32:47,960 --> 00:32:50,050
+我也不確定 但我願意賭一把
+Yeah, I don't know. I like those odds.
+
+628
+00:32:50,880 --> 00:32:53,140
+我們就
+We'll just...
+
+629
+00:32:53,140 --> 00:32:55,100
+在爆炸前把它關閉
+...turn it off before we blow up.
+
+630
+00:32:59,800 --> 00:33:01,190
+就這麼辦
+Get it done.
+
+631
+00:33:01,800 --> 00:33:04,580
+患者對輸血反應良好
+Patient is responding favorably to the transfusion.
+
+632
+00:33:05,640 --> 00:33:07,460
+準備進行第一次手術切口
+Ready to make the first incision.
+
+633
+00:33:41,360 --> 00:33:42,660
+等一下
+Wait.
+
+634
+00:33:46,850 --> 00:33:50,070
+你知道最壞的情況是巴特爾艦長會殉職
+You know the most likely outcome is the death of Captain Batel?
+
+635
+00:33:50,070 --> 00:33:52,760
+我們只是需要一點信心
+We just have to have a little faith.
+
+636
+00:33:52,760 --> 00:33:55,550
+或許我們是從錯誤的角度來看待這件事的
+Perhaps we are looking at this from the wrong perspective.
+
+637
+00:33:56,440 --> 00:33:58,120
+與其在治療巴特爾上花時間
+Instead of operating on Batel,
+
+638
+00:33:58,580 --> 00:34:00,250
+要是我們試著去對付一下戈恩人呢
+what if we treated the Gorn inside of her?
+
+639
+00:34:01,180 --> 00:34:02,400
+它們想要孵化出來覓食
+We know they emerge to feed.
+
+640
+00:34:02,400 --> 00:34:03,620
+要是我們給它們餵食呢
+What if we feed them?
+
+641
+00:34:05,000 --> 00:34:08,350
+把它們餵飽 防止它們孵化
+Satiate them to keep them from coming out.
+
+642
+00:34:09,520 --> 00:34:11,580
+當他們不再處於攻擊狀態時 把它們幹掉
+And when they are no longer in defensive mode, dissolve them.
+
+643
+00:34:11,580 --> 00:34:13,570
+並用烏娜的伊勒利亞血漿
+And use Una's Illyrian plasma
+
+644
+00:34:13,570 --> 00:34:15,440
+來對抗他們在重新吸收過程中
+to fight the multitude of infections that will result
+
+645
+00:34:15,440 --> 00:34:16,720
+產生的大量感染
+from their reabsorption.
+
+646
+00:34:16,720 --> 00:34:17,420
+沒錯
+Yes.
+
+647
+00:34:19,360 --> 00:34:21,840
+但我們沒有時間再去模擬一次了
+But we don't have enough time to run another simulation.
+
+648
+00:34:22,520 --> 00:34:23,560
+就像你剛才提議的那樣
+As you suggested,
+
+649
+00:34:23,560 --> 00:34:24,940
+也許我們只是需要一點信心
+perhaps we just need a little faith.
+
+650
+00:34:45,300 --> 00:34:47,470
+我們甩掉他們了嗎
+Did we lose them?
+
+651
+00:34:47,470 --> 00:34:49,140
+或許吧
+Maybe,
+
+652
+00:34:49,140 --> 00:34:51,120
+即便甩掉了 也是暫時的
+but if so, then not for long.
+
+653
+00:34:53,130 --> 00:34:54,660
+這是個接口
+This is an interface.
+
+654
+00:34:55,480 --> 00:34:56,920
+在戈恩的繁殖星球上
+They had them on the Gorn...
+
+655
+00:34:56,920 --> 00:34:58,360
+也有這樣的裝置
+the Gorn breeding planet.
+
+656
+00:35:00,840 --> 00:35:02,740
+我哥哥馬努 他
+My brother Manu, he...
+
+657
+00:35:05,320 --> 00:35:06,840
+別害怕
+Don't be afraid.
+
+658
+00:35:07,340 --> 00:35:08,980
+無論如何 別停下來
+Keep moving, no matter what.
+
+659
+00:35:08,980 --> 00:35:09,740
+嘿
+Hey.
+
+660
+00:35:14,300 --> 00:35:15,800
+嘿
+Hey.
+
+661
+00:35:17,200 --> 00:35:18,590
+你還好嗎
+Are you okay?
+
+662
+00:35:20,680 --> 00:35:23,940
+你現在在這裡 而不是在過去的那個地方
+You're here now, not back there.
+
+663
+00:35:24,990 --> 00:35:27,380
+是啊 但這裡也沒好到哪去 不是嗎
+Yeah, but here's not great either, is it?
+
+664
+00:35:28,380 --> 00:35:30,380
+是啊 確實很糟糕
+No, I suppose not.
+
+665
+00:35:36,240 --> 00:35:38,460
+我有印象了 讓我試試看
+I remember. Let me try something.
+
+666
+00:36:01,320 --> 00:36:02,800
+太神奇了
+This is amazing.
+
+667
+00:36:03,060 --> 00:36:05,440
+我很想把這個拆開 弄明白它是怎麼運作的
+I'd love to take this apart, figure out how it works.
+
+668
+00:36:05,440 --> 00:36:06,480
+真是好主意
+Yeah, good idea.
+
+669
+00:36:06,480 --> 00:36:07,640
+在這待上一天慢慢研究吧
+Let's make a whole day of it.
+
+670
+00:36:07,640 --> 00:36:09,340
+吃點零食 在這閒逛
+Get snacks, hang out.
+
+671
+00:36:10,220 --> 00:36:12,640
+那些看起來像是緩衝信號
+Those look like buffer signatures.
+
+672
+00:36:12,640 --> 00:36:16,040
+是的 還有傳送授權碼
+They are. And the transport codes.
+
+673
+00:36:17,260 --> 00:36:19,170
+如果我們能把這個送回進取號
+If we can get this to the Enterprise,
+
+674
+00:36:19,170 --> 00:36:20,860
+就能救走殖民地的居民
+then we can save the colonists.
+
+675
+00:36:22,480 --> 00:36:23,700
+拯救所有人
+All of them.
+
+676
+00:36:25,660 --> 00:36:27,270
+大伙們
+Guys...
+
+677
+00:36:55,250 --> 00:36:56,910
+快去船上
+Get to the ship!
+
+678
+00:37:37,640 --> 00:37:38,580
+我們就位了
+We are in position,
+
+679
+00:37:38,580 --> 00:37:40,200
+正在接近雙星
+approaching the binary stars.
+
+680
+00:37:40,960 --> 00:37:43,240
+當我們關閉電磁脈衝發生器的瞬間
+The moment we shut down the EM emitter,
+
+681
+00:37:43,240 --> 00:37:46,220
+每一艘戈恩星艦都會直奔我們而來
+every single Gorn ship is going to come at us.
+
+682
+00:37:46,220 --> 00:37:47,690
+就像飛蛾撲火一樣
+Like moths to a flame.
+
+683
+00:37:47,690 --> 00:37:49,090
+這也正是我們想要的效果
+Which is exactly what we want.
+
+684
+00:37:52,060 --> 00:37:52,960
+大家準備好了嗎
+Everybody ready?
+
+685
+00:38:00,530 --> 00:38:02,100
+像太陽一般閃耀吧
+Make us shine like the sun.
+
+686
+00:38:32,300 --> 00:38:33,570
+駕駛位
+The pilot seat.
+
+687
+00:38:33,700 --> 00:38:35,130
+讓我坐駕駛位
+Put me in the pilot seat.
+
+688
+00:38:35,260 --> 00:38:36,220
+我來駕駛它
+Put me in the pilot seat!
+
+689
+00:38:36,400 --> 00:38:37,570
+別逞強了
+Forget about it!
+
+690
+00:38:37,660 --> 00:38:39,750
+我能讓它飛起來 這非我不可
+I can fly it. It has to be me.
+
+691
+00:38:39,880 --> 00:38:41,050
+她說得對 我們必須得離開這
+She's right. We need to go.
+
+692
+00:39:54,660 --> 00:39:56,520
+我們完全暴露在β粒子和伽馬射線中了
+We're covered in beta particles and gamma rays.
+
+693
+00:39:56,520 --> 00:39:58,880
+星艦正在承受著臨界水平的輻射
+This ship is hitting critical levels of radiation!
+
+694
+00:39:59,240 --> 00:40:00,020
+戈恩人在做什麼
+What are the Gorn doing?
+
+695
+00:40:00,020 --> 00:40:00,960
+他們已經脫離編隊
+They have broken ranks,
+
+696
+00:40:00,960 --> 00:40:03,050
+目前正處於進取號的攔截航線上
+currently on intercept course with Enterprise.
+
+697
+00:40:03,050 --> 00:40:04,480
+目前看起來一切順利
+All right, so far, so good.
+
+698
+00:40:04,480 --> 00:40:05,350
+現在看看它們會不會向我們開火
+Now let's see if they shoot at us.
+
+699
+00:40:08,750 --> 00:40:11,100
+艦長 我收到了一個
+Captain, I have a signal bouncing off
+
+700
+00:40:11,190 --> 00:40:12,490
+通訊信標反射的信號
+the communications beacon.
+
+701
+00:40:13,620 --> 00:40:14,490
+是拉安 長官
+It's La'An, sir.
+
+702
+00:40:16,450 --> 00:40:18,420
+進取號 能收到嗎
+Enterprise, are you there?
+
+703
+00:40:18,420 --> 00:40:19,320
+拉安 你在哪
+La'An, where are you?
+
+704
+00:40:19,320 --> 00:40:20,590
+在路上 如果能收到信號的話
+On our way. If you can read me,
+
+705
+00:40:20,590 --> 00:40:22,200
+注意接收我向你們發送的傳送密碼
+I'm sending you transport codes.
+
+706
+00:40:22,200 --> 00:40:23,760
+把帕納索斯人傳送出去
+Beam the Parnassians out.
+
+707
+00:40:24,770 --> 00:40:25,740
+我們正在嘗試傳送
+We're trying to beam you out,
+
+708
+00:40:25,740 --> 00:40:26,940
+但我們難以鎖定你們
+but we're having trouble getting a lock.
+
+709
+00:40:27,120 --> 00:40:28,060
+你們收到了嗎
+Do you copy?
+
+710
+00:40:29,620 --> 00:40:30,720
+它們正衝着我們來
+They're gaining on us!
+
+711
+00:40:30,720 --> 00:40:32,080
+進取號 你們是否收到
+Enterprise, do you read me?
+
+712
+00:40:32,080 --> 00:40:33,210
+把帕納索斯人傳送回艦
+Beam the Parnassians out.
+
+713
+00:40:55,580 --> 00:40:58,150
+艦長 艦體完整性即將逼近極限
+Captain, hull integrity is approaching critical failure!
+
+714
+00:41:10,900 --> 00:41:13,160
+把它關掉 關掉它
+Turn it off. Turn it off!
+
+715
+00:41:21,780 --> 00:41:22,980
+起作用了嗎
+Did it work?
+
+716
+00:41:24,350 --> 00:41:26,390
+沒錯 艦長 最後一艘戈恩船只已返回母星
+Aye, sir, the last of the Gorn have gone home.
+
+717
+00:41:27,060 --> 00:41:28,540
+帕納索斯人呢
+What about the Parnassians?
+
+718
+00:41:28,540 --> 00:41:29,740
+我們及時把他們傳回來了嗎
+Did we get them out in time?
+
+719
+00:41:29,740 --> 00:41:31,380
+是的 艦長
+Yes, Captain.
+
+720
+00:41:31,380 --> 00:41:33,180
+拉安的傳送密碼生效了
+The transport codes from La'An worked.
+
+721
+00:41:33,620 --> 00:41:35,320
+幾百名殖民地居民已經被救回
+Several hundred colonists accounted for
+
+722
+00:41:35,320 --> 00:41:37,190
+正在送往應急醫務室
+and headed for the overflow infirmary.
+
+723
+00:41:38,440 --> 00:41:40,180
+艦長 我們急需--
+Captain, we need immediate as--
+
+724
+00:41:40,180 --> 00:41:42,580
+將我們傳送上艦並讓一個醫療小組待命
+Beam us out and have a medical team standing by.
+
+725
+00:41:44,640 --> 00:41:46,140
+派克呼叫輪機部
+Pike to Engineering?
+
+726
+00:41:46,140 --> 00:41:48,110
+是 艦長 我們正在使用傳送碼
+Aye, Captain, we're using the transport codes
+
+727
+00:41:48,110 --> 00:41:49,860
+破解戈恩狩獵艦的系統
+to hack into the Gorn hunter,
+
+728
+00:41:49,860 --> 00:41:51,180
+應該很快就能搞定
+should be just a moment.
+
+729
+00:41:52,640 --> 00:41:54,940
+克里斯 我們做到了
+Chris. Chris, we did it.
+
+730
+00:41:55,730 --> 00:41:57,600
+我們引起了戈恩人的長時休眠
+We triggered a long hibernation in the Gorn.
+
+731
+00:41:57,600 --> 00:41:58,990
+是啊
+Yeah...
+
+732
+00:41:59,700 --> 00:42:00,880
+但我忍不住在想
+But I can't help wondering
+
+733
+00:42:00,880 --> 00:42:03,430
+我們會不會只是把麻煩推給了未來的人們
+if we didn't just create a problem for someone else to solve later.
+
+734
+00:42:05,040 --> 00:42:08,650
+艦長 我收到了艾普里爾上將的加密呼叫
+Captain. I'm getting a secure channel from Admiral April.
+
+735
+00:42:08,650 --> 00:42:09,830
+接通
+Put him through.
+
+736
+00:42:11,740 --> 00:42:14,350
+克里斯 我們剛收到你的優先級訊息
+Chris. We just got your priority message.
+
+737
+00:42:14,350 --> 00:42:16,380
+在戈恩艦隊到這之前我們還有多少時間
+How much time do we have before the Gorn ships get here?
+
+738
+00:42:16,380 --> 00:42:17,830
+請忽略最後一條訊息
+Ignore last transmission.
+
+739
+00:42:17,830 --> 00:42:19,820
+至少在一段時間內我們見不著戈恩人
+We won't be seeing the Gorn, at least not for a while.
+
+740
+00:42:20,060 --> 00:42:21,140
+你有幾分把握
+How certain are you?
+
+741
+00:42:21,820 --> 00:42:23,720
+怎麼說呢 我已經對戈恩人還以顏色了
+Let's just say I found a way to punch back.
+
+742
+00:42:35,590 --> 00:42:39,250
+保持清醒 別暈過去
+Stay with me. Stay with me.
+
+743
+00:42:42,800 --> 00:42:44,560
+我做的很棒
+I did good.
+
+744
+00:42:44,690 --> 00:42:45,730
+不是嗎
+Didn't I?
+
+745
+00:42:46,200 --> 00:42:49,650
+別說話了 你能撐住的
+Stop. You're going to make it.
+
+746
+00:42:52,580 --> 00:42:54,350
+想幹掉我 他們還不夠格
+They'll have to try harder than that.
+
+747
+00:42:56,390 --> 00:42:59,270
+我可是艾麗卡·奧特加斯
+I'm Erica Ortegas.
+
+748
+00:42:59,270 --> 00:43:00,960
+無敵舵手
+I fly the ship.
+
+749
+00:43:01,160 --> 00:43:02,700
+撐住 有我在呢
+Hold on. I got you.
+
+750
+00:43:17,940 --> 00:43:19,640
+我們盡力了
+We did all we could.
+
+751
+00:43:20,640 --> 00:43:22,640
+現在要看巴特爾艦長自己了
+It's in Captain Batel's hands now.
+
+752
+00:43:23,470 --> 00:43:24,730
+的確
+Indeed.
+
+753
+00:43:31,520 --> 00:43:32,820
+謝謝你
+Thank you.
+
+754
+00:43:33,820 --> 00:43:36,090
+沒有你的話 我沒法做到這一切
+I couldn't have done that without you.
+
+755
+00:43:36,460 --> 00:43:37,500
+不用謝
+You're welcome.
+
+756
+00:43:52,970 --> 00:43:54,670
+她怎麼樣了
+How is she?
+
+757
+00:43:54,670 --> 00:43:56,450
+她在實驗室裡 仍在恢復中
+She's in the lab, still in recovery.
+
+758
+00:44:10,250 --> 00:44:11,840
+外勤隊已經救回
+Landing Party accounted for and
+
+759
+00:44:11,840 --> 00:44:13,420
+正在應急醫務室中接受治療
+getting treatment in the overflow infirmary.
+
+760
+00:44:13,600 --> 00:44:15,130
+艾麗卡傷得很重
+Erica is critical...
+
+761
+00:44:15,300 --> 00:44:16,950
+但目前穩定
+but stable.
+
+762
+00:44:17,080 --> 00:44:19,000
+謝謝你的通知
+Thanks for the update.
+
+763
+00:44:19,130 --> 00:44:21,660
+一旦我們離開輻射區域
+Once we clear the radiation bands,
+
+764
+00:44:21,660 --> 00:44:22,790
+就設定航線回地球 曲速回家
+chart a course for Earth. Warp us home.
+
+765
+00:44:22,870 --> 00:44:25,440
+遵命 一號完畢
+Of course. Number One out.
+
+766
+00:44:55,560 --> 00:44:56,780
+好吧
+Okay.
+
+767
+00:44:57,820 --> 00:44:59,130
+好吧 主
+Okay, Dad.
+
+768
+00:45:00,330 --> 00:45:01,500
+你贏了
+You win.
+
+769
+00:45:09,360 --> 00:45:11,970
+我們
+Our Father,
+
+770
+00:45:11,970 --> 00:45:13,360
+在天上的主
+who art in heaven...
+
+771
+00:45:13,360 --> 00:45:14,660
+克里斯
+Chris?
+
+772
+00:45:16,320 --> 00:45:17,930
+你醒了
+You're awake.
+
+773
+00:45:18,780 --> 00:45:21,100
+是啊 我想這意味著
+Yeah. Which I assume means
+
+774
+00:45:21,100 --> 00:45:24,000
+那些小戈恩們還沒破肚而出
+that tiny Gorn didn't pop out of my body
+
+775
+00:45:24,000 --> 00:45:25,720
+殺了大家呢
+and kill everybody.
+
+776
+00:45:25,720 --> 00:45:26,960
+不
+No.
+
+777
+00:45:27,520 --> 00:45:30,980
+當然沒有 我們都好好的呢
+No, no, no. We're still here.
+
+778
+00:45:30,980 --> 00:45:32,780
+史波克和查普爾想出了治療方案
+Spock and Chapel came up with a treatment, uh...
+
+779
+00:45:33,940 --> 00:45:35,950
+我後面會讓他們解釋給你聽
+I'll have them walk you through it later, but...
+
+780
+00:45:37,380 --> 00:45:39,300
+但你還沒有完全脫離危險
+...you're still not out of the woods yet.
+
+781
+00:45:40,470 --> 00:45:41,730
+怎麼做到的
+How?
+
+782
+00:45:43,740 --> 00:45:45,000
+烏娜幫的忙
+Una helped.
+
+783
+00:45:47,000 --> 00:45:48,610
+克里斯 你就不應該那麼做
+Chris, you shouldn't have done that.
+
+784
+00:45:48,610 --> 00:45:51,690
+瑪麗 我已經失去了太多 好嗎
+Marie, I've already lost too much, all right?
+
+785
+00:45:51,690 --> 00:45:54,010
+所以我們可以繼續爭
+So we can sit here and we can argue about
+
+786
+00:45:54,010 --> 00:45:55,970
+爭論未來會不會發生什麼
+what might or might not happen in the future,
+
+787
+00:45:55,970 --> 00:45:58,060
+但能不能把那些都放一邊 讓我抱著你
+or you can just set all that aside and let me hold you.
+
+788
+00:46:03,630 --> 00:46:05,890
+我真的不能再失去你
+I really don't want to lose you.
+
+789
+00:46:13,500 --> 00:46:15,510
+沒事了
+I'm still here.
+
+790
+00:46:18,340 --> 00:46:20,120
+我還在呢
+I'm still here.
+
