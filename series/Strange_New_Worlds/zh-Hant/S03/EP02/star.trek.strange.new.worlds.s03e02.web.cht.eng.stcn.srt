@@ -105,7 +105,7 @@ After a three-month billet at Starbase One,
 20
 00:01:11,200 --> 00:01:13,400
 我們與戈恩人交戰造成的損傷
-the battle scars of our encounter 科爾比
+the battle scars of our encounter
 
 21
 00:01:13,400 --> 00:01:14,560
@@ -2708,7 +2708,7 @@ Perhaps you should join them.
 543
 00:28:42,020 --> 00:28:43,420
 你看起來有點呆
-Are you sleeping?
+You do look a little dull.
 
 544
 00:28:43,420 --> 00:28:44,260
