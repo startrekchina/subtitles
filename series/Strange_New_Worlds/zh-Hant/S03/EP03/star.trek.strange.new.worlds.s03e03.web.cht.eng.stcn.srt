@@ -1,0 +1,4047 @@
+﻿0
+00:00:00,000 --> 00:00:00,000
+製作: 星際迷航中國字幕組 (https://www.startrekchina.org)
+翻譯: 在爬牆的鬍子 & NCC1015 & EnterpriseH & 舟行萬里1234 & Bruce & 凌塔
+校對: narwhrl
+時軸: narwhrl
+特效: narwhrl
+日期: 2025-07-28
+
+1
+00:00:21,238 --> 00:00:23,806
+《星際迷航: 新世界》前情提要
+Previously on Star Trek: Strange New Worlds...
+
+2
+00:00:23,806 --> 00:00:24,937
+艾麗卡傷勢嚴重 但傷情穩定了
+Erica is critical, but stable.
+
+3
+00:00:28,060 --> 00:00:29,440
+我到現在都覺得像是在做夢
+Still doesn't feel totally real.
+
+4
+00:00:29,440 --> 00:00:30,240
+我本該死了的
+I should be dead.
+
+5
+00:00:30,240 --> 00:00:31,360
+我還活著只是僥天之幸
+I'm on borrowed time.
+
+6
+00:00:31,360 --> 00:00:32,760
+我還沒準備好和你分別
+I'm not ready to let you go.
+
+7
+00:00:33,240 --> 00:00:34,840
+達克'拉赫將軍
+General Dak'Rah.
+
+8
+00:00:34,840 --> 00:00:37,280
+我知道你和查普爾都曾駐紮在加戈爾上
+I know you and Chapel were both stationed on J'Gal, 
+
+9
+00:00:37,280 --> 00:00:39,561
+拉赫就是在那裡成名的
+where Rah earned his reputation.
+
+10
+00:00:41,911 --> 00:00:44,800
+姆'本加 我來這裡是為了給你提供療癒
+M'Benga, I'm here to provide healing.
+
+11
+00:00:44,800 --> 00:00:46,920
+把你的手從我身上拿開
+Get your hands off me! Don't!
+
+12
+00:00:46,920 --> 00:00:48,340
+不是我先動手的
+I didn't start the fight.
+
+13
+00:00:48,340 --> 00:00:49,860
+但我很高興他死了
+But I'm glad he's dead.
+
+14
+00:01:00,364 --> 00:01:01,600
+艦長個人日誌
+Captain's personal log,
+
+15
+00:01:01,600 --> 00:01:04,020
+星曆2449.1
+stardate 2449.1.
+
+16
+00:01:04,020 --> 00:01:06,631
+進取號要去完成一個常規掃描任務
+Enterprise has embarked on a routine scanning mission,
+
+17
+00:01:06,631 --> 00:01:08,242
+這給了我和瑪麗一些額外的相處時間
+giving Marie and me some time
+
+18
+00:01:08,242 --> 00:01:09,895
+她很快就要去
+to enjoy our last few days together
+
+19
+00:01:09,895 --> 00:01:11,320
+新的船上任職了
+before her new commission.
+
+20
+00:01:12,200 --> 00:01:14,460
+我才剛習慣她的裝飾風格
+I was just getting used to her decorating choices,
+
+21
+00:01:14,460 --> 00:01:16,860
+但一位艦長終歸是屬於她自己的船的
+but a captain belongs on her own ship.
+
+22
+00:01:24,980 --> 00:01:26,711
+我們原本以為
+We had every reason to believe
+
+23
+00:01:26,711 --> 00:01:29,240
+那些難以捉摸的戈恩組織已完全萎縮
+the evasive Gorn tissue was in full remission.
+
+24
+00:01:30,500 --> 00:01:32,680
+但不幸的是 它們復發了
+But, unfortunately, it's returned.
+
+25
+00:01:33,280 --> 00:01:34,380
+而且呈現出高度侵襲性
+And it's aggressive.
+
+26
+00:01:34,380 --> 00:01:36,540
+但是情況也不是完全無望
+And yet, hope is not lost.
+
+27
+00:01:38,098 --> 00:01:39,664
+奇美拉之花
+The Chimera Blossom.
+
+28
+00:01:39,664 --> 00:01:40,500
+一個珍稀品種
+A rare specimen, 
+
+29
+00:01:40,500 --> 00:01:42,340
+因其獨特的生物特性而備受追捧
+long sought-after for its biological uniqueness.
+
+30
+00:01:42,820 --> 00:01:44,760
+這種花 可以治好她嗎
+This flower-- it can help her?
+
+31
+00:01:44,760 --> 00:01:46,193
+希望渺茫 克里斯
+It's a long shot, Chris.
+
+32
+00:01:46,193 --> 00:01:47,140
+但據傳
+But it is rumored
+
+33
+00:01:47,140 --> 00:01:49,140
+其中含有一種特殊化合物
+to contain a chemical compound
+
+34
+00:01:49,140 --> 00:01:50,940
+這種化合物普遍擁有
+that is universal in its ability
+
+35
+00:01:50,940 --> 00:01:54,960
+協助入侵分子穿透細胞膜的能力
+to move invasive molecules through cell membranes.
+
+36
+00:01:54,960 --> 00:01:57,720
+也許能遏制惡性腫瘤
+Could stop the malignancy.
+
+37
+00:01:57,720 --> 00:01:58,580
+爭取治療的時間
+Buying us time.
+
+38
+00:01:58,580 --> 00:02:00,120
+為什麼我嗅到了弦外之音
+Why am I sensing a caveat?
+
+39
+00:02:00,120 --> 00:02:02,780
+正如史波克所說 它很稀有
+Well, like Spock said, it's rare.
+
+40
+00:02:02,780 --> 00:02:05,420
+我們已經找到了一處
+And we've tracked down the one place
+
+41
+00:02:05,420 --> 00:02:08,215
+有可能長有奇美拉之花的地方
+the Chimera is likely to be found.
+
+42
+00:02:08,215 --> 00:02:10,040
+在一個叫肯佛瑞的星球
+It's a planet called Kenfori.
+
+43
+00:02:10,040 --> 00:02:11,180
+肯佛瑞?
+Kenfori?
+
+44
+00:02:11,180 --> 00:02:13,080
+那整個星系都禁止通航
+That whole system is a no-fly zone.
+
+45
+00:02:13,080 --> 00:02:14,351
+是啊 確實
+Yeah, that's true.
+
+46
+00:02:14,351 --> 00:02:16,340
+但是那裡原先有一個
+But it was once the location
+
+47
+00:02:16,340 --> 00:02:17,963
+星聯的科研設施
+of a Federation research facility,
+
+48
+00:02:17,963 --> 00:02:19,878
+主要致力於新興地區農業研究
+focused mainly on frontier farming,
+
+49
+00:02:19,878 --> 00:02:21,315
+特別是作物長效培育技術
+specifically crop longevity.
+
+50
+00:02:21,315 --> 00:02:23,839
+後來在戰爭初期 那裡被克林貢占領了
+The Klingons invaded at the start of the war
+
+51
+00:02:23,839 --> 00:02:25,600
+我們的所有權有了爭議
+and our claim fell into dispute.
+
+52
+00:02:25,600 --> 00:02:29,260
+戰爭結束之後 雙方都同意放棄爭奪此地
+After the war ended, both sides agreed to give it up.
+
+53
+00:02:29,260 --> 00:02:31,060
+所以這不僅是個禁航區域
+So it's not just a no-fly zone.
+
+54
+00:02:31,060 --> 00:02:32,520
+還是個限制區域
+It's the restricted zone.
+
+55
+00:02:34,110 --> 00:02:35,420
+我們去那裡的話
+We can't go anywhere near it
+
+56
+00:02:35,420 --> 00:02:36,895
+會違反一堆外交條約
+without violating multiple treaties.
+
+57
+00:02:36,895 --> 00:02:38,480
+我告訴過他們這個主意簡直瘋了 克里斯
+Told them it was crazy, Chris.
+
+58
+00:02:38,480 --> 00:02:40,900
+我不會讓大家為了我一個人冒這麼大的風險
+I won't allow people to take risks like this for me.
+
+59
+00:02:40,900 --> 00:02:42,200
+我更不會眼睜睜地看著你死 
+I won't watch you die. 
+
+60
+00:02:42,200 --> 00:02:44,080
+如果這種花能救治你 我們就要拿到它
+If this blossom will help you, we are going to get it.
+
+61
+00:02:44,860 --> 00:02:46,660
+但是
+But
+
+62
+00:02:46,660 --> 00:02:48,516
+星際艦隊肯定不會批准這種事
+Starfleet will never authorize this.
+
+63
+00:02:48,516 --> 00:02:50,380
+我們得偷偷地幹這件事
+This has to be completely off the books.
+
+64
+00:02:50,380 --> 00:02:52,880
+所以我們提議派一個小型外勤隊去
+That is why we propose a minimal away team.
+
+65
+00:02:52,880 --> 00:02:54,739
+就姆'本加醫生和我去就行
+Just Dr. M'Benga and myself.
+
+66
+00:02:55,520 --> 00:02:56,220
+計劃挺好
+Good plan.
+
+67
+00:02:56,220 --> 00:02:57,438
+只需做一處調整
+With one adjustment.
+
+68
+00:02:57,960 --> 00:02:58,840
+看吧 要來了
+Here it comes.
+
+69
+00:02:58,840 --> 00:03:00,900
+如果必須得有人為此違規 那也得是我
+If anyone's going to break the rules, it's going to be me.
+
+70
+00:03:00,900 --> 00:03:02,180
+早就說他會這樣了吧
+Told them that, too.
+
+71
+00:03:02,180 --> 00:03:04,240
+我很感激你自願參與任務 史波克先生
+I appreciate you stepping up Mr. Spock,
+
+72
+00:03:04,240 --> 00:03:06,640
+但是如果我們被發現了 責任在我
+but if we're caught, the responsibility falls on me.
+
+73
+00:03:09,200 --> 00:03:10,886
+別小看我啊 艦長
+You insult me, Captain.
+
+74
+00:03:10,886 --> 00:03:12,020
+他從來沒被發現過
+He never gets caught.
+
+75
+00:03:14,100 --> 00:03:15,360
+我從來沒被發現過
+I never get caught.
+
+76
+00:03:16,171 --> 00:03:17,197
+斯坎內爾中尉
+Lieutenant Scannell,
+
+77
+00:03:17,197 --> 00:03:18,459
+請把肯佛瑞星系周圍
+please pull up cartography
+
+78
+00:03:18,459 --> 00:03:19,980
+緩衝帶的星圖調取出來
+on the buffer zone around the Kenfori system.
+
+79
+00:03:21,920 --> 00:03:23,260
+看起來條約劃定的分界線
+Looks like the treaty line is
+
+80
+00:03:23,260 --> 00:03:24,900
+正處於一片巨型星塵帶的邊緣
+on the edge of a giant dust belt.
+
+81
+00:03:24,900 --> 00:03:26,815
+我已經很久沒有飛進過
+Been a long time since I've flown
+
+82
+00:03:26,815 --> 00:03:28,686
+有爭議的克林貢星域了
+into disputed Klingon territory.
+
+83
+00:03:28,686 --> 00:03:30,775
+是路過有爭議的克林貢星域
+Around disputed Klingon territory.
+
+84
+00:03:30,775 --> 00:03:32,640
+進取號不會跨越分界線
+Enterprise will not cross that line.
+
+85
+00:03:32,640 --> 00:03:34,300
+一旦穿梭機飛進星塵帶
+Once the shuttle clears that dust belt,
+
+86
+00:03:34,300 --> 00:03:35,389
+個人通訊將徹底中斷
+personal comms will be down.
+
+87
+00:03:35,389 --> 00:03:37,280
+我們可以通過凍結所有通訊信號
+We can maintain their cover by freezing all other 
+
+88
+00:03:37,280 --> 00:03:38,440
+來給他們打掩護
+communications as well.
+
+89
+00:03:38,440 --> 00:03:40,655
+我會設置一個加密的艦對艦頻道
+I'm setting up an encrypted ship-to-ship channel
+
+90
+00:03:40,655 --> 00:03:42,780
+這樣艦長就能和我們保持聯絡
+for the captain to check in on the hour.
+
+91
+00:03:42,780 --> 00:03:43,640
+不需要我提醒你們 
+I do not need to remind you 
+
+92
+00:03:43,640 --> 00:03:46,420
+一旦穿梭機被發現 會有什麼後果吧
+of the consequences if our away team's shuttle is discovered.
+
+93
+00:03:46,420 --> 00:03:47,920
+奧特加斯 我們出發吧
+Ortegas, take us out.
+
+94
+00:04:07,116 --> 00:04:09,118
+有趣的部分來了
+Now comes the fun part.
+
+95
+00:04:22,800 --> 00:04:23,741
+顯擺
+Show-off.
+
+96
+00:04:24,960 --> 00:04:28,529
+歡迎大家盡情誇獎 鼓掌喝彩
+I'll accept any and all accolades and applause
+
+97
+00:04:28,529 --> 00:04:30,618
+小費我也收哦
+and tips.
+
+98
+00:04:30,618 --> 00:04:33,640
+承認吧 你們都懷念我精湛的駕駛技術
+Admit it. You all missed my fancy flying.
+
+99
+00:04:34,160 --> 00:04:35,460
+我們確實懷念
+We did, actually.
+
+100
+00:04:53,031 --> 00:04:54,580
+就像騎自行車一樣
+Like riding a bike.
+
+101
+00:04:55,940 --> 00:04:57,819
+只不過這自行車用的核聚變引擎
+With fusion-powered thrusters.
+
+102
+00:04:57,819 --> 00:05:00,430
+我以為你可恨我的飛行技術了
+And all this time I thought you hated my flying.
+
+103
+00:05:01,736 --> 00:05:04,000
+你還記得在波瑞利斯ζ星那次嗎
+You remember Zeta Borealis?
+
+104
+00:05:05,500 --> 00:05:07,045
+穿梭機落地的一瞬間
+The moment our shuttle landed,
+
+105
+00:05:07,045 --> 00:05:08,580
+你一腳踢開防爆門
+you kicked open those storm doors
+
+106
+00:05:08,580 --> 00:05:10,115
+當場嘔吐了起來
+and you threw up.
+
+107
+00:05:13,748 --> 00:05:15,837
+如果我沒記錯的話 那是因為我們之前
+If memory serves, it was those Vedalan cigars
+
+108
+00:05:15,837 --> 00:05:17,600
+抽了維達蘭雪茄的緣故
+we smoked the night before.
+
+109
+00:05:17,600 --> 00:05:21,000
+不過說實話 那些維達蘭人辦的派對真是一絕
+Well, those Vedalans knew how to throw a party, let's be honest.
+
+110
+00:05:21,000 --> 00:05:21,940
+絕對的
+Oh, definitely
+
+111
+00:05:21,940 --> 00:05:23,714
+即使事後頭疼都值了
+worth the headache.
+
+112
+00:05:25,860 --> 00:05:27,000
+在我們行進的路線上有一個物體
+Oh, there's an object in our path.
+
+113
+00:05:27,000 --> 00:05:28,600
+成分無法確定
+Indeterminate composition.
+
+114
+00:05:28,600 --> 00:05:30,120
+星塵帶有干擾 沒法掃描
+Can't get a reading in this dust belt.
+
+115
+00:05:30,120 --> 00:05:32,820
+戰爭期間 這種地方布滿了雙方布下的
+During the war this area would have been teeming with mines.
+
+116
+00:05:32,820 --> 00:05:34,769
+太空雷陣
+Federation and Klingon.
+
+117
+00:05:34,769 --> 00:05:36,880
+但是根據條約 空雷應該被排除了才對
+Per the treaty, they should have all been swept.
+
+118
+00:05:38,512 --> 00:05:40,035
+也許他們遺漏了一個
+Maybe they missed one.
+
+119
+00:05:43,040 --> 00:05:45,340
+我會與之保持距離 最好把護盾也升起來
+I'll keep a distance. Better raise shields.
+
+120
+00:05:45,880 --> 00:05:47,120
+打開通訊系統
+Turn on comms.
+
+121
+00:05:47,660 --> 00:05:50,393
+正在將通訊系統設置為克林貢常用頻段
+Setting comms to common Klingon frequency range.
+
+122
+00:05:55,093 --> 00:05:57,269
+這是一個通訊信標
+It's a communications beacon.
+
+123
+00:05:58,140 --> 00:06:00,185
+這裡有一條信息
+Something's coming through.
+
+124
+00:06:03,580 --> 00:06:04,960
+你見過這個嗎
+You ever see that before?
+
+125
+00:06:05,539 --> 00:06:07,105
+是啊 在戰爭期間見過
+Yes, in the war.
+
+126
+00:06:07,105 --> 00:06:09,380
+我曾被派駐到一座被炸毀的克林貢礦場附近
+I was once stationed near a bombed Klingon mine
+
+127
+00:06:09,380 --> 00:06:11,327
+那裡有嚴重的輻射危險
+with radiation danger.
+
+128
+00:06:11,327 --> 00:06:14,025
+大致翻譯一下就是「要麼滾回去 要麼等死」
+Loosely translated it means, "Go back or die."
+
+129
+00:06:14,040 --> 00:06:16,840
+但他們為什麼要在這裡放警示信標
+But why leave a warning beacon here?
+
+130
+00:06:18,380 --> 00:06:19,814
+不管了
+It doesn't matter.
+
+131
+00:06:20,902 --> 00:06:22,425
+我們沒有退路
+Going back is not an option.
+
+132
+00:08:26,418 --> 00:08:28,290
+沒有生命跡象
+No life signs.
+
+133
+00:08:28,290 --> 00:08:30,000
+所以這裡除了我們 沒別人
+So we are all alone down here.
+
+134
+00:08:30,000 --> 00:08:32,060
+不 艦長
+No, Captain,
+
+135
+00:08:32,060 --> 00:08:34,580
+我是說完全沒有生命體徵
+I mean no life signs.
+
+136
+00:08:35,471 --> 00:08:37,280
+全是植物 沒有動物
+All flora, no fauna...
+
+137
+00:08:37,280 --> 00:08:39,083
+如此富饒的生物群落中沒有動物嗎
+In a biome this rich?
+
+138
+00:08:39,083 --> 00:08:40,800
+這裡肯定有地方存在著動物
+There must be animal life here somewhere.
+
+139
+00:08:40,800 --> 00:08:43,566
+算了 至少我們是來找植物的
+Well, at least the flora's all that matters.
+
+140
+00:08:43,566 --> 00:08:45,089
+你看到下山路上的那個湖了嗎
+You see that lake on the way down?
+
+141
+00:08:45,089 --> 00:08:47,580
+看到了 非常適合飛釣
+Ah, perfect for fly-fishing.
+
+142
+00:08:47,580 --> 00:08:49,100
+是啊 要是我們沒有在執行任務
+Yeah, if we weren't always on a mission.
+
+143
+00:08:49,100 --> 00:08:52,314
+而且還得有動物能上鈎才行
+And if there was something alive to catch.
+
+144
+00:08:53,100 --> 00:08:54,664
+有道理
+Fair point.
+
+145
+00:08:55,440 --> 00:08:57,232
+那應該就是我們的研究站了
+That must be our research facility.
+
+146
+00:08:57,232 --> 00:08:58,700
+根據克莉絲汀的研究
+Christine's research suggests 
+
+147
+00:08:58,700 --> 00:09:01,280
+他們應該會把那種花的樣本保存在內
+they would have kept samples of the flower inside.
+
+148
+00:09:02,420 --> 00:09:04,600
+至少我們不用把整片森林翻個遍了
+At least we don't have to scour this whole forest.
+
+149
+00:09:05,560 --> 00:09:08,200
+所以 你怎麼看科爾比和克里斯汀這對情侶
+So, what do you think of this whole Korby-Christine thing?
+
+150
+00:09:08,200 --> 00:09:09,900
+哦 克里斯 
+Ah, Chris, 
+
+151
+00:09:09,900 --> 00:09:12,120
+要我提醒你 我離過三次婚嗎
+do I have to remind you I have three ex-wives?
+
+152
+00:09:12,120 --> 00:09:13,600
+準確來說是四個
+Well, four, technically.
+
+153
+00:09:13,600 --> 00:09:16,077
+那一次不算
+That was an annulment.
+
+154
+00:09:16,077 --> 00:09:17,060
+不過下一位嘛
+But the next one...
+
+155
+00:09:17,060 --> 00:09:19,471
+醫者可以自醫嗎
+Physician heal thyself?
+
+156
+00:09:19,471 --> 00:09:22,170
+我更願意說 我還在不斷進步中
+I like to consider myself a work in progress.
+
+157
+00:09:23,500 --> 00:09:24,800
+有生命跡象了嗎
+Life sign?
+
+158
+00:09:25,620 --> 00:09:26,985
+恰恰相反
+The opposite.
+
+159
+00:09:35,879 --> 00:09:37,100
+陣亡的士兵嗎
+War casualty?
+
+160
+00:09:37,100 --> 00:09:39,100
+不是
+No.
+
+161
+00:09:39,100 --> 00:09:41,080
+戰鬥中不可能會有這種創傷
+You don't see these wounds in battle.
+
+162
+00:09:41,080 --> 00:09:43,583
+他的胸腔被整個剖開了
+His rib cage has been split open.
+
+163
+00:09:43,583 --> 00:09:45,080
+挨了不止一發相位槍
+Not a single phaser burn.
+
+164
+00:09:45,080 --> 00:09:46,160
+從腐爛程度來看
+Given the rate of decay,
+
+165
+00:09:46,160 --> 00:09:48,675
+我判斷他是在撤離之後死去的
+I'd say he died after the evacuation.
+
+166
+00:09:48,675 --> 00:09:51,340
+像是被什麼動物殺死的
+Killed by some kind of animal maybe?
+
+167
+00:09:51,340 --> 00:09:52,260
+只是
+Only...
+
+168
+00:09:52,260 --> 00:09:54,120
+這裡沒有動物
+Only no life signs.
+
+169
+00:09:56,260 --> 00:09:58,440
+會是早已離開的動物嗎
+An animal that's long gone?
+
+170
+00:09:59,120 --> 00:10:00,700
+最好不要冒這個險
+Better not risk it.
+
+171
+00:10:00,700 --> 00:10:01,775
+相位槍準備
+Phasers.
+
+172
+00:10:22,491 --> 00:10:24,680
+備用能源還在運作著
+Auxiliary power's still on.
+
+173
+00:10:27,260 --> 00:10:28,889
+十分微弱
+Barely.
+
+174
+00:10:28,889 --> 00:10:30,760
+這裡發生的事情真是令人遺憾
+It's a shame what happened here.
+
+175
+00:10:32,280 --> 00:10:33,820
+戰爭奪走了一切
+The war took everything.
+
+176
+00:10:56,786 --> 00:10:58,962
+這個是奇美拉之花嗎
+Chimera Blossoms?
+
+177
+00:11:02,966 --> 00:11:05,969
+親眼所見 果然更驚艷
+Even more beautiful in person.
+
+178
+00:11:08,560 --> 00:11:09,700
+得來全不費功夫啊
+Didn't have to look far, huh?
+
+179
+00:11:09,700 --> 00:11:10,160
+別靠近
+Wait.
+
+180
+00:11:16,937 --> 00:11:19,548
+你的背包裡有一個面罩
+There's a set of these in your bag.
+
+181
+00:11:19,548 --> 00:11:21,332
+尋找那些盛開的花朵
+Look for the ones in full bloom.
+
+182
+00:11:21,332 --> 00:11:23,640
+但不要用皮膚直接接觸它們
+But don't touch them with bare skin.
+
+183
+00:11:23,640 --> 00:11:25,220
+這些到底是什麼
+What exactly are these?
+
+184
+00:11:25,780 --> 00:11:27,660
+只是預防措施而已
+It's just a precaution.
+
+185
+00:11:28,644 --> 00:11:32,320
+劑量不當的話 藥物也可能具有毒性
+At improper doses, the medication can be toxic.
+
+186
+00:11:32,320 --> 00:11:36,380
+某些有機毒物具有藥用價值
+Certain organic poisons have medicinal value.
+
+187
+00:11:36,380 --> 00:11:38,480
+幾個世紀以來 醫生們用這些
+Doctors have used them for centuries
+
+188
+00:11:38,480 --> 00:11:39,900
+來治療心臟疾病
+to treat heart disease,
+
+189
+00:11:39,900 --> 00:11:41,620
+瘧疾
+malaria...
+
+190
+00:11:45,792 --> 00:11:47,402
+這能讓她維持多久
+How long will this give her?
+
+191
+00:11:49,100 --> 00:11:52,755
+你知道 任何船員的病情和治療情況
+You know the condition and treatment of any crew member
+
+192
+00:11:52,755 --> 00:11:54,480
+都是保密的
+is confidential 
+
+193
+00:11:54,480 --> 00:11:57,720
+除非他們會對其他船員構成威脅
+unless they jeopardize the rest of the crew.
+
+194
+00:11:57,720 --> 00:11:59,100
+我不是在以艦長的身份問你
+Not as your captain.
+
+195
+00:11:59,100 --> 00:12:00,284
+而是以一個朋友的身份
+As your friend.
+
+196
+00:12:00,284 --> 00:12:02,180
+以瑪麗的
+As Marie's...
+
+197
+00:12:02,820 --> 00:12:04,300
+我需要知道
+I need to know.
+
+198
+00:12:04,300 --> 00:12:06,987
+她有希望完全康復嗎
+I-Is there a chance that she can really be saved?
+
+199
+00:12:08,640 --> 00:12:10,642
+這是她唯一康復的機會了
+This is her only chance.
+
+200
+00:12:10,642 --> 00:12:13,428
+就在昨天 我們束手無策的時候
+Just yesterday, we were out of options,
+
+201
+00:12:13,428 --> 00:12:14,995
+史波克又找到了一個治療方案
+but Spock found one more.
+
+202
+00:12:14,995 --> 00:12:16,039
+一份希望
+One to hope for.
+
+203
+00:12:16,039 --> 00:12:19,560
+克里斯 奮力一搏的機會
+A fighting chance, Chris.
+
+204
+00:12:54,460 --> 00:12:56,180
+檢測到一股輕微的電磁波動	
+Picking up a minor EM flux
+
+205
+00:12:56,180 --> 00:12:57,907
+正朝著肯佛瑞方向移動
+moving towards Kenfori.
+
+206
+00:12:57,907 --> 00:13:01,820
+坐標 第八扇區 方位角15-29-4
+Coordinates: Section Eight, mark 15-29-4.
+
+207
+00:13:01,820 --> 00:13:04,060
+傳感器顯示其在以一個不規則的運動軌跡移動
+Sensors show it is moving in an irregular pattern.
+
+208
+00:13:04,060 --> 00:13:06,133
+這表明這是一種自然發生的現象
+That suggests it's a naturally occurring phenomenon.
+
+209
+00:13:06,133 --> 00:13:07,612
+對於塵埃帶來說很正常
+Normal for a dust belt.
+
+210
+00:13:08,060 --> 00:13:10,120
+收到 繼續觀察第九扇區
+Copy. Continue to Section Nine.
+
+211
+00:13:10,120 --> 00:13:12,360
+長官 我提議對第八扇區進行二次掃描
+Commander, I would like to recommend a secondary scan
+
+212
+00:13:12,360 --> 00:13:15,011
+這一回濾除電磁信號
+of Section Eight, one that filters out EM rays.
+
+213
+00:13:15,720 --> 00:13:16,860
+我有預感
+I've got a hunch.
+
+214
+00:13:16,860 --> 00:13:17,884
+安全點總沒錯
+Better safe than sorry.
+
+215
+00:13:17,884 --> 00:13:19,276
+斯坎內爾中尉
+Lieutenant Scannell?
+
+216
+00:13:19,276 --> 00:13:20,460
+重新掃描第八扇區
+Rescanning Section Eight.
+
+217
+00:13:20,460 --> 00:13:22,940
+確認在電磁波動後方存在中微子輻射
+Confirming neutrino emissions behind the flux.
+
+218
+00:13:22,940 --> 00:13:23,920
+正在檢測曲速信號
+Checking for a warp signature.
+
+219
+00:13:28,372 --> 00:13:29,720
+是一艘克林貢戰列巡洋艦
+It's a Klingon battle cruiser.
+
+220
+00:13:32,240 --> 00:13:34,180
+戰爭期間 他們經常使用電磁干擾
+In the war they used to mask their ships
+
+221
+00:13:34,180 --> 00:13:36,360
+來掩蓋他們的曲速信號
+behind bursts of EM radiation.
+
+222
+00:13:36,360 --> 00:13:37,860
+幹得漂亮 上尉
+Good call, Lieutenant.
+
+223
+00:13:37,860 --> 00:13:39,340
+這改變不了什麼
+This doesn't change a thing.
+
+224
+00:13:39,340 --> 00:13:40,341
+我們繼續保持在此監視他們
+We continue monitoring from here
+
+225
+00:13:40,341 --> 00:13:41,440
+直到我們有理由接近
+until we have reason not to.
+
+226
+00:13:41,440 --> 00:13:43,340
+中校 他們選擇現在露面
+Commander, it's a pretty big coincidence
+
+227
+00:13:43,340 --> 00:13:44,720
+是個巨大的巧合
+that they choose now to show up.
+
+228
+00:13:44,720 --> 00:13:46,220
+要是他們發現了艦長的穿梭機怎麼辦
+What if they spotted the captain's shuttle?
+
+229
+00:13:46,220 --> 00:13:47,140
+或許吧
+Maybe.
+
+230
+00:13:47,960 --> 00:13:50,640
+但克林貢人算不上有多遵守條約
+But Klingons aren't famous for abiding by treaty.
+
+231
+00:13:50,640 --> 00:13:52,222
+他們可能只是來打撈殘骸的
+These could just be scavengers.
+
+232
+00:13:52,222 --> 00:13:54,500
+我不喜歡在沒有證據的情況下妄下結論
+I hate to assume causation where there isn't any.
+
+233
+00:13:54,500 --> 00:13:56,000
+烏乎拉 通訊上監聽到什麼東西嗎
+Uhura, any comms chatter?
+
+234
+00:13:56,000 --> 00:13:58,460
+沒有 長官 所有通訊頻段都處於靜默狀態
+Negative, sir, across all channels.
+
+235
+00:13:58,460 --> 00:14:00,143
+外面安靜得像圖書館一樣
+It's quiet as a library out there.
+
+236
+00:14:00,143 --> 00:14:01,520
+有變化的話向我報告
+Let me know if that changes.
+
+237
+00:14:02,058 --> 00:14:05,460
+現在 我們要沉住氣
+For now... we'll sit tight.
+
+238
+00:14:19,293 --> 00:14:21,000
+這些傷口與外面那些
+These wounds are consistent with
+
+239
+00:14:21,000 --> 00:14:23,020
+克林貢人遺骸上的傷口相符
+those Klingon remains outside.
+
+240
+00:14:23,880 --> 00:14:26,604
+有什麼東西在同時殺害人類和克林貢人嗎
+Something was killing both humans and Klingons?
+
+241
+00:14:26,604 --> 00:14:28,650
+如果可以稱之為殺害的話
+If you can call it that.
+
+242
+00:14:28,650 --> 00:14:31,500
+這更像是生吞活剝
+More like devouring.
+
+243
+00:14:31,500 --> 00:14:33,460
+走吧 我們已經拿到需要的東西了
+Come on. We got what we came for.
+
+244
+00:14:33,460 --> 00:14:34,395
+撤退吧
+Let's go.
+
+245
+00:14:37,160 --> 00:14:39,052
+那肯定是個活物
+That had to be alive.
+
+246
+00:14:43,260 --> 00:14:45,200
+是發生故障的實驗室設備
+Malfunctioning lab equipment.
+
+247
+00:14:46,880 --> 00:14:49,040
+我還是沒有檢測到任何生命信號
+I'm still not getting any life signs.
+
+248
+00:14:49,680 --> 00:14:51,260
+不會吧
+Humor me.
+
+249
+00:14:57,157 --> 00:14:58,636
+什麼都沒有
+Nothing.
+
+250
+00:15:04,251 --> 00:15:05,660
+我們的穿梭機
+Our shuttle.
+
+251
+00:15:06,920 --> 00:15:08,995
+有可能他們不知道我們的存在
+It's possible they don't know about us.
+
+252
+00:15:14,522 --> 00:15:16,160
+現在他們知道了
+They know about us.
+
+253
+00:15:36,940 --> 00:15:42,280
+<i>人類的惡臭在空氣中瀰漫不散</i>
+
+254
+00:15:43,740 --> 00:15:45,540
+<i>他們離得不遠了</i>
+
+255
+00:16:02,540 --> 00:16:04,120
+<i>省著點用</i>
+
+256
+00:16:04,120 --> 00:16:06,260
+<i>留著能量對付他們</i>
+
+257
+00:16:06,560 --> 00:16:07,500
+<i>三錄儀給我</i>
+
+258
+00:16:12,900 --> 00:16:15,800
+<i>他們說上去的人沒一個能活著回來</i>
+
+259
+00:16:15,800 --> 00:16:18,140
+<i>準備好為榮譽赴死了嗎</i>
+
+260
+00:16:21,763 --> 00:16:22,894
+這是場狩獵派對
+It's a hunting party.
+
+261
+00:16:22,894 --> 00:16:24,679
+他們像獵斯克拉兔子一樣在追我們
+They're chasing us like Skral rabbits.
+
+262
+00:16:25,260 --> 00:16:26,115
+如果我們被抓住了
+If we're captured,
+
+263
+00:16:26,115 --> 00:16:28,161
+他們肯定也很樂意把我們做成標本
+they'll want to make examples of us.
+
+264
+00:16:34,994 --> 00:16:37,240
+我猜兩條路都一樣
+I'm sure the other direction was equally as bad.
+
+265
+00:16:49,880 --> 00:16:51,960
+你知道他們看到了就會開槍
+You know they'll shoot on sight.
+
+266
+00:16:51,960 --> 00:16:53,860
+那我們就先開槍
+Then we shoot first.
+
+267
+00:16:53,860 --> 00:16:54,680
+擊暈擋
+On stun.
+
+268
+00:18:33,851 --> 00:18:35,220
+快跑
+Run.
+
+269
+00:18:23,320 --> 00:18:23,980
+<i>撤退</i>
+
+270
+00:18:41,260 --> 00:18:44,160
+你給我打的是安慰劑嗎
+Are you hitting me with placebo right now?
+
+271
+00:18:44,160 --> 00:18:47,160
+你的身體已經適應了止痛藥
+Your body has acclimated to the pain inhibitors.
+
+272
+00:18:47,160 --> 00:18:49,560
+查普爾護士應該可以
+Nurse Chapel should...
+
+273
+00:18:49,560 --> 00:18:51,130
+我很抱歉
+I'm so sorry.
+
+274
+00:18:54,060 --> 00:18:54,880
+巴特爾艦長
+Captain Batel.
+
+275
+00:18:54,880 --> 00:18:56,831
+我理解您的不適在加劇
+I understand your discomfort has increased.
+
+276
+00:18:56,831 --> 00:18:57,540
+史波克
+Spock.
+
+277
+00:18:57,540 --> 00:18:58,520
+還用你說
+You think?
+
+278
+00:18:58,520 --> 00:19:00,260
+瓦肯人有一種古代技藝
+Vulcans have an ancient technique
+
+279
+00:19:00,260 --> 00:19:01,660
+能通過冥想來調節疼痛
+of regulating pain through meditation.
+
+280
+00:19:01,660 --> 00:19:03,446
+經過練習 人類也可以掌握
+With practice, humans can do it, too.
+
+281
+00:19:03,446 --> 00:19:04,926
+儘管如此 要達到我認為您需要的水平
+However, achieving a level I suspect you need
+
+282
+00:19:04,926 --> 00:19:06,275
+需要的時間是我們等不起的
+will take time we do not have.
+
+283
+00:19:06,275 --> 00:19:08,364
+查普爾護士建議我來引導您
+Nurse Chapel has suggested I guide you through it
+
+284
+00:19:08,364 --> 00:19:10,360
+借助心靈融合的形式 如果您願意的話
+using a form of mind meld, if you consent.
+
+285
+00:19:10,360 --> 00:19:11,585
+什麼都行
+Pretty much anything.
+
+286
+00:19:22,291 --> 00:19:24,520
+吾思即汝思
+My mind to your mind.
+
+287
+00:19:26,240 --> 00:19:28,540
+同呼吸共命運
+One breath between us.
+
+288
+00:19:28,540 --> 00:19:32,867
+無論你在做什麼 請繼續
+Whatever you're doing, keep doing.
+
+289
+00:19:33,540 --> 00:19:35,304
+是您的自尊心承受著痛苦
+Your ego holds the pain.
+
+290
+00:19:36,436 --> 00:19:37,900
+讓您的思想放下自尊心
+Let your mind release your ego,
+
+291
+00:19:37,900 --> 00:19:40,040
+這樣或許可以減輕您的痛苦
+so it may eclipse your suffering.
+
+292
+00:20:01,240 --> 00:20:02,853
+史波克
+Spock!
+
+293
+00:20:02,853 --> 00:20:03,898
+快醒醒
+Snap out of it!
+
+294
+00:20:07,680 --> 00:20:09,295
+史波克 放開她 是我啊
+Let go of her, Spock. It's me.
+
+295
+00:20:09,295 --> 00:20:10,296
+克里斯汀
+It's Christine.
+
+296
+00:20:18,434 --> 00:20:20,349
+我似乎暫時情緒失控了
+I seem to have temporarily lost control.
+
+297
+00:20:20,340 --> 00:20:21,860
+那還用說
+You sure did.
+
+298
+00:20:22,917 --> 00:20:24,560
+瑪麗 你還好嗎
+Marie, are-are you okay?
+
+299
+00:20:25,920 --> 00:20:27,160
+還好
+Yeah.
+
+300
+00:20:32,927 --> 00:20:34,320
+發生什麼了
+What happened?
+
+301
+00:20:34,320 --> 00:20:37,192
+當我們心靈融合的時候 我吸納了您的痛苦
+When we joined minds, I absorbed your pain.
+
+302
+00:20:38,060 --> 00:20:39,380
+但我也
+But I also...
+
+303
+00:20:39,380 --> 00:20:40,456
+我看到了什麼
+I saw something.
+
+304
+00:20:40,456 --> 00:20:41,700
+是的 我也是
+Yes, as did I.
+
+305
+00:20:43,200 --> 00:20:45,620
+它感覺既像是您的一部分 又不是
+It felt both a part of you and not.
+
+306
+00:20:45,620 --> 00:20:46,920
+是戈恩嗎
+Was it Gorn?
+
+307
+00:20:47,768 --> 00:20:49,248
+這可能嗎
+Is that even possible?
+
+308
+00:20:49,248 --> 00:20:51,780
+恐怕我兩個問題都無法回答 艦長
+I am afraid I do not have the answer to either question, Captain.
+
+309
+00:20:57,125 --> 00:20:58,735
+謝謝你 史波克先生
+Thank you, Mr. Spock.
+
+310
+00:20:58,735 --> 00:21:00,600
+我現在好多了
+The pain is much better now.
+
+311
+00:21:01,060 --> 00:21:02,565
+史波克少校
+Lieutenant Spock,
+
+312
+00:21:02,565 --> 00:21:05,060
+金萊利中校命令全體高級軍官到待命室報到
+Commander Chin-Riley needs all senior officers in the ready room.
+
+313
+00:21:05,620 --> 00:21:07,060
+我很快就來
+I will be there momentarily.
+
+314
+00:21:07,820 --> 00:21:09,572
+不好意思 少尉
+My apologies, Ensign.
+
+315
+00:21:14,760 --> 00:21:16,797
+我們可能有麻煩了
+We may have a situation.
+
+316
+00:21:16,797 --> 00:21:19,740
+外勤隊沒有在預定的時間和我們通訊
+Our away team failed to check in at the prescheduled time.
+
+317
+00:21:19,740 --> 00:21:21,600
+他們兩人的應答器都開著
+Their transponders are both active,
+
+318
+00:21:21,600 --> 00:21:24,280
+但不回應我們從進取號發出的任何呼叫
+but they are not responding to any hails from the Enterprise, 
+
+319
+00:21:24,280 --> 00:21:25,458
+ 換句話說
+which means
+
+320
+00:21:25,458 --> 00:21:28,600
+要麼是他們的通訊器出了問題
+they're either having comms trouble or...
+
+321
+00:21:28,600 --> 00:21:29,680
+要麼人出了什麼事
+something else happened.
+
+322
+00:21:31,220 --> 00:21:32,060
+中尉
+Lieutenant.
+
+323
+00:21:32,060 --> 00:21:34,640
+佩利亞中校有時間親自前來參會嗎
+Does Commander Pelia plan to grace us with her presence?
+
+324
+00:21:34,640 --> 00:21:36,000
+呃 她沒空
+She, uh,
+
+325
+00:21:36,000 --> 00:21:37,600
+所以派我來了
+got delayed and sent me.
+
+326
+00:21:38,253 --> 00:21:40,647
+好藉口 我知道她不喜歡開會
+Nice try. I know she hates these meetings.
+
+327
+00:21:40,647 --> 00:21:41,909
+請坐
+Sit.
+
+328
+00:21:43,320 --> 00:21:45,920
+我們需要在不引起克林貢人注意的前提下
+We need to get within emergency beaming range
+
+329
+00:21:45,920 --> 00:21:47,840
+進入緊急傳送機的工作範圍
+without attracting any Klingon attention.
+
+330
+00:21:47,840 --> 00:21:49,880
+我推薦緩慢接近
+I recommend a slow approach.
+
+331
+00:21:51,571 --> 00:21:53,020
+以低脈衝推力航行能將我們
+Flying at low impulse will keep us
+
+332
+00:21:53,020 --> 00:21:54,780
+隱藏在碎片帶運動的背景噪聲下
+below the noise limit of debris motion.
+
+333
+00:21:55,618 --> 00:21:56,880
+他們的傳感器將無法
+Their sensors will not be able
+
+334
+00:21:56,880 --> 00:21:58,320
+區分我們和星塵顆粒
+to tell us apart from the dust particles.
+
+335
+00:21:58,320 --> 00:22:00,940
+那就是說我們只能以低脈衝推力航行
+Well, we'd have to move at a fraction of impulse
+
+336
+00:22:00,940 --> 00:22:03,020
+而且還要關掉所有非必要系統
+and shut down all nonessential systems.
+
+337
+00:22:03,020 --> 00:22:05,720
+但如果能讓我們隱形 那倒也值得
+But if we were invisible, might be worth it.
+
+338
+00:22:05,720 --> 00:22:08,580
+根據我的估算 我們將需要四個小時到達肯佛瑞星
+By my calculations, we would reach Kenfori in four hours.
+
+339
+00:22:10,024 --> 00:22:11,634
+這我能接受
+I can live with that.
+
+340
+00:22:11,634 --> 00:22:12,700
+奧特加斯
+Ortegas.
+
+341
+00:22:12,700 --> 00:22:14,942
+和史波克一起規劃一條航線
+Plot a course with Mr. Spock.
+
+342
+00:22:14,942 --> 00:22:16,987
+四個小時
+Four hours?
+
+343
+00:22:16,987 --> 00:22:18,424
+不 我不同意
+Yeah, that won't work for me.
+
+344
+00:22:20,948 --> 00:22:22,220
+請說明 上尉
+Explain yourself, Lieutenant.
+
+345
+00:22:22,220 --> 00:22:24,691
+我們幹嘛還要踮著腳躲著克林貢人
+Why are we tiptoeing around these Klingons?
+
+346
+00:22:24,691 --> 00:22:27,160
+既然他們顯然已經知道姆'本加醫生和艦長在那了
+It's obvious they know about the captain and Dr. M'Benga.
+
+347
+00:22:27,160 --> 00:22:29,600
+我們的當務之急應該是盡快把他們救出來
+Our priority should be getting them out fast.
+
+348
+00:22:29,600 --> 00:22:30,820
+那你怎麼確保我們能夠在
+And how do you propose we do that
+
+349
+00:22:30,820 --> 00:22:33,020
+不違反邊界條約的情況下做到這點
+without violating a border treaty?
+
+350
+00:22:34,040 --> 00:22:35,400
+而且 假設
+Hypothetically,
+
+351
+00:22:35,400 --> 00:22:37,094
+即便有可能接近
+even if there were a way,
+
+352
+00:22:37,094 --> 00:22:38,269
+星塵帶的干擾
+the interference from the dust belt
+
+353
+00:22:38,269 --> 00:22:40,140
+也會讓傳送機無法使用
+makes transporting impossible.
+
+354
+00:22:40,140 --> 00:22:42,120
+我已經想到了個辦法可以同時解決這兩個問題
+I've thought about both problems.
+
+355
+00:22:42,120 --> 00:22:44,440
+我們直接曲速進行星大氣熱層裡
+We warp into the planet's thermosphere,
+
+356
+00:22:44,440 --> 00:22:47,453
+傳送完人 立馬曲速走 簡單
+energize, and warp out, simple.
+
+357
+00:22:48,140 --> 00:22:49,940
+直接曲速進行星低軌道嗎
+Warping into a low planetary orbit.
+
+358
+00:22:49,940 --> 00:22:51,360
+那很魯莽了
+It's reckless.
+
+359
+00:22:52,580 --> 00:22:53,580
+你以前這麼幹過嗎
+Have you ever done that?
+
+360
+00:22:54,160 --> 00:22:55,040
+還沒有
+No.
+
+361
+00:22:55,983 --> 00:22:57,220
+但我能做到
+But I could.
+
+362
+00:22:58,200 --> 00:23:00,727
+如此危險的機動極少有人嘗試
+Such a dangerous maneuver is rarely attempted.
+
+363
+00:23:00,727 --> 00:23:02,560
+我估計高層大氣沒有問題
+I could see the upper atmosphere maybe.
+
+364
+00:23:02,560 --> 00:23:05,160
+但我們只要沾到一點熱層的底
+But if we scrape the bottom of the thermosphere,
+
+365
+00:23:05,160 --> 00:23:06,840
+船體就要被阻力扯成捲心菜瓣了
+our hull would be shredded cabbage.
+
+366
+00:23:06,840 --> 00:23:08,380
+我不會讓這種事發生的
+I won't let that happen.
+
+367
+00:23:08,380 --> 00:23:10,920
+此外 殘餘曲速場同樣會干擾傳送
+Also, the residual warp field prohibits transport.
+
+368
+00:23:10,920 --> 00:23:12,739
+但在理論上 穿過局部曲速場
+Well, in theory, one could lock in on a signal
+
+369
+00:23:12,739 --> 00:23:14,020
+建立傳送信號鎖定是可能的
+through the residual field.
+
+370
+00:23:14,523 --> 00:23:16,320
+我沒有拆史波克先生的台的意思
+Well, I don't mean to step on Mr. Spock's toes,
+
+371
+00:23:16,320 --> 00:23:17,140
+絕對沒有
+of course, uh,
+
+372
+00:23:17,140 --> 00:23:20,181
+但只需要根據曲速場的空間扭曲程度
+but you just have to calibrate the phase inducers
+
+373
+00:23:20,181 --> 00:23:21,487
+校準相位感應器
+to the warp distortion.
+
+374
+00:23:21,487 --> 00:23:23,445
+當然 得非常快
+Only, like, really fast.
+
+375
+00:23:23,445 --> 00:23:24,440
+就這樣
+Yeah.
+
+376
+00:23:26,420 --> 00:23:28,189
+所以我的計劃全打鈎了
+So my plan checks off all the boxes.
+
+377
+00:23:28,189 --> 00:23:29,740
+烏乎拉 有任何跡象表明
+Uhura, is there any evidence
+
+378
+00:23:29,740 --> 00:23:31,180
+克林貢人知道外勤隊在地表嗎
+the Klingons know about our people?
+
+379
+00:23:31,180 --> 00:23:33,940
+現在是完全的通訊靜默 一點聲音都沒有
+Total comms silence out there, not even a whisper.
+
+380
+00:23:37,285 --> 00:23:39,100
+那麼史波克的計劃是最合理的
+Then Spock's plan makes the most sense.
+
+381
+00:23:39,100 --> 00:23:40,880
+命令已經下達了
+You have your orders.
+
+382
+00:23:47,077 --> 00:23:48,775
+真謝謝你啊 妮歐塔
+Thanks a lot, Nyota.
+
+383
+00:23:51,908 --> 00:23:53,910
+我們是不是該談談奧特加斯上尉的事
+Are we gonna discuss Lieutenant Ortegas?
+
+384
+00:23:54,520 --> 00:23:55,820
+她一直想做自己擅長的事
+She was just doing her job.
+
+385
+00:23:55,820 --> 00:23:57,560
+我需要後備方案
+I needed alternatives.
+
+386
+00:23:57,560 --> 00:23:59,100
+你說了算 但我想說
+Your call, but, I mean,
+
+387
+00:23:59,100 --> 00:24:00,300
+她以前不像這樣
+that wasn't like her.
+
+388
+00:24:00,961 --> 00:24:03,660
+她有時候可能很粗魯
+She can be rude at times
+
+389
+00:24:03,660 --> 00:24:05,380
+但絕不會不服從
+but not insubordinate.
+
+390
+00:24:06,980 --> 00:24:08,940
+會不會是太早讓她回歸崗位了
+Could it be she's back on rotation too soon?
+
+391
+00:24:10,057 --> 00:24:12,080
+她已經過了心理關
+She passed her psych eval.
+
+392
+00:24:12,080 --> 00:24:13,260
+畢竟就她的閱歷而言
+And after all she went through,
+
+393
+00:24:13,260 --> 00:24:15,520
+她那有點毛躁的作風倒也在我的意料之中
+I'm not surprised if she's a little rough around the edges.
+
+394
+00:24:16,640 --> 00:24:18,800
+拉安 你也明白的
+You get that, La'An.
+
+395
+00:24:41,660 --> 00:24:44,320
+我們的傳感器壓根沒探測到這些東西
+Not one of those things showed up on our sensors.
+
+396
+00:24:44,320 --> 00:24:46,420
+但它們看起來非常像活人
+But they looked very alive to me.
+
+397
+00:24:46,420 --> 00:24:50,010
+至少 看起來不像死的
+At least, you know, n-not... dead?
+
+398
+00:24:51,054 --> 00:24:52,220
+但無論它們是什麼
+Whatever they are,
+
+399
+00:24:52,220 --> 00:24:54,460
+傳感器並不識別其為生命體徵
+they don't register as life signs anymore.
+
+400
+00:24:58,279 --> 00:25:00,240
+除了我們 這裡死氣沉沉的
+We are the only things moving in here.
+
+401
+00:25:00,920 --> 00:25:03,284
+這可是個藏身的好地方 看
+This is as good a place as any to hole up. Look.
+
+402
+00:25:03,800 --> 00:25:05,180
+如果烏娜按部執行程序的話
+If Una's following protocol,
+
+403
+00:25:05,180 --> 00:25:06,243
+進取號現在就在路上了
+the Enterprise is already on its way.
+
+404
+00:25:06,243 --> 00:25:08,600
+我們要找個通訊器
+We need to find comms,
+
+405
+00:25:09,520 --> 00:25:10,820
+複製進取號的加密頻道
+clone the Enterprise's encrypted channel,
+
+406
+00:25:10,820 --> 00:25:12,340
+與他們協商一個撤離點
+and then coordinate a rendezvous.
+
+407
+00:25:13,207 --> 00:25:14,400
+通信陣列
+The comms array.
+
+408
+00:25:16,384 --> 00:25:18,100
+它在房頂
+It's on the roof.
+
+409
+00:25:20,301 --> 00:25:23,660
+不行 上樓得和那些東西戰鬥
+No, we'd have to engage with those...
+
+410
+00:25:23,660 --> 00:25:26,699
+不好聽點說 喪屍們?
+For serious lack of a better word, zombies?
+
+411
+00:25:26,699 --> 00:25:28,091
+別這麼叫他們
+Don't call them that.
+
+412
+00:25:29,528 --> 00:25:31,760
+他們曾經是聯邦的科學家
+They were once Federation scientists.
+
+413
+00:25:31,760 --> 00:25:33,575
+和克林貢人
+And Klingons.
+
+414
+00:25:33,575 --> 00:25:35,320
+聽著 我很想知道這兒究竟發生了什麼
+Look, I'd really like to find out what happened here.
+
+415
+00:25:35,320 --> 00:25:36,926
+你可以調出實驗室的數據嗎
+Can you recall the lab's data?
+
+416
+00:25:38,536 --> 00:25:41,148
+查普爾提到的作物
+The crops that Chapel mentioned.
+
+417
+00:25:41,148 --> 00:25:43,498
+他們使用了奇美拉之花中的一種藥劑
+They used an agent from the Chimera Blossom
+
+418
+00:25:43,498 --> 00:25:46,620
+並用多年生苔蘚的基因對其進行基因編輯
+to modify them with genes from a perennial moss.
+
+419
+00:25:46,620 --> 00:25:49,025
+這種苔蘚可以在幾乎任何環境下生長
+A moss that could live and grow anywhere.
+
+420
+00:25:49,025 --> 00:25:51,820
+它們會休眠 但並不會死亡
+It lays dormant but never dies.
+
+421
+00:25:53,073 --> 00:25:54,640
+一種雜交超級作物
+A hybrid supercrop.
+
+422
+00:25:55,902 --> 00:25:58,960
+哇 這樣一來能令許多聯邦殖民果腹
+Wow. That would feed a lot of Federation colonists.
+
+423
+00:25:58,960 --> 00:26:02,280
+但事態在克林貢人入侵時急轉直下
+Only things went to hell when the Klingons invaded.
+
+424
+00:26:02,280 --> 00:26:04,160
+他們攻擊了這裡
+They attacked.
+
+425
+00:26:04,160 --> 00:26:06,300
+並無視了安全協議
+With no regard for safety protocols.
+
+426
+00:26:06,300 --> 00:26:08,860
+設施中的每個人都被暴露其中
+And everyone in the facility was exposed.
+
+427
+00:26:08,860 --> 00:26:11,820
+這導致苔蘚基因組滲入人體中
+It inserted moss genomes into their bodies.
+
+428
+00:26:11,820 --> 00:26:15,060
+隨後 這種苔蘚吞噬了它周圍的所有植物
+This moss consumes every plant around it...
+
+429
+00:26:16,020 --> 00:26:17,460
+以實現繁殖
+to proliferate.
+
+430
+00:26:17,460 --> 00:26:20,340
+而這也是它們現在在做的
+And now that is what they're doing.
+
+431
+00:26:20,340 --> 00:26:23,220
+吞噬一切活物
+Devouring anything that breathes.
+
+432
+00:26:23,880 --> 00:26:26,240
+看來就是所謂的僵屍了
+That sounds like the "Z" word.
+
+433
+00:26:28,935 --> 00:26:30,580
+等等 我們是不是也在吸著同樣的空氣
+Wait, we're breathing that same air.
+
+434
+00:26:31,460 --> 00:26:34,260
+藥劑早就分解失效了
+The agent would have broken down long ago.
+
+435
+00:26:34,260 --> 00:26:36,260
+現在我知道你看到奇美拉之花的時候
+Now I see why you were so careful
+
+436
+00:26:36,260 --> 00:26:37,770
+為什麼要那麼小心了
+about that Chimera Blossom.
+
+437
+00:26:38,420 --> 00:26:39,946
+別多想
+Don't overthink it.
+
+438
+00:26:41,251 --> 00:26:42,560
+約瑟夫
+Joseph...
+
+439
+00:26:43,180 --> 00:26:46,343
+為什麼瑪麗需要接受這樣的
+why would Marie need biome engineering?
+
+440
+00:26:46,343 --> 00:26:47,680
+生物雜交工程
+Hybridization?
+
+441
+00:26:50,826 --> 00:26:53,980
+史波克和我知道該如何安全使用它
+Spock and I know how to use it safely.
+
+442
+00:26:56,880 --> 00:26:59,320
+好吧 回答我的問題
+All right. Answer the question.
+
+443
+00:26:59,320 --> 00:27:01,740
+你想用什麼基因和她融合
+You're gonna hybridize her with what?
+
+444
+00:27:02,440 --> 00:27:04,160
+克里斯 我不能
+Chris, I cannot...
+
+445
+00:27:04,160 --> 00:27:05,120
+等等 不對勁
+Wait, wait, wait, wait, wait.
+
+446
+00:27:06,973 --> 00:27:08,740
+戈恩人?
+The Gorn?
+
+447
+00:27:09,420 --> 00:27:11,412
+這就是你所謂的療法嗎
+That's your miracle treatment?
+
+448
+00:27:11,412 --> 00:27:13,980
+你要把瑪麗變成什麼
+You're g-going to turn Marie into a-a what?
+
+449
+00:27:13,980 --> 00:27:15,300
+一個人類和戈恩人的雜交種
+A human-Gorn hybrid?
+
+450
+00:27:15,300 --> 00:27:16,620
+根本不是這樣
+It is not that rudimentary.
+
+451
+00:27:16,620 --> 00:27:17,760
+那就解釋給我聽
+Then explain it to me.
+
+452
+00:27:17,760 --> 00:27:19,000
+我跟你說過了
+I already told you,
+
+453
+00:27:19,980 --> 00:27:22,340
+這是救活她的唯一方法
+it is her only chance of survival.
+
+454
+00:27:25,540 --> 00:27:26,480
+讓我理解一下
+Let me understand.
+
+455
+00:27:26,480 --> 00:27:28,780
+比起清除她身上的戈恩遺傳物質
+Instead of ridding her body of the Gorn DNA,
+
+456
+00:27:28,780 --> 00:27:30,460
+現在反而要讓它永遠留在她體內
+you're gonna make it permanent?
+
+457
+00:27:33,300 --> 00:27:34,900
+你想要對她進行基因改造
+You're going to change her?
+
+458
+00:27:35,320 --> 00:27:36,640
+告訴我
+Tell me!
+
+459
+00:27:36,640 --> 00:27:37,760
+約瑟夫
+Joseph...
+
+460
+00:27:39,280 --> 00:27:41,007
+告訴我 你到底要對她做什麼
+Just... what are you going to do to her?
+
+461
+00:27:41,007 --> 00:27:43,096
+這是她自己的選擇 克里斯
+It was her decision, Chris.
+
+462
+00:27:45,402 --> 00:27:46,460
+她選擇如此
+She chose this.
+
+463
+00:27:49,400 --> 00:27:51,147
+她不想讓你告訴我
+She didn't want you to tell me.
+
+464
+00:27:55,499 --> 00:27:57,840
+所以史波克才主動提出和你一起去
+That's why you and Spock wanted to go...
+
+465
+00:27:57,840 --> 00:27:59,220
+這樣一來我就永遠不會得知
+So I would never know.
+
+466
+00:27:59,220 --> 00:28:00,160
+我的天
+Oh, my...
+
+467
+00:28:00,160 --> 00:28:02,920
+這是救活她的唯一方法
+This is the only way to save her.
+
+468
+00:28:05,760 --> 00:28:08,060
+而這也是我們都想要的結果
+And that is what we all want.
+
+469
+00:28:08,060 --> 00:28:09,360
+這就是你救她的辦法嗎
+This is your idea of saving--
+
+470
+00:28:09,360 --> 00:28:11,560
+還說什麼我們都想要的
+Wh-What we all want?
+
+471
+00:28:11,560 --> 00:28:12,516
+絕對不是
+No.
+
+472
+00:28:12,516 --> 00:28:14,460
+再復盤一下
+Look again.
+
+473
+00:28:14,460 --> 00:28:16,404
+再努力努力
+Try harder. I...
+
+474
+00:28:16,404 --> 00:28:18,560
+肯定有別的方法的
+There's got to be another way.
+
+475
+00:28:18,560 --> 00:28:20,700
+她只有幾天時間了
+She has a few days.
+
+476
+00:28:20,700 --> 00:28:22,440
+可能更少
+Maybe less.
+
+477
+00:28:23,614 --> 00:28:25,051
+幾天
+A few days?
+
+478
+00:28:25,051 --> 00:28:26,400
+她不想讓我知道
+She didn't want me to know
+
+479
+00:28:26,400 --> 00:28:27,860
+她也不想告訴我
+and she didn't want to tell me.
+
+480
+00:28:27,860 --> 00:28:28,820
+為什麼
+Why?
+
+481
+00:28:34,887 --> 00:28:36,280
+我們要被圍堵了
+We're gonna get swarmed.
+
+482
+00:28:36,280 --> 00:28:37,540
+過載槍上的供能線圈
+Overload the charging coil.
+
+483
+00:29:15,280 --> 00:29:16,656
+你們跟我們走
+You will come with us.
+
+484
+00:29:20,000 --> 00:29:20,940
+謝謝你
+Thank you.
+
+485
+00:29:20,940 --> 00:29:23,040
+你是誰呢
+Uh, who are you?
+
+486
+00:29:23,040 --> 00:29:24,960
+拿著裂解槍的人
+The one holding a disruptor.
+
+487
+00:29:35,338 --> 00:29:36,520
+走我前面
+Ahead of me!
+
+488
+00:29:36,520 --> 00:29:38,864
+要是走錯一步 你們就都得死
+One wrong step and you both die.
+
+489
+00:29:39,880 --> 00:29:40,821
+好吧
+Okay.
+
+490
+00:29:43,240 --> 00:29:44,640
+至少你不會生吞活剝了我們
+At least you're not trying to eat us.
+
+491
+00:29:51,920 --> 00:29:53,240
+往前走
+Forward.
+
+492
+00:30:18,400 --> 00:30:19,643
+可多虧你把它們搞醒了
+Thanks for waking them up.
+
+493
+00:30:34,520 --> 00:30:35,500
+它們數量太多了
+There are too many!
+
+494
+00:30:35,500 --> 00:30:36,920
+那些是力場發生器
+Those are forcefield emitters.
+
+495
+00:30:36,920 --> 00:30:38,300
+控制台就在正中央
+The console's dead center!
+
+496
+00:30:41,665 --> 00:30:42,666
+約瑟夫
+Joseph?!
+
+497
+00:30:54,920 --> 00:30:57,220
+我們能試著把他們引開穿梭機
+We could try luring them away from your shuttle,
+
+498
+00:30:57,220 --> 00:30:57,900
+然後關閉力場逃離
+and then lowering the field,
+
+499
+00:30:57,900 --> 00:30:59,180
+但我們需要武器
+but we need weapons.
+
+500
+00:31:10,216 --> 00:31:11,200
+克里斯
+Chris!
+
+501
+00:31:12,660 --> 00:31:14,380
+我真是嘴欠才找你合作
+I walked right into that one.
+
+502
+00:31:14,380 --> 00:31:15,360
+你到底是誰
+Who are you?
+
+503
+00:31:15,360 --> 00:31:17,280
+先說說你是誰吧
+First, we talk about you.
+
+504
+00:31:17,280 --> 00:31:20,400
+我不得不說 當你們的穿梭機越過邊界時
+I have to say, when your shuttle crossed the treaty line,
+
+505
+00:31:20,400 --> 00:31:22,141
+我簡直難以置信
+I couldn't believe it.
+
+506
+00:31:22,141 --> 00:31:24,540
+我還以為是我的維瑞迪姆定位器壞了
+I thought my viridium tracker was broken.
+
+507
+00:31:24,540 --> 00:31:25,520
+你在追蹤他?
+You were tracking him?
+
+508
+00:31:25,520 --> 00:31:27,842
+下次隆'戈維亞人請你喝酒的時候
+When a R'ongovian offers you a drink,
+
+509
+00:31:27,842 --> 00:31:29,220
+記得別吃掉裡面的橄欖
+never eat the olives.
+
+510
+00:31:29,220 --> 00:31:32,380
+現在你找到我了 但為什麼
+Now you found me. Why?
+
+511
+00:31:32,380 --> 00:31:34,718
+你沒有看見嗎
+Do you not see a reflection?
+
+512
+00:31:34,718 --> 00:31:37,340
+一束來自宿敵的目光
+The gaze of an old enemy?
+
+513
+00:31:38,460 --> 00:31:41,100
+我殺了太多克林貢人
+I have killed too many Klingons
+
+514
+00:31:41,100 --> 00:31:43,000
+以至於我都不知道你來自哪個家族
+to know which house you're from.
+
+515
+00:31:43,000 --> 00:31:45,380
+我是拜莎
+I am Bytha.
+
+516
+00:31:45,380 --> 00:31:49,320
+達克'拉赫的女兒 拉烏爾家族的冠軍戰士
+Daughter of Dak'Rah, champion of House Rah'Ul.
+
+517
+00:31:49,840 --> 00:31:51,518
+拉赫大使的女兒
+Ambassador Rah's daughter.
+
+518
+00:31:52,360 --> 00:31:55,020
+約瑟夫·姆'本加
+Joseph M'Benga...
+
+519
+00:31:55,020 --> 00:31:57,800
+我來這是為了讓你為
+I am here to make you answer
+
+520
+00:31:57,800 --> 00:31:59,980
+被你刺殺的克林貢人付出代價
+for the Klingon you assassinated.
+
+521
+00:32:06,460 --> 00:32:08,898
+正在進入肯佛瑞周圍的緩衝區
+We are now entering the buffer zone around Kenfori.
+
+522
+00:32:12,380 --> 00:32:13,000
+這是一種儀式
+It's a ritual.
+
+523
+00:32:14,541 --> 00:32:16,456
+上尉 保持七分之一脈衝推力
+Lieutenant, keep the ship at one-seventh impulse,
+
+524
+00:32:16,456 --> 00:32:17,580
+但也不要空轉
+and not a tick over.
+
+525
+00:32:17,580 --> 00:32:19,520
+高於此速度會暴露我們的位置
+Anything above that will give away our position.
+
+526
+00:32:19,520 --> 00:32:21,678
+遵命 中校 保持速度
+Aye, Commander. Maintaining speed.
+
+527
+00:32:21,678 --> 00:32:23,071
+艦橋呼叫輪機部
+Bridge to Engineering.
+
+528
+00:32:23,071 --> 00:32:24,620
+關閉所有非必要系統
+Power down all non-essential systems.
+
+529
+00:32:26,553 --> 00:32:29,060
+正在接近克林貢戰列巡洋艦 距離兩百公里
+Approaching the battle cruiser at 200 kilometers.
+
+530
+00:32:29,060 --> 00:32:30,774
+有視訊了
+I have a visual.
+
+531
+00:32:36,171 --> 00:32:39,160
+抱歉 龜速之下我很難機動
+Sorry. It's hard to maneuver at snail speed.
+
+532
+00:32:39,160 --> 00:32:41,220
+距離克林貢戰巡一百公里
+Battle Cruiser at 100 kilometers.
+
+533
+00:33:02,440 --> 00:33:04,140
+我們已經遠離克林貢戰巡
+We are clear of the Klingon ship.
+
+534
+00:33:05,000 --> 00:33:06,020
+通訊如何
+Comms?
+
+535
+00:33:06,780 --> 00:33:08,377
+沒有檢測到任何訊息
+Not picking up any chatter.
+
+536
+00:33:08,780 --> 00:33:10,080
+護盾狀態如何
+Shields?
+
+537
+00:33:10,080 --> 00:33:12,120
+仍然關閉 他們看不到我們
+Still down. They can't see us.
+
+538
+00:33:15,341 --> 00:33:17,420
+檢測到低溫凝華現象
+Detecting frozen volatiles forming.
+
+539
+00:33:19,200 --> 00:33:21,080
+建議將速度降至八分之一脈衝
+Recommend reducing speed to one-eighth impulse.
+
+540
+00:33:21,080 --> 00:33:23,040
+預計抵達時間修改為六小時
+Amending estimated arrival to six hours.
+
+541
+00:33:27,309 --> 00:33:29,877
+我們必須相信派克和姆'本加
+We'll have to trust that Pike and M'Benga are capable enough
+
+542
+00:33:29,877 --> 00:33:31,704
+能夠再堅持多一會
+to hold down their own a little while longer.
+
+543
+00:33:32,560 --> 00:33:34,840
+上尉 降至八分之一脈衝推力
+Lieutenant, one-eighth impulse.
+
+544
+00:33:34,840 --> 00:33:37,189
+已減速至八分之一
+Slowing to one-eighth.
+
+545
+00:33:44,200 --> 00:33:46,937
+中校 我檢測到一些信號
+Commander, I'm picking up something now.
+
+546
+00:33:46,937 --> 00:33:48,113
+是一個監測頻率
+It's a monitoring frequency.
+
+547
+00:33:48,660 --> 00:33:50,280
+他們的傳感器正在啟動
+Their sensors are activating.
+
+548
+00:33:50,280 --> 00:33:52,300
+他們正在將傳感陣列瞄向我艦
+They're turning their array toward our ship.
+
+549
+00:33:52,856 --> 00:33:55,600
+中校 我想我們被發現了
+Commander, I think we've been spotted.
+
+550
+00:34:01,952 --> 00:34:03,780
+沒事的 我會活下來
+It's fine. I'll survive.
+
+551
+00:34:04,520 --> 00:34:07,044
+夠了 離開他
+Enough. Leave him.
+
+552
+00:34:10,352 --> 00:34:12,789
+冤有頭 債有主 饒了我的朋友吧
+Your grievance is with me. Spare my friend.
+
+553
+00:34:13,180 --> 00:34:14,443
+你錯了
+You are wrong.
+
+554
+00:34:14,443 --> 00:34:18,099
+我的冤一直在我父親身上
+My grievance has always been with my father,
+
+555
+00:34:18,099 --> 00:34:19,800
+他是帝國的叛徒
+traitor to the empire.
+
+556
+00:34:19,800 --> 00:34:21,494
+你不是來為他報仇的?
+You're not here to avenge him?
+
+557
+00:34:21,494 --> 00:34:22,780
+他是個戰犯
+He was a war criminal
+
+558
+00:34:22,780 --> 00:34:25,080
+也是投降聯邦的走狗
+and a lapdog to the Federation.
+
+559
+00:34:25,800 --> 00:34:27,260
+死有餘辜
+I welcomed his death.
+
+560
+00:34:27,260 --> 00:34:29,100
+原來是克林貢人的血仇
+A Klingon blood feud.
+
+561
+00:34:33,440 --> 00:34:36,040
+達克'拉赫讓我們家族蒙羞
+Dak'Rah brought shame to our family name.
+
+562
+00:34:36,040 --> 00:34:37,240
+因為他的罪
+For his sins,
+
+563
+00:34:37,240 --> 00:34:40,252
+我們家族受盡屈辱
+our house has been subject to discommendation.
+
+564
+00:34:40,252 --> 00:34:43,120
+族人被疏遠 血統被唾棄
+We are shunned, our bloodline spat upon.
+
+565
+00:34:43,120 --> 00:34:45,735
+甚至 為了包船來這裡 我不得不卑躬屈膝
+I had to grovel just to charter a ship here.
+
+566
+00:34:45,735 --> 00:34:49,140
+只有一種方法可以恢復我們的名譽
+There was one way to restore our name.
+
+567
+00:34:49,680 --> 00:34:51,420
+親手暗殺我的父親
+Assassinate my father.
+
+568
+00:34:51,420 --> 00:34:53,596
+可惡的是 你先殺掉了他
+Only, you got to him first.
+
+569
+00:34:56,660 --> 00:34:57,720
+好吧
+Okay.
+
+570
+00:34:58,580 --> 00:34:59,836
+我們需要保持冷靜
+We need to stay calm.
+
+571
+00:34:59,836 --> 00:35:01,447
+她認為殺了我
+She thinks killing me
+
+572
+00:35:01,447 --> 00:35:04,240
+會以某種方式恢復她的榮譽
+will somehow restore her honor.
+
+573
+00:35:04,240 --> 00:35:06,580
+除非我手刃刺殺我父親的刺客
+Our name remains soiled
+
+574
+00:35:06,580 --> 00:35:08,760
+否則我們的家族仍將蒙羞
+unless I kill my father's assassin.
+
+575
+00:35:09,324 --> 00:35:10,740
+儀式戰鬥?
+Ritual combat?
+
+576
+00:35:12,060 --> 00:35:13,502
+戰鬥至死?
+To the death?
+
+577
+00:35:13,502 --> 00:35:15,939
+他沒有暗殺拉赫
+He didn't assassinate Rah.
+
+578
+00:35:15,939 --> 00:35:17,332
+他的行為是出於自衛
+He acted in self-defense.
+
+579
+00:35:17,332 --> 00:35:19,160
+這個人類說的是實話嗎
+Does this human speak the truth?
+
+580
+00:35:19,160 --> 00:35:21,620
+你的戰士時代已經過去了嗎
+Are your warrior days behind you?
+
+581
+00:35:24,948 --> 00:35:27,500
+我只問你一次
+I will only ask you once.
+
+582
+00:35:27,500 --> 00:35:29,780
+你真的暗殺了我父親嗎
+Did you assassinate my father?
+
+583
+00:35:33,280 --> 00:35:34,871
+他們把我們掃描了個遍
+Their scanners are all over us.
+
+584
+00:35:34,871 --> 00:35:36,360
+-烏乎拉 -還是什麼也沒有
+- Uhura. - Still nothing.
+
+585
+00:35:36,360 --> 00:35:37,760
+克林貢人沒有回應
+The Klingons aren't responding.
+
+586
+00:35:37,760 --> 00:35:38,800
+繼續嘗試
+Keep trying.
+
+587
+00:35:38,800 --> 00:35:40,440
+告訴他們我們來這裡執行救援任務
+Inform them that we are here on a rescue mission.
+
+588
+00:35:40,440 --> 00:35:41,940
+我們並沒有著陸意圖
+We are not attempting to land.
+
+589
+00:35:41,940 --> 00:35:43,260
+他們還沒有升起護盾
+They haven't raised shields yet,
+
+590
+00:35:43,260 --> 00:35:45,380
+但我建議趁我們還有機會 升起護盾
+but I recommend raising ours while we have the chance.
+
+591
+00:35:46,231 --> 00:35:47,940
+不行 這樣會釋放錯誤的信號
+No, that sends the wrong message.
+
+592
+00:35:48,920 --> 00:35:50,380
+為什麼要關心他們的看法
+Why do we care what they think?
+
+593
+00:35:50,380 --> 00:35:51,840
+這毫無意義 如果他們
+This is pointless. If they...
+
+594
+00:35:56,600 --> 00:35:58,243
+說完你的想法 上尉
+Finish your thought, Lieutenant.
+
+595
+00:35:58,243 --> 00:36:00,640
+我只是認為我們已經越過了外交能解決的界限
+I just think we're past the point of diplomacy.
+
+596
+00:36:00,640 --> 00:36:03,117
+你認為向我表達這種擔憂是明智的嗎
+And you thought it wise to express that concern to me
+
+597
+00:36:03,117 --> 00:36:04,620
+鑑於我們正在執行命令的過程中?
+in the middle of executing orders?
+
+598
+00:36:07,420 --> 00:36:08,880
+克林貢艦船護盾已升起
+
+599
+00:36:09,440 --> 00:36:11,734
+克林貢戰巡正在升起護盾並逼近
+The Klingons are raising shields and closing in.
+
+600
+00:36:13,460 --> 00:36:15,040
+中校 是時候交戰了
+Commander, time to engage.
+
+601
+00:36:15,580 --> 00:36:17,523
+執行規避機動 奧特加斯 看你了
+Evasive maneuvers. Ortegas, you're up.
+
+602
+00:36:18,915 --> 00:36:20,352
+樂意之至
+Gladly.
+
+603
+00:36:24,834 --> 00:36:26,575
+告訴她真相
+Just tell her the truth.
+
+604
+00:36:28,708 --> 00:36:30,710
+我暗殺了拉赫
+I assassinated Rah.
+
+605
+00:36:30,710 --> 00:36:32,146
+-約瑟夫 -我本可以阻止自己
+- Joseph... - I could have stopped it.
+
+606
+00:36:32,146 --> 00:36:34,148
+但這個大屠殺兇手給了我
+But a mass murderer gave me
+
+607
+00:36:34,148 --> 00:36:36,542
+殺死他的機會
+the opportunity to kill him.
+
+608
+00:36:37,560 --> 00:36:38,740
+我如此做了
+And I did.
+
+609
+00:36:39,800 --> 00:36:41,148
+自願的
+Willingly.
+
+610
+00:36:42,460 --> 00:36:43,940
+如果再有機會 我還會如此
+I would do it again.
+
+611
+00:36:44,500 --> 00:36:46,291
+所以 沒錯
+So yes.
+
+612
+00:36:46,291 --> 00:36:48,380
+他的性命 由我奪取
+His blood is on my hands.
+
+613
+00:36:49,946 --> 00:36:51,948
+這是不光彩的嗎
+Was that dishonorable?
+
+614
+00:36:51,948 --> 00:36:53,280
+我不清楚
+I don't know.
+
+615
+00:36:55,387 --> 00:36:57,389
+但我清楚 那是正義
+But there was justice.
+
+616
+00:36:58,080 --> 00:36:59,434
+我撒謊 是為了掩護
+I lied to protect
+
+617
+00:36:59,434 --> 00:37:01,400
+那個仍潛藏於我內心的野獸
+the monster that still lives inside me.
+
+618
+00:37:04,200 --> 00:37:07,181
+若有需要 我會讓他重拾鋒鏑
+Should the day come when he is needed again.
+
+619
+00:37:13,405 --> 00:37:15,060
+把刀拿起來
+Pick up the blade.
+
+620
+00:37:15,972 --> 00:37:17,260
+直面我
+And face me.
+
+621
+00:37:27,600 --> 00:37:28,855
+約瑟夫
+Joseph.
+
+622
+00:37:28,855 --> 00:37:30,100
+別這樣
+Don't do this.
+
+623
+00:37:30,100 --> 00:37:31,858
+我包裡有一個給你的醫療包
+There is a med kit for you in my bag.
+
+624
+00:37:31,858 --> 00:37:33,620
+找到辦法離開這個遺棄星球
+Find your way off this forsaken planet,
+
+625
+00:37:34,260 --> 00:37:36,060
+然後把花帶給巴特爾艦長
+and get the flower to Batel.
+
+626
+00:37:36,060 --> 00:37:37,860
+查普爾護士和史波克那裡有我的實驗記錄
+Chapel and Spock have my lab notes.
+
+627
+00:37:37,860 --> 00:37:38,980
+一定有其他方法
+There has to be another way.
+
+628
+00:37:38,980 --> 00:37:39,860
+夠了
+Enough!
+
+629
+00:37:41,346 --> 00:37:43,435
+是時候了 你死我活
+It is time for one of us to die.
+
+630
+00:37:47,265 --> 00:37:49,354
+我已經準備好面對我的命運了
+I am ready to face my destiny.
+
+631
+00:37:50,572 --> 00:37:51,720
+你呢
+Are you?
+
+632
+00:37:56,796 --> 00:37:59,581
+上面沾有我父親的血
+This holds the blood of my father.
+
+633
+00:38:00,886 --> 00:38:03,106
+把他纏在手上
+It binds us.
+
+634
+00:38:03,106 --> 00:38:06,849
+直到它沾滿敗者的鮮血
+Until it is stained with the blood of the vanquished.
+
+635
+00:39:12,560 --> 00:39:13,481
+不
+No!
+
+636
+00:39:14,300 --> 00:39:15,280
+不
+No!
+
+637
+00:39:18,791 --> 00:39:20,488
+你不能棄權
+You cannot forfeit!
+
+638
+00:39:22,185 --> 00:39:23,260
+太遲了
+Too late.
+
+639
+00:39:24,560 --> 00:39:26,520
+我今天不需要釋放野獸出來
+I do not need the monster today.
+
+640
+00:39:26,520 --> 00:39:28,191
+輕饒我命
+By sparing my life,
+
+641
+00:39:28,191 --> 00:39:30,846
+是對我的命運下了詛咒 比死了還糟糕
+you damn me to a fate worse than death.
+
+642
+00:39:32,000 --> 00:39:33,660
+這力場要支撐不住了
+That field's about to come down.
+
+643
+00:39:41,840 --> 00:39:43,163
+斯坎內爾中尉 還有多久
+Lieutenant Scannell, time?
+
+644
+00:39:43,163 --> 00:39:44,599
+四秒後進入大氣熱層
+Thermospheric entry in four seconds.
+
+645
+00:39:44,599 --> 00:39:46,300
+外部氣體壓縮到80%
+Outer gas compression is at 80%.
+
+646
+00:39:46,300 --> 00:39:48,255
+所以我們基本上算是撞向一堵磚牆
+So basically we're flying into a brick wall.
+
+647
+00:39:48,255 --> 00:39:49,960
+別亂想了 堅守崗位
+Don't think about it, just hang on.
+
+648
+00:39:59,527 --> 00:40:00,746
+傳送室呼叫艦橋
+Transporter to Bridge.
+
+649
+00:40:00,746 --> 00:40:02,520
+你們必須立刻關閉引擎
+You need to cut engine power now!
+
+650
+00:40:02,520 --> 00:40:04,620
+如果你們不補償行星引力
+If you don't compensate for planetary gravity,
+
+651
+00:40:04,620 --> 00:40:05,840
+船會散架的
+we will come apart.
+
+652
+00:40:05,840 --> 00:40:06,940
+收到 中尉 
+Copy, Lieutenant. 
+
+653
+00:40:06,940 --> 00:40:08,900
+你繼續嘗試獲取傳送信號
+You work on getting us that transporter signal.
+
+654
+00:40:08,900 --> 00:40:11,080
+佩利亞早就警告過你別逞強
+Pelia warned you not to volunteer.
+
+655
+00:40:11,080 --> 00:40:13,759
+現在好了 說出去的話就像潑出去的水
+And now you actually have to do what you promised.
+
+656
+00:40:33,840 --> 00:40:36,825
+力場重新上線了 但是它撐不了太久
+The field is back up, but it won't hold much longer!
+
+657
+00:40:49,920 --> 00:40:50,860
+目前你殺了一個
+You got one.
+
+658
+00:40:50,860 --> 00:40:52,100
+你還有心情記分啊
+You're keeping score?
+
+659
+00:40:59,326 --> 00:41:00,849
+聽著
+Listen, uh...
+
+660
+00:41:00,849 --> 00:41:03,280
+我們合作 就能都活著逃出去
+we work together, we all get out alive.
+
+661
+00:41:21,500 --> 00:41:23,620
+<i>衝我來</i>
+
+662
+00:41:23,620 --> 00:41:25,520
+<i>你們這些骯髒的塔格獸</i>
+
+663
+00:41:27,500 --> 00:41:29,530
+她在吸引喪屍的注意
+She's drawing their attention.
+
+664
+00:41:29,530 --> 00:41:30,580
+為什麼
+Why?
+
+665
+00:41:31,532 --> 00:41:33,534
+通過犧牲她自己
+By sacrificing herself,
+
+666
+00:41:33,534 --> 00:41:35,449
+她會光榮地死去
+she chooses an honorable death.
+
+667
+00:41:35,449 --> 00:41:36,880
+但是沒有人會知道
+But no one will ever know.
+
+668
+00:41:37,660 --> 00:41:38,640
+她會知道
+She will know.
+
+669
+00:41:41,280 --> 00:41:42,820
+我會知道
+I will know.
+
+670
+00:41:42,820 --> 00:41:44,540
+願斯托沃寇歡迎你
+May Sto-vo-kor welcome you.
+
+671
+00:41:54,424 --> 00:41:56,320
+快走 到穿梭機上去
+Come on, let's get to the shuttle.
+
+10672
+00:41:57,800 --> 00:41:59,300
+甲板重力層失效
+
+673
+00:41:57,800 --> 00:41:59,517
+輪機室發出警告
+Alert from Engineering!
+
+674
+00:41:59,517 --> 00:42:00,880
+人工重力正在失效
+Artificial gravity is failing
+
+675
+00:42:00,880 --> 00:42:02,640
+慣性阻尼器效能僅剩20%
+and inertial dampeners are at 20%.
+
+676
+00:42:02,640 --> 00:42:04,040
+如果我們不讓它重新上線
+If we don't get it back up...
+
+677
+00:42:09,657 --> 00:42:11,000
+奧特加斯 你能穩定我們的軌道嗎
+Ortegas, can you stabilize us?
+
+678
+00:42:11,000 --> 00:42:12,460
+稍等
+In a minute.
+
+679
+00:42:12,460 --> 00:42:13,760
+傳送室呼叫艦橋
+Transport to Bridge.
+
+680
+00:42:13,760 --> 00:42:17,580
+在艦船軌道塌陷時 很難保持模式完整性
+It's a little hard to maintain pattern integrity in orbital collapse.
+
+681
+00:42:17,580 --> 00:42:19,640
+你們能不能稍微開穩一點
+Can you maybe give me a smidge less turbulence?
+
+682
+00:42:19,640 --> 00:42:21,860
+斯考特 你知道怎麼重新穩定軌道嗎
+Mr. Scott, any ideas on how to re-stabilize?
+
+683
+00:42:21,860 --> 00:42:24,740
+試試交替啟動脈衝引擎
+Try firing impulse thrusters in an alternating pattern.
+
+684
+00:42:24,740 --> 00:42:26,700
+先啟動輔助引擎 再啟動主引擎
+Auxiliary first, then the main.
+
+685
+00:42:26,700 --> 00:42:28,000
+我要開始傳送了
+I'm gonna energize.
+
+686
+00:42:28,000 --> 00:42:29,800
+我真心希望自己不要把
+I really hope I don't scramble
+
+687
+00:42:29,800 --> 00:42:32,040
+艦長和姆'本加醫生混在一起了
+the captain and Dr. M'Benga up.
+
+688
+00:42:53,780 --> 00:42:54,820
+傳送室呼叫艦橋
+Transport to Bridge,
+
+689
+00:42:54,820 --> 00:42:56,520
+艦長和醫官已經傳送登艦
+we have the captain and doctor on board.
+
+690
+00:42:56,520 --> 00:42:58,360
+幹得好 斯考提 我們現在維持在軌道上
+Good one, Scotty. We're maintaining orbit now.
+
+691
+00:42:58,360 --> 00:43:00,900
+中校 我們的通訊受到干擾
+Commander, I'm getting interference on our comms.
+
+692
+00:43:00,900 --> 00:43:01,960
+有東西在阻塞我們的通訊
+Something's jamming us.
+
+693
+00:43:01,960 --> 00:43:02,880
+來源不是星塵帶
+It's not from the dust belt.
+
+694
+00:43:02,880 --> 00:43:03,800
+打開艦尾視訊
+Aft viewscreen.
+
+695
+00:43:06,200 --> 00:43:07,410
+他們正在進入攻擊陣位
+They're on an attack course.
+
+696
+00:43:07,410 --> 00:43:08,360
+奧特加斯
+Ortegas?
+
+697
+00:43:08,360 --> 00:43:09,280
+馬上就好
+Already on it.
+
+698
+00:43:09,280 --> 00:43:11,080
+吃我們的尾氣去吧
+Say hi to our dust.
+
+699
+00:43:19,120 --> 00:43:20,638
+恭喜 各位
+Congratulations, everyone.
+
+700
+00:43:21,420 --> 00:43:25,220
+艾麗卡 相當精彩的飛行
+Erica... stellar flying.
+
+701
+00:43:25,220 --> 00:43:26,760
+但下次別這麼做了
+But never do that again.
+
+702
+00:43:32,340 --> 00:43:34,560
+艦長個人日誌 補充
+Captain's personal log, supplemental.
+
+703
+00:43:34,560 --> 00:43:36,360
+我們已經帶著一朵奇美拉之花
+We have returned from our away mission
+
+704
+00:43:36,360 --> 00:43:37,800
+從外遣任務歸來
+with a single Chimera Blossom.
+
+705
+00:43:38,355 --> 00:43:40,792
+一旦史波克完成了化合物的合成
+Once Spock synthesizes its chemical compounds,
+
+706
+00:43:40,792 --> 00:43:42,620
+瑪麗就可以開始接受新療法了
+Marie's new therapy can begin.
+
+707
+00:43:43,403 --> 00:43:45,640
+我好奇這個激進的療法
+I wonder what effects this radical treatment
+
+708
+00:43:45,640 --> 00:43:47,500
+對她會有什麼效果
+will have on her.
+
+709
+00:43:50,620 --> 00:43:52,847
+你會上報我的行徑嗎
+Are you going to turn me in?
+
+710
+00:43:57,417 --> 00:43:58,766
+你擔心我會嗎
+Are you worried I will?
+
+711
+00:44:00,680 --> 00:44:03,641
+那取決於我在跟誰說話
+That depends on who I'm talking to right now.
+
+712
+00:44:04,300 --> 00:44:05,860
+是我的朋友
+My friend...
+
+713
+00:44:05,860 --> 00:44:07,383
+還是我的艦長
+or my captain?
+
+714
+00:44:07,840 --> 00:44:10,038
+我理解你為什麼有些事
+Look, I understand why you didn't tell me
+
+715
+00:44:10,038 --> 00:44:11,520
+不肯告訴我了
+certain things, huh?
+
+716
+00:44:12,640 --> 00:44:15,080
+我只希望我能早些知道
+I just wish I had known some of them sooner.
+
+717
+00:44:17,280 --> 00:44:19,020
+按照官方說法
+Officially, there was
+
+718
+00:44:19,020 --> 00:44:20,919
+不存在前往肯佛瑞星的任務
+no mission to Kenfori.
+
+719
+00:44:20,919 --> 00:44:22,640
+所以 那裡什麼也沒有發生
+So, nothing happened there.
+
+720
+00:44:23,840 --> 00:44:25,680
+我沒有什麼報告需要提交
+I don't have any report to file.
+
+721
+00:44:26,720 --> 00:44:28,112
+但是如果假設
+But if you did,
+
+722
+00:44:28,748 --> 00:44:30,620
+你提交了報告
+hypothetically,
+
+723
+00:44:30,620 --> 00:44:32,300
+裡面會怎麼說
+what would it say?
+
+724
+00:44:33,409 --> 00:44:34,880
+會說 有人用刀架在我喉嚨上
+That I had a knife to my throat and 
+
+725
+00:44:34,880 --> 00:44:36,760
+你為了救我 編了一個故事
+you told a story to save my life.
+
+726
+00:44:38,676 --> 00:44:40,180
+那就是事情的經過 有異議嗎
+That's what happened, wouldn't you agree?
+
+727
+00:44:44,160 --> 00:44:45,240
+沒有
+I would.
+
+728
+00:44:49,556 --> 00:44:51,819
+你不是一頭野獸 約瑟夫
+You're not a monster, Joseph.
+
+729
+00:44:54,387 --> 00:44:56,215
+只是一個普通人
+Just a man.
+
+730
+00:44:57,216 --> 00:44:58,600
+更是我的朋友
+And my friend.
+
+731
+00:45:06,220 --> 00:45:08,499
+怎麼了 你想聊聊嗎
+What's up? You wanted to chat?
+
+732
+00:45:09,000 --> 00:45:10,899
+請就座 上尉
+Have a seat, Lieutenant.
+
+733
+00:45:10,899 --> 00:45:13,667
+感覺 很正式啊
+Oh, this feels, uh, official.
+
+734
+00:45:15,495 --> 00:45:17,560
+正好在0240時
+At precisely 0240 hours,
+
+735
+00:45:17,560 --> 00:45:19,480
+當我嚴令你保持脈衝引擎推力在八分之一時
+you pushed the engines to one-sixth impulse power,
+
+736
+00:45:19,480 --> 00:45:21,299
+你把它開到了六分之一推力
+when I gave you strict orders to keep us at one-eighth.
+
+737
+00:45:23,680 --> 00:45:25,552
+我在試圖躲避小行星
+I was trying to dodge tiny asteroids.
+
+738
+00:45:27,240 --> 00:45:28,179
+我們當時都很緊張
+We were all on edge.
+
+739
+00:45:28,179 --> 00:45:29,539
+我可能有點手滑了
+My finger might have slipped a little.
+
+740
+00:45:30,200 --> 00:45:31,939
+我相信對一般舵手來說
+A reasonable error by the standards
+
+741
+00:45:31,939 --> 00:45:33,539
+這是個合情合理的錯誤
+I hold most helm officers to.
+
+742
+00:45:33,539 --> 00:45:35,080
+但你不是一般的舵手
+But you're not most helm officers.
+
+743
+00:45:35,080 --> 00:45:37,120
+你不會犯這樣的錯誤
+You don't make mistakes like that.
+
+744
+00:45:38,579 --> 00:45:40,360
+除非你是有意為之
+Unless they're intentional.
+
+745
+00:45:40,979 --> 00:45:43,305
+你逼我做出決定
+You forced my hand.
+
+746
+00:45:44,440 --> 00:45:47,939
+你開得剛好快到能讓我們被克林貢人發現
+You flew just fast enough for us to be spotted by the Klingons,
+
+747
+00:45:47,939 --> 00:45:51,120
+所以我別無選擇 只能轉而執行你的計劃
+so I'd have no choice but to switch over to your plan.
+
+748
+00:45:51,120 --> 00:45:52,575
+看著我的眼睛
+Look me in the eye
+
+749
+00:45:52,575 --> 00:45:54,339
+告訴我 我想錯了
+and tell me I'm wrong.
+
+750
+00:45:57,015 --> 00:45:58,360
+你打算讓派克和姆'本加
+You were going to leave Pike and M'Benga
+
+751
+00:45:58,360 --> 00:46:00,080
+被困在下面六個小時
+stranded for six hours.
+
+752
+00:46:00,080 --> 00:46:02,542
+我們都知道克林貢人不收俘虜
+We all know the Klingons don't take prisoners.
+
+753
+00:46:02,542 --> 00:46:04,000
+你可以不同意我的決策
+Disagree with me all you want.
+
+754
+00:46:04,000 --> 00:46:05,760
+但不是你來做出決策
+It's not your call to make.
+
+755
+00:46:05,760 --> 00:46:07,459
+你知道六個小時能發生什麼嗎
+Do you know what could happen in six hours?
+
+756
+00:46:12,639 --> 00:46:15,033
+對你的遭遇 我感到很遺憾
+I'm sorry about what happened to you, Erica.
+
+757
+00:46:15,033 --> 00:46:16,720
+但是我不能讓這些事影響你的判斷
+But I can't have it affect your judgment.
+
+758
+00:46:16,720 --> 00:46:18,280
+那是個錯誤
+It was a mistake.
+
+759
+00:46:19,020 --> 00:46:20,760
+我能處理好它
+I can get a handle on it.
+
+760
+00:46:20,760 --> 00:46:22,475
+你最好能
+You better.
+
+761
+00:46:22,475 --> 00:46:24,651
+派克和姆'本加當時正準備開穿梭機逃走
+Pike and M'Benga were about to escape in a shuttle.
+
+762
+00:46:24,651 --> 00:46:26,300
+你耍的花招不必要地威脅到了
+So your maneuver endangered
+
+763
+00:46:26,300 --> 00:46:27,820
+艦上每一個人的安全
+everyone on the ship unnecessarily.
+
+764
+00:46:29,960 --> 00:46:31,320
+我並沒有想危及他們
+I never meant to do that.
+
+765
+00:46:32,480 --> 00:46:33,619
+我知道
+I know.
+
+766
+00:46:35,640 --> 00:46:37,969
+但是你抗命是有後果的
+But there are consequences for insubordination.
+
+767
+00:46:37,969 --> 00:46:40,320
+我會把你從輪班表上撤下
+I'm pulling you from the duty roster.
+
+768
+00:46:40,320 --> 00:46:41,400
+兩週時間
+Two weeks. 
+
+769
+00:46:41,400 --> 00:46:43,180
+在此期間內 你需要向准尉報道
+In that time, you'll have to report to the warrant officer
+
+770
+00:46:43,180 --> 00:46:44,440
+進行指揮體系訓練
+for Chain-of-Command training.
+
+771
+00:46:53,139 --> 00:46:53,939
+我可以離開了嗎 長官
+Am I dismissed, sir?
+
+772
+00:46:58,772 --> 00:47:00,121
+艾麗卡
+Erica.
+
+773
+00:47:01,862 --> 00:47:03,160
+什麼事 長官
+Yes, sir?
+
+774
+00:47:04,259 --> 00:47:06,002
+這種事不能再發生了
+This can't ever happen again.
+
+775
+00:47:07,240 --> 00:47:09,720
+你明白嗎
+You do realize that, right?
+
+776
+00:47:10,899 --> 00:47:11,820
+我明白
+I do.
+
+777
+00:47:13,352 --> 00:47:15,136
+而且我很抱歉
+And I'm sorry.
+
+778
+00:47:30,717 --> 00:47:32,240
+嘿
+Hey.
+
+779
+00:47:32,240 --> 00:47:34,040
+你的腿怎麼樣了 我聽說你受傷了
+How's your leg? I heard you got hurt.
+
+780
+00:47:34,040 --> 00:47:34,979
+沒事了
+It's fine.
+
+781
+00:47:39,682 --> 00:47:41,249
+我想知道為什麼船上除了我以外
+I want to know why everyone else on the ship
+
+782
+00:47:41,249 --> 00:47:42,240
+所有人都知道這件事
+seems to know but me.
+
+783
+00:47:42,560 --> 00:47:44,780
+當那植物把你和幾乎殺死你的物種
+Do you have any idea what could happen?
+
+784
+00:47:44,780 --> 00:47:46,499
+融合在一起的時候
+When that plant fuses you with the species
+
+785
+00:47:46,499 --> 00:47:47,699
+你知道後果可能有多嚴重嗎
+that nearly killed you already?
+
+786
+00:47:47,699 --> 00:47:49,344
+我清楚所有的風險
+I know all the risks and...
+
+787
+00:47:49,900 --> 00:47:50,819
+但我不在乎
+I don't care.
+
+788
+00:47:50,819 --> 00:47:52,040
+你對我說謊了
+Fine, you lied to me.
+
+789
+00:47:52,040 --> 00:47:53,180
+我從來沒對你說過謊
+I never lied to you.
+
+790
+00:47:53,180 --> 00:47:54,120
+那你為什麼不告訴我
+Then why didn't you tell me?
+
+791
+00:47:54,120 --> 00:47:55,500
+原因在於你
+Because of you.
+
+792
+00:47:56,656 --> 00:47:59,820
+因為這件事 因為我已經沒有餘裕去顧慮
+Because of this, because I don't have the space to worry
+
+793
+00:47:59,820 --> 00:48:01,604
+我的死會如何讓你難過
+about how my dying hurts your feelings.
+
+794
+00:48:12,585 --> 00:48:14,040
+克里斯
+Chris?
+
+795
+00:48:14,607 --> 00:48:17,242
+你還有好幾天時間
+You had days and...
+
+796
+00:48:17,242 --> 00:48:19,592
+但你做出了我能想像的
+you made what I can only imagine
+
+797
+00:48:19,592 --> 00:48:21,539
+你人生中最艱難的決定
+is the hardest decision of your life.
+
+798
+00:48:21,539 --> 00:48:23,040
+我卻沒參與其中
+But I wasn't a part of it.
+
+799
+00:48:23,040 --> 00:48:24,000
+是的 因為這與你無關
+ Yeah, because it wasn't about you.
+
+800
+00:48:24,000 --> 00:48:26,320
+我只希望我有機會能說出所有該說的話
+I just wish I'd have had the opportunity to be able to say
+
+801
+00:48:26,320 --> 00:48:28,800
+有機會告訴你 我會無條件支持你
+all the right things, to tell you I'd be there no matter what.
+
+802
+00:48:28,800 --> 00:48:29,900
+無論你做了什麼決定
+No matter what choice you made.
+
+803
+00:48:29,900 --> 00:48:30,940
+如果真是那樣就好了
+And that would've been nicer.
+
+804
+00:48:30,940 --> 00:48:33,388
+但是你知道嗎 你我都心知肚明
+But you know what, we both know you and we know
+
+805
+00:48:33,388 --> 00:48:35,400
+你一定會堅持要我們尋找別的辦法
+that you would have demanded we find another way.
+
+806
+00:48:38,654 --> 00:48:40,080
+然而並沒有別的辦法了
+And there is no other way.
+
+807
+00:48:40,640 --> 00:48:43,000
+我很害怕 克里斯
+I'm scared, Chris.
+
+808
+00:48:43,000 --> 00:48:45,357
+嘿 過來
+Hey, come here.
+
+809
+00:48:45,357 --> 00:48:46,760
+我知道
+I know, I know.
+
+810
+00:48:50,579 --> 00:48:52,494
+我也很害怕
+I'm scared, too.
+
