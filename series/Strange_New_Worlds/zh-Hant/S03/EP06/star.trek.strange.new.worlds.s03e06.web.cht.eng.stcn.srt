@@ -1,0 +1,4553 @@
+﻿0
+00:00:00,000 --> 00:00:00,000
+製作: 星際迷航中國字幕組 (https://www.startrekchina.org)
+翻譯: 鬍子 & Bruce & EnterpriseH & 是大e呀 & Soulzt & 北窗高臥久息塵
+校對: Imprinting & narwhrl
+時軸: narwhrl
+特效: narwhrl
+日期: 2025-08-20
+
+1
+00:00:19,980 --> 00:00:22,160
+《星際迷航: 新世界》前情提要
+Previously on Star Trek: Strange New Worlds...
+
+2
+00:00:22,220 --> 00:00:23,650
+史波克 這是詹姆斯·柯克
+Spock, meet James Kirk,
+
+3
+00:00:23,720 --> 00:00:25,020
+法拉格特號的大副
+first officer of the Farragut.
+
+4
+00:00:25,130 --> 00:00:26,160
+當年我剛接受任命時
+When I took my commission,
+
+5
+00:00:26,260 --> 00:00:27,260
+跟著派克學習了一週
+I spent a week shadowing Pike.
+
+6
+00:00:27,360 --> 00:00:29,060
+那段經歷讓我受益匪淺
+It made all the difference.
+
+7
+00:00:29,200 --> 00:00:30,700
+你知道幾乎永生
+You want to know the worst thing
+
+8
+00:00:30,830 --> 00:00:33,030
+這件事最糟糕的一點是什麼嗎
+about living almost forever?
+
+9
+00:00:33,170 --> 00:00:34,470
+你會失去你愛的人
+The loss of those you love.
+
+10
+00:00:34,540 --> 00:00:36,080
+這不是你的錯 克里斯
+It wasn't your fault, Chris.
+
+11
+00:00:36,170 --> 00:00:37,470
+我是領隊人
+I led the mission.
+
+12
+00:00:37,570 --> 00:00:39,070
+我們得對別人的生命負責
+We're responsible for other people's lives.
+
+13
+00:00:39,170 --> 00:00:41,670
+船員們的性命就是我的一切
+The lives of my crew mean everything to me.
+
+14
+00:00:41,780 --> 00:00:44,380
+我們的職業讓我們不得不頻繁的面對死亡
+Our job puts us up against death
+
+15
+00:00:44,480 --> 00:00:45,450
+這本就不公平
+more than is fair.
+
+16
+00:00:45,550 --> 00:00:47,750
+你可以選擇讓死亡贏過你
+Now, you can let death win
+
+17
+00:00:47,880 --> 00:00:50,080
+又或是挺身反擊它
+or you can fight back.
+
+18
+00:00:56,790 --> 00:01:00,090
+大副私人日誌 星曆
+First officer's personal log. Stardate...
+
+19
+00:01:00,090 --> 00:01:02,830
+星曆到底是怎麼算的
+What is the stardate?
+
+20
+00:01:03,360 --> 00:01:05,660
+日子全都混淆在一起了
+They're all blending together.
+
+21
+00:01:05,660 --> 00:01:07,700
+法拉格特號正在聯邦星域外
+Farragut is conducting a planetary survey
+
+22
+00:01:07,700 --> 00:01:10,600
+對一顆無人居住的M級星球 赫利孔γ星
+of Helicon Gamma, an uninhabited M-class world
+
+23
+00:01:10,600 --> 00:01:12,800
+進行行星勘測
+outside Federation space, and...
+
+24
+00:01:15,510 --> 00:01:19,110
+而我實在是無聊極了
+...I am so deeply bored.
+
+25
+00:01:20,510 --> 00:01:22,780
+我發現最近總是忍不住質疑
+I find myself constantly questioning
+
+26
+00:01:22,780 --> 00:01:24,390
+維瑞爾艦長的命令
+Captain V'Rel's orders.
+
+27
+00:01:24,390 --> 00:01:27,020
+對於風險 她避之唯恐不及
+It's like she's allergic to risk.
+
+28
+00:01:27,020 --> 00:01:29,090
+我們在宇宙裡是要幹實事的
+We're out here to get our hands dirty,
+
+29
+00:01:29,090 --> 00:01:31,040
+是來探索的
+to be explorers,
+
+30
+00:01:31,040 --> 00:01:33,530
+而不是對著掃描數據三重核查 紙上談兵
+not to triple-check every sensor reading.
+
+31
+00:01:34,200 --> 00:01:35,580
+我明白
+I get it.
+
+32
+00:01:35,580 --> 00:01:37,440
+她想嚴格按照規定來辦事
+She wants to do everything by the book.
+
+33
+00:01:37,440 --> 00:01:39,930
+昨天晚上到現在有什麼變化嗎
+Any changes since last night?
+
+34
+00:01:39,930 --> 00:01:41,760
+我只是覺得如果規定是我定的
+I just think the book would be more interesting
+
+35
+00:01:41,760 --> 00:01:43,170
+事情會變得更有趣一些
+if I got to write it.
+
+36
+00:01:43,270 --> 00:01:44,540
+舵手
+Helm,
+
+37
+00:01:44,640 --> 00:01:46,180
+帶我們去北部大陸上空的
+bring us into a low geosynchronous orbit
+
+38
+00:01:46,180 --> 00:01:47,960
+近地同步軌道
+over the northern continent.
+
+39
+00:01:48,840 --> 00:01:51,310
+維瑞爾艦長
+Captain V'Rel, if I may,
+
+40
+00:01:52,240 --> 00:01:54,560
+如果我們能再靠近一點的話
+we could get much more detailed readings
+
+41
+00:01:54,560 --> 00:01:56,180
+就能得到更多更具體的數據了
+from an even lower orbit.
+
+42
+00:01:56,180 --> 00:01:57,400
+你說的是多近
+How low do you suggest?
+
+43
+00:01:57,400 --> 00:01:58,280
+最近的那種
+Lowest orbit there is.
+
+44
+00:01:58,780 --> 00:02:00,460
+親自踏上星球的土地
+Our boots on the ground.
+
+45
+00:02:00,550 --> 00:02:02,720
+考慮到地質不穩定的因素
+Given the geological instability,
+
+46
+00:02:02,790 --> 00:02:04,460
+這樣做會帶來不必要的風險
+it seems an unwarranted risk.
+
+47
+00:02:04,560 --> 00:02:06,900
+我們來就是為了風險的 不是嗎
+Risk is why we're here, isn't it?
+
+48
+00:02:06,990 --> 00:02:08,590
+不然星際艦隊只要發一顆探測器過來就好了
+Starfleet could have sent a probe,
+
+49
+00:02:08,660 --> 00:02:10,060
+但是他們讓我們來了
+but instead they sent us
+
+50
+00:02:10,160 --> 00:02:12,330
+因為有些事必須要我們親眼所見
+because some things you need to see for yourself
+
+51
+00:02:12,470 --> 00:02:14,170
+-才能真正理解 -艦長
+- to truly understand. - Captain,
+
+52
+00:02:14,270 --> 00:02:15,640
+剛剛有一股未知的力量撞到了
+an unknown force just impacted
+
+53
+00:02:15,640 --> 00:02:17,140
+赫利孔γ星的地表
+Helicon Gamma's surface.
+
+54
+00:02:17,140 --> 00:02:18,020
+報告
+Report.
+
+55
+00:02:18,020 --> 00:02:20,110
+檢測到行星地殼發生地震波擾動
+There's a seismic disturbance in the planet's crust.
+
+56
+00:02:23,740 --> 00:02:26,040
+紅色警報
+Red alert.
+
+57
+00:02:27,320 --> 00:02:28,960
+舵手 規避機動
+Helm, take evasive action.
+
+58
+00:02:28,960 --> 00:02:30,750
+全體船員 做好衝擊準備
+All hands, brace for...
+
+59
+00:03:06,320 --> 00:03:08,060
+醫療團隊馬上到艦橋
+Medical team to the bridge.
+
+60
+00:03:12,360 --> 00:03:13,660
+這裡是聯邦星艦法拉格特號
+This is the USS Farragut.
+
+61
+00:03:13,660 --> 00:03:16,020
+我們需要緊急援助 我們遭受嚴重損傷
+We need immediate assistance. We've taken heavy...
+
+62
+00:03:16,020 --> 00:03:18,140
+長官 有什麼東西在干擾我們的通訊信號
+Sir, something's interfering with the comms signal.
+
+63
+00:03:18,140 --> 00:03:19,900
+我正在嘗試識別其來源
+I'm trying to identify the source.
+
+64
+00:03:28,610 --> 00:03:31,110
+是那玩意發出的干擾
+It's coming from that.
+
+65
+00:05:37,540 --> 00:05:39,100
+讀數怎樣
+Readings?
+
+66
+00:05:41,060 --> 00:05:42,230
+還有生命信號
+Life signs on board,
+
+67
+00:05:42,230 --> 00:05:44,120
+但我們的人手只夠操作星艦的
+but barely enough to crew the ship.
+
+68
+00:05:44,120 --> 00:05:45,980
+這麼多系統宕機
+Multiple systems nonfunctioning.
+
+69
+00:05:45,980 --> 00:05:48,380
+看在貝爾德的份上到底怎麼回事
+What in Baird's name happened here?
+
+70
+00:05:48,380 --> 00:05:49,180
+看在誰份上?
+Whose name?
+
+71
+00:05:49,180 --> 00:05:50,850
+那個蘇格蘭籍的發明家
+The Scottish inventor.
+
+72
+00:05:50,850 --> 00:05:53,420
+無人不知約翰·羅傑·貝爾德啊
+Everyone knows John Logie Baird.
+
+73
+00:05:59,630 --> 00:06:00,620
+救援來了嗎
+Rescue?
+
+74
+00:06:00,620 --> 00:06:01,480
+我們的確是來救援的
+That is our purpose.
+
+75
+00:06:01,480 --> 00:06:03,180
+問題是 誰襲擊了你們
+The question is: rescue from what?
+
+76
+00:06:03,180 --> 00:06:06,020
+我只看見了一眼 特別大的東西
+I only saw a glimpse. It was huge.
+
+77
+00:06:06,480 --> 00:06:08,380
+他正在內出血
+He's got internal bleeding.
+
+78
+00:06:08,380 --> 00:06:09,280
+我需要把他帶到醫務室去
+I need to get him to sickbay.
+
+79
+00:06:09,280 --> 00:06:10,400
+我最好趕緊去輪機室
+I'd better go to Engineering
+
+80
+00:06:10,540 --> 00:06:11,910
+去看看曲速核心怎麼樣了
+and check there's still a warp core.
+
+81
+00:06:12,040 --> 00:06:13,110
+之後來匯報你們的發現
+Report back with your findings.
+
+82
+00:06:13,210 --> 00:06:14,250
+我們會在艦橋
+We will offer our assistance
+
+83
+00:06:14,340 --> 00:06:15,710
+幫助維瑞爾艦長
+to Captain V'Rel on the bridge.
+
+84
+00:06:16,480 --> 00:06:17,820
+等等
+Wait.
+
+85
+00:06:17,820 --> 00:06:18,880
+不光是艦對艦通訊
+It's not just ship to ship.
+
+86
+00:06:18,880 --> 00:06:20,310
+所有的通訊都不能用了
+All comms are down.
+
+87
+00:06:20,310 --> 00:06:21,960
+我們沒法和彼此保持聯繫
+We'll have no way to get in touch with each other.
+
+88
+00:06:21,960 --> 00:06:22,640
+去吧 
+Go. 
+
+89
+00:06:22,640 --> 00:06:24,280
+但到時候在盡快在艦橋匯合
+But find your way to the bridge as soon as you can.
+
+90
+00:06:28,420 --> 00:06:30,420
+你給我好好撐住
+Don't you shut down on me.
+
+91
+00:06:31,020 --> 00:06:32,320
+增援到了
+Reinforcements have arrived.
+
+92
+00:06:35,260 --> 00:06:36,660
+你們的首席醫療官呢 少尉
+Where's your CMO, Ensign?
+
+93
+00:06:40,860 --> 00:06:41,860
+好吧 只剩你了
+Just you, then.
+
+94
+00:06:43,170 --> 00:06:44,910
+身上好多都是鈍器傷
+I'm seeing a lot of blunt-force injuries in here.
+
+95
+00:06:44,910 --> 00:06:45,680
+發生了什麼
+What happened?
+
+96
+00:06:45,680 --> 00:06:47,000
+你應該去問艦長
+You should ask the captain.
+
+97
+00:06:47,000 --> 00:06:48,270
+她在四號床
+Bed four.
+
+98
+00:06:50,700 --> 00:06:53,080
+維瑞爾艦長 我是查普爾護士
+Captain V'Rel, I'm Nurse Chapel.
+
+99
+00:06:55,750 --> 00:06:58,090
+你有些腦挫傷 但沒有顱腦腫脹
+You have a cerebral contusion. There's no cranial swelling.
+
+100
+00:06:58,090 --> 00:06:59,550
+我需要回艦橋去
+I need to get back to the bridge.
+
+101
+00:06:59,550 --> 00:07:01,590
+嗯 等我們確定了
+Mm-hmm, right after we make sure
+
+102
+00:07:01,590 --> 00:07:03,160
+你沒有腦疝的症狀之後再說
+that your brain isn't herniating.
+
+103
+00:07:03,160 --> 00:07:04,400
+躺下
+Stay.
+
+104
+00:07:06,120 --> 00:07:07,700
+我們的外勤隊已經去艦橋了
+Our away team is heading to the bridge.
+
+105
+00:07:07,700 --> 00:07:08,970
+他們會幫忙的
+They can help.
+
+106
+00:07:10,960 --> 00:07:13,360
+試試繞過主傳感器系統
+Try bypassing primary sensors.
+
+107
+00:07:13,360 --> 00:07:15,270
+檢查側向陣列還有沒有未損壞的功能模塊
+See if anything's functioning in the lateral array.
+
+108
+00:07:16,800 --> 00:07:18,570
+阿爾瓦雷斯 帶我們離開這片殘骸區
+Alvarez, get us out of this debris.
+
+109
+00:07:18,570 --> 00:07:21,220
+長官 沒有傳感器的話太危險了
+Sir, it's too dangerous without the sensors.
+
+110
+00:07:21,220 --> 00:07:23,240
+-艦長 -維瑞爾艦長把指揮權交給了我
+- Captain... - Captain V'Rel left me the conn,
+
+111
+00:07:23,240 --> 00:07:25,200
+我的職責是確保船的安全
+and it's up to me to return it intact.
+
+112
+00:07:27,440 --> 00:07:28,400
+史波克先生
+Mr. Spock.
+
+113
+00:07:28,400 --> 00:07:30,820
+烏乎拉少尉 拉安
+Ensign Uhura. La'An.
+
+114
+00:07:30,820 --> 00:07:31,780
+歡迎登艦
+Welcome aboard.
+
+115
+00:07:31,780 --> 00:07:32,320
+詹姆斯
+James.
+
+116
+00:07:32,320 --> 00:07:33,900
+你這邊的亂子真是有夠大的
+Quite a mess you've gotten yourself into.
+
+117
+00:07:33,900 --> 00:07:35,290
+看起來這是我的專長
+Seems to be my specialty.
+
+118
+00:07:35,820 --> 00:07:37,620
+你們能接到求救信號真是奇蹟
+It's a miracle you got our distress call.
+
+119
+00:07:37,620 --> 00:07:38,540
+通訊都被干擾了
+Signal was jammed.
+
+120
+00:07:38,540 --> 00:07:40,320
+信號干擾也對我們造成了嚴重的影響
+The interference has wreaked havoc with us, too.
+
+121
+00:07:40,320 --> 00:07:42,030
+但我也許能建立一條視訊連接
+But I might be able to set up line of sight.
+
+122
+00:07:42,300 --> 00:07:43,460
+請求借用你們的遙測儀器
+Permission to borrow your telemetry?
+
+123
+00:07:43,460 --> 00:07:44,480
+完全可以
+More than granted.
+
+124
+00:07:47,240 --> 00:07:49,810
+阿爾瓦雷斯 讓我們靠近進取號
+Alvarez, aim us at the Enterprise.
+
+125
+00:07:52,960 --> 00:07:54,390
+準備聯繫艦長
+Stand by for the captain.
+
+126
+00:07:59,600 --> 00:08:00,610
+派克艦長
+Captain Pike.
+
+127
+00:08:00,610 --> 00:08:02,120
+鑑於目前情況十分危急
+I'll dispense with the pleasantries
+
+128
+00:08:02,120 --> 00:08:03,650
+我就不多說客套話了
+since we're still in a critical situation.
+
+129
+00:08:03,650 --> 00:08:05,160
+威脅目標還在當前區域嗎
+Is the threat still in the area?
+
+130
+00:08:05,160 --> 00:08:06,020
+我不清楚
+Unknown.
+
+131
+00:08:06,620 --> 00:08:07,590
+告訴我你知道的信息
+Tell me what you do know.
+
+132
+00:08:07,590 --> 00:08:10,780
+我們當時正在對赫利孔γ星進行地質勘測
+We were in the middle of a geological survey of Helicon Gamma 
+
+133
+00:08:10,780 --> 00:08:12,060
+就在這時
+when--
+
+134
+00:08:12,060 --> 00:08:13,800
+坦白說 實在無法用科學術語來描述當時的狀況
+well, there's no scientific way to put it--
+
+135
+00:08:13,800 --> 00:08:15,980
+星球瞬間天崩地裂
+all hell broke loose.
+
+136
+00:08:15,980 --> 00:08:17,620
+-因為星球不穩定嗎 -不是
+- Planetary instability? - No.
+
+137
+00:08:18,000 --> 00:08:20,620
+一束聚焦的引力束瞄準了這顆行星
+A focused gravitational beam aimed at the planet.
+
+138
+00:08:20,620 --> 00:08:22,200
+被什麼瞄準的
+Aimed by what?
+
+139
+00:08:22,200 --> 00:08:24,100
+擁有發射功率如此強大的牽引光束
+A ship capable of generating a tractor beam that 
+
+140
+00:08:24,100 --> 00:08:25,170
+這飛船的規模恐怕
+powerful would have to be...
+
+141
+00:08:25,170 --> 00:08:26,860
+比有記錄以來的任何星艦
+Several orders of magnitude bigger
+
+142
+00:08:26,860 --> 00:08:28,210
+都要大上好幾個數量級
+than any starship on record.
+
+143
+00:08:29,060 --> 00:08:31,580
+我知道這聽起來很荒謬 但這是真的
+I know. It sounds crazy, but it's true.
+
+144
+00:08:31,580 --> 00:08:34,420
+我們差點都沒發現它 它對我們不感興趣
+We barely saw it. It wasn't interested in us.
+
+145
+00:08:34,420 --> 00:08:35,940
+我們不過是它的連帶損傷
+We were just collateral damage.
+
+146
+00:08:35,940 --> 00:08:37,280
+滅世者
+Destroyer of Worlds.
+
+147
+00:08:37,280 --> 00:08:38,640
+然後它就消失了嗎
+And it just disappeared?
+
+148
+00:08:38,640 --> 00:08:40,340
+我們撞上碎片的時候 傳感器
+When the debris hit, we lost sensors,
+
+149
+00:08:40,340 --> 00:08:42,060
+通訊 所有重要系統都損壞了
+comms, all critical systems.
+
+150
+00:08:42,640 --> 00:08:44,860
+維瑞爾艦長雖已受傷 但意識尚清
+Captain V'Rel was injured but lucid enough
+
+151
+00:08:44,860 --> 00:08:45,900
+足以下達撤離指令
+to give the evacuation order.
+
+152
+00:08:45,900 --> 00:08:47,380
+逃生艙已部署完畢
+Escape pods have been deployed.
+
+153
+00:08:47,380 --> 00:08:49,160
+我會留下最低限度的留守人員
+I'm keeping a skeleton crew aboard
+
+154
+00:08:49,160 --> 00:08:50,920
+盡量避免法拉格特號淪為需要打撈的廢船
+so Farragut doesn't become a salvage job.
+
+155
+00:08:50,920 --> 00:08:52,820
+你做得很好
+Well, you've performed commendably,
+
+156
+00:08:53,420 --> 00:08:55,240
+但還是把你們都一併救出來吧
+but let's get you all to safety.
+
+157
+00:08:55,240 --> 00:08:56,570
+一號 讓法拉格特號的全體成員
+Number One, I want all Farragut crew
+
+158
+00:08:56,570 --> 00:08:57,740
+立刻傳送到艦上來
+beamed aboard immediately.
+
+159
+00:08:57,740 --> 00:08:58,370
+明白 艦長
+Aye, Captain.
+
+160
+00:08:58,370 --> 00:08:59,870
+全員撤退 從逃生艙開始
+Full evacuation. We'll start with the escape pods.
+
+161
+00:09:00,620 --> 00:09:01,180
+執行吧
+Proceed.
+
+162
+00:09:01,180 --> 00:09:01,700
+派克艦長
+Captain Pike...
+
+163
+00:09:01,700 --> 00:09:03,960
+我明白 我也不會放棄我的星艦
+I know, I wouldn't want to give up my ship either,
+
+164
+00:09:03,960 --> 00:09:06,000
+但艦員的安全必須放在首位
+but the safety of the crew has to come first.
+
+165
+00:09:06,000 --> 00:09:07,350
+這是正確的決定
+It's the right call.
+
+166
+00:09:07,350 --> 00:09:09,240
+我們有嚴重受傷的患者在醫務室
+We have some critically injured patients in sickbay
+
+167
+00:09:09,240 --> 00:09:10,020
+缺少醫生照顧
+and no doctor.
+
+168
+00:09:10,020 --> 00:09:10,660
+烏乎拉少尉
+Ensign Uhura,
+
+169
+00:09:10,660 --> 00:09:12,860
+跟查普爾確認哪些患者需要緊急撤離
+confirm with Chapel which patients require immediate evac 
+
+170
+00:09:12,860 --> 00:09:13,760
+然後把他們送往進取號
+and get them to Enterprise.
+
+171
+00:09:13,760 --> 00:09:14,400
+馬上去辦 艦長
+On it, Captain.
+
+172
+00:09:14,400 --> 00:09:15,590
+在你撤離之前
+Before you evacuate,
+
+173
+00:09:15,590 --> 00:09:17,840
+把該未知星艦的所有戰術信息傳輸給進取號
+transfer all tactical info on this mystery ship.
+
+174
+00:09:17,840 --> 00:09:19,420
+以防他們再次出手 我要做好充足的準備
+I want to be ready if they take another swing.
+
+175
+00:09:19,420 --> 00:09:21,100
+我已經恢復了部分傳感器的功能
+I have restored some function to sensors.
+
+176
+00:09:21,100 --> 00:09:22,420
+我們僅有的這點數據就交給
+Sending what little data we have back
+
+177
+00:09:22,420 --> 00:09:23,390
+努尼恩·辛格上尉帶回
+with Lieutenant Noonien-Singh.
+
+178
+00:09:23,840 --> 00:09:24,880
+我現在就傳送回艦 艦長
+Beaming back now, Captain.
+
+179
+00:09:24,880 --> 00:09:26,300
+我來親自把這個交給你
+I'll hand this to you personally.
+
+180
+00:09:26,600 --> 00:09:27,440
+開始傳送
+Energize.
+
+181
+00:09:29,000 --> 00:09:31,270
+現在 把你們全部的系統
+Now put all your systems...
+
+182
+00:09:31,880 --> 00:09:32,980
+烏乎拉 重新接通
+Uhura, get him back.
+
+183
+00:09:32,980 --> 00:09:33,940
+發生什麼了
+What happened?
+
+184
+00:09:37,140 --> 00:09:38,340
+恐怕連不上了
+I don't think I can.
+
+185
+00:09:38,340 --> 00:09:39,260
+為什麼
+Why not?
+
+186
+00:09:46,640 --> 00:09:48,640
+阿爾瓦雷斯 我需要你負責戰術崗位
+Alvarez, I need you on tactical.
+
+187
+00:09:48,640 --> 00:09:49,660
+準備好所有武器
+Prepare all weapons.
+
+188
+00:09:49,660 --> 00:09:50,800
+明白 長官
+Aye, Commander.
+
+189
+00:09:50,800 --> 00:09:52,990
+進取號在視野內 他們正在交戰
+We have visual on Enterprise. They are engaging.
+
+190
+00:10:01,380 --> 00:10:03,480
+用上所有的武器朝對方開火
+Whatever we've got, fire at that thing.
+
+191
+00:10:03,480 --> 00:10:04,710
+這不合邏輯
+That is illogical.
+
+192
+00:10:04,710 --> 00:10:06,340
+進取號的武器明顯起不到任何作用
+Enterprise's weapons were clearly ineffective.
+
+193
+00:10:06,340 --> 00:10:07,610
+我們的瞄準系統下線了
+Our targeting systems are down.
+
+194
+00:10:08,200 --> 00:10:09,310
+現在開火的話作用極微
+Firing would serve little purpose
+
+195
+00:10:09,410 --> 00:10:10,380
+-並且還有可能會誤傷進取號 -那我們總得做點什麼吧
+- and risk damaging Enterprise. - Well, we have to do something.
+
+196
+00:10:10,380 --> 00:10:11,300
+那我們總得做點什麼吧
+- and risk damaging Enterprise. - Well, we have to do something.
+
+197
+00:10:11,300 --> 00:10:12,340
+我們不能坐著乾等著
+We can't just sit here.
+
+198
+00:10:18,860 --> 00:10:20,460
+此刻
+At present,
+
+199
+00:10:20,840 --> 00:10:22,920
+恐怕我們只能這麼做
+I am afraid that is all we can do.
+
+200
+00:10:36,770 --> 00:10:39,640
+診斷 我現在就要完整的艦船診斷報告
+Diagnostic. I want a complete ship diagnostic right now.
+
+201
+00:10:39,640 --> 00:10:42,400
+這裡有一些好消息
+Uh, well, here's some good news.
+
+202
+00:10:42,400 --> 00:10:43,540
+我們不再受到干擾了
+We're not being jammed anymore.
+
+203
+00:10:43,540 --> 00:10:44,540
+好的
+Great.
+
+204
+00:10:45,580 --> 00:10:46,320
+艦橋呼叫醫務室 
+Bridge to sickbay. 
+
+205
+00:10:46,320 --> 00:10:48,400
+我需要盡快和維瑞爾艦長通話
+I need to speak to Captain V'Rel ASAP.
+
+206
+00:10:48,400 --> 00:10:49,620
+查普爾護士回報
+Nurse Chapel reporting.
+
+207
+00:10:49,620 --> 00:10:51,150
+她需要進行緊急顱骨切除術
+She required an emergency craniectomy,
+
+208
+00:10:51,150 --> 00:10:52,620
+而我沒有能力實施這個手術
+which I'm not qualified to perform,
+
+209
+00:10:53,160 --> 00:10:54,090
+於是兩分鐘前
+so I beamed her to the Enterprise
+
+210
+00:10:54,090 --> 00:10:55,790
+我已將她傳送至進取號
+two minutes ago.
+
+211
+00:10:58,760 --> 00:11:01,500
+指揮官 你現在是法拉格特號的艦長了
+Commander, you are now captain of the Farragut.
+
+212
+00:11:01,500 --> 00:11:03,400
+我們靜候您的命令 長官
+We await your orders, sir.
+
+213
+00:11:25,730 --> 00:11:27,990
+有什麼你能辨別出來的嗎
+Anything you recognize?
+
+214
+00:11:27,990 --> 00:11:29,790
+可能是克林貢的 難說
+Klingon maybe. Hard to say.
+
+215
+00:11:30,200 --> 00:11:31,820
+這裡沒剩下多少東西能去辨別了
+There's not much left to recognize.
+
+216
+00:11:31,820 --> 00:11:33,790
+有些看起來年頭還不小
+Some of them seem ancient.
+
+217
+00:11:34,000 --> 00:11:35,400
+損傷報告如何
+Damage report.
+
+218
+00:11:35,400 --> 00:11:37,630
+主動力離線 所有網絡系統都失效了
+Main power's off-line, all network systems are down.
+
+219
+00:11:37,630 --> 00:11:39,840
+引擎 武器 內部通訊系統
+Engines, weapons, internal comms.
+
+220
+00:11:39,840 --> 00:11:41,400
+便攜式通訊器還是不能用
+Hand communicators still are not working.
+
+221
+00:11:41,400 --> 00:11:42,230
+太多干擾了
+Too much interference.
+
+222
+00:11:42,300 --> 00:11:43,380
+維生系統呢
+Life support?
+
+223
+00:11:43,380 --> 00:11:44,460
+在以最低限度工作
+Working but minimal.
+
+224
+00:11:44,460 --> 00:11:45,480
+派一名通訊員去
+Send a runner.
+
+225
+00:11:45,570 --> 00:11:47,310
+口頭通知艦員到星艦中部空間集中
+Tell the crew to gather in central spaces.
+
+226
+00:11:47,410 --> 00:11:49,450
+艦體外殼附近的區域會冷死人的
+Areas near the outer hull are gonna get pretty damn cold.
+
+227
+00:11:49,510 --> 00:11:52,680
+艦長 我們派遣到輪機部的通訊員一直沒回來
+Captain, the last runner we sent to Engineering hasn't come back.
+
+228
+00:11:53,600 --> 00:11:54,880
+那只能假設我們已經被登艦了
+Then we have to assume that we've been boarded.
+
+229
+00:11:54,880 --> 00:11:56,900
+法拉格特號的傳感器日誌有什麼信息
+Did the Farragut's sensor logs tell us anything
+
+230
+00:11:56,900 --> 00:11:58,180
+能看出建造這艘船的種族嗎
+about the species that built this thing?
+
+231
+00:11:58,180 --> 00:12:00,280
+他們的船體對於我們的傳感器來說幾乎不可穿透
+Their hull is nearly impenetrable to our sensors,
+
+232
+00:12:00,280 --> 00:12:01,660
+但看得出來他們的科技極為先進
+but it's clear they're incredibly advanced.
+
+233
+00:12:02,300 --> 00:12:03,890
+艦長 你聽說過阿薩斯里克嗎
+Sir, have you heard of Asaasllich,
+
+234
+00:12:04,520 --> 00:12:05,330
+滅世者
+Destroyer of Worlds?
+
+235
+00:12:05,330 --> 00:12:08,320
+它還有一個譯法是噬星者
+It-it also translates as Astrovore.
+
+236
+00:12:08,320 --> 00:12:09,780
+噬星者嗎 沒聽過
+Astrovore? No.
+
+237
+00:12:09,780 --> 00:12:11,480
+每個在偏僻的殖民地長大的孩子
+Well, every child growing up
+
+238
+00:12:11,480 --> 00:12:12,570
+都聽說過它
+on a remote colony world has.
+
+239
+00:12:12,800 --> 00:12:15,670
+不同的名字 但本質上是一個東西
+Different names, same story.
+
+240
+00:12:15,670 --> 00:12:18,280
+一艘有數百年歷史的拾荒船
+Scavenger ship, hundreds of years old,
+
+241
+00:12:18,280 --> 00:12:20,740
+在已知星域的邊緣之外游弋
+prowling just beyond the edges of known space.
+
+242
+00:12:20,740 --> 00:12:22,010
+從各種行星以及
+Consuming resources from planets
+
+243
+00:12:22,010 --> 00:12:23,850
+所有不幸與其相遇的艦船身上掠奪資源
+and any ship unlucky enough to cross its path.
+
+244
+00:12:23,940 --> 00:12:25,940
+我在邊境附近任職時也聽過一個說法
+I heard a version when I was posted near the border.
+
+245
+00:12:26,240 --> 00:12:29,520
+克林貢人稱其為查克-卡 意為湮滅者
+Klingons called it Chach-Ka. "The Annihilator."
+
+246
+00:12:29,520 --> 00:12:31,320
+索耶上將也在他的星際製圖課上
+Admiral Sawyer told a story like that
+
+247
+00:12:31,320 --> 00:12:32,880
+講過類似的故事
+in his Stellar Cartography class.
+
+248
+00:12:32,880 --> 00:12:34,740
+地圖邊緣之外的怪物
+The monster past the edge of the map.
+
+249
+00:12:34,740 --> 00:12:36,380
+無論是不是那艘傳說中的飛船
+Whether or not this is that ship,
+
+250
+00:12:36,380 --> 00:12:37,780
+我們已經確定它是一艘拾荒船
+we know it's a scavenger.
+
+251
+00:12:37,780 --> 00:12:39,220
+我們必須假設他們
+We have to assume that their intention
+
+252
+00:12:39,220 --> 00:12:40,980
+也打算把進取號給撕碎
+is to tear the Enterprise apart as well.
+
+253
+00:12:40,980 --> 00:12:42,560
+一號 我需要你和奧特加斯合作
+Number One, I need you and Ortegas to find a way
+
+254
+00:12:42,560 --> 00:12:44,200
+找到重新讓引擎上線的方法
+to get engine control back online
+
+255
+00:12:44,200 --> 00:12:45,560
+這樣只要我們趕去輪機室
+so that when we get to Engineering
+
+256
+00:12:45,560 --> 00:12:46,900
+一旦阻止能量流失
+and we stop the power drain,
+
+257
+00:12:46,900 --> 00:12:48,870
+我們就能逃跑了
+we're ready to make a run for it.
+
+258
+00:12:54,190 --> 00:12:56,080
+代理艦長日誌
+Acting captain's log.
+
+259
+00:12:56,080 --> 00:12:58,150
+這個稱謂讀著很奇怪
+Feels strange to say that.
+
+260
+00:12:58,540 --> 00:13:01,200
+要不是事態這麼糟糕 我應該會很興奮吧
+Under better circumstances, it would be thrilling.
+
+261
+00:13:02,920 --> 00:13:04,520
+我已經讓進取號的軍官們
+I've asked the Enterprise officers to fill in
+
+262
+00:13:04,520 --> 00:13:06,340
+去各自填補艦橋上的崗位空缺
+for our missing bridge crew.
+
+263
+00:13:07,280 --> 00:13:08,290
+但他們幾乎不了解我
+But they barely know me,
+
+264
+00:13:08,290 --> 00:13:09,790
+而現在我卻要他們完全信任我
+and now I have to ask them to trust me.
+
+265
+00:13:12,260 --> 00:13:13,860
+如果我是他們的話
+If I were in their shoes...
+
+266
+00:13:15,160 --> 00:13:16,960
+暫停記錄 請進
+Pause recording. Come in.
+
+267
+00:13:18,000 --> 00:13:20,620
+柯克艦長 我們整理了所有
+Captain Kirk, we compiled all of the data
+
+268
+00:13:20,620 --> 00:13:21,760
+與外星飛船遭遇時獲取的數據
+from our encounter with the alien vessel.
+
+269
+00:13:21,760 --> 00:13:22,570
+我們都知道些什麼
+What do we know?
+
+270
+00:13:23,460 --> 00:13:25,500
+我們的傳感器無法徹底穿透其船殼
+Our sensors cannot fully penetrate its hull,
+
+271
+00:13:25,500 --> 00:13:27,320
+因此 關於飛船的構成
+so we can ascertain little of its composition,
+
+272
+00:13:27,320 --> 00:13:28,680
+性能或船員配置 我們基本都無法確定
+capabilities or crew complement.
+
+273
+00:13:28,680 --> 00:13:29,910
+它的弱點呢
+What about weaknesses?
+
+274
+00:13:29,910 --> 00:13:31,580
+根據基礎數學知識 按照它的尺寸
+Fundamental math? Its size.
+
+275
+00:13:31,580 --> 00:13:34,140
+對於這麼大的傢伙來說
+It would be hard to generate a stable warp field
+
+276
+00:13:34,140 --> 00:13:35,210
+要維持穩定的曲速場是很難的 對嗎
+at that scale, wouldn't it?
+
+277
+00:13:35,210 --> 00:13:36,720
+這麼說 它應該會很慢
+Well, odds are, it's slow, but...
+
+278
+00:13:36,720 --> 00:13:38,020
+那我們就能抓到它
+But then we can catch it.
+
+279
+00:13:38,400 --> 00:13:39,000
+按照規定
+Regulations...
+
+280
+00:13:39,000 --> 00:13:41,180
+按照規定 我們本該夾著尾巴
+Regulations would have us tuck tail
+
+281
+00:13:41,180 --> 00:13:42,860
+逃回聯邦星域
+and run back to Federation space.
+
+282
+00:13:42,860 --> 00:13:44,780
+等我們連上子空間通訊中繼
+By the time we reach a subspace relay
+
+283
+00:13:44,780 --> 00:13:45,660
+搬到援兵的時候
+and get reinforcements,
+
+284
+00:13:45,660 --> 00:13:47,500
+進取號早被拆成碎片了
+Enterprise will have been ripped to scraps.
+
+285
+00:13:53,630 --> 00:13:55,670
+我們都有親友在
+We all have people on...
+
+286
+00:13:57,100 --> 00:13:58,600
+我哥哥在那艘船上
+My brother is on that ship.
+
+287
+00:13:58,600 --> 00:14:00,640
+您是最高級的軍官 我們都將服從您的命令
+As the ranking officer, we will follow your orders.
+
+288
+00:14:01,260 --> 00:14:03,600
+我只是想為您提供所有的相關信息
+I merely wished to provide you with all relevant information.
+
+289
+00:14:04,060 --> 00:14:05,510
+這些信號是尼斯湖水怪嘴裡那些
+Those are the signatures
+
+290
+00:14:05,510 --> 00:14:07,800
+被拆解的外星飛船所留下的
+from the picked-apart alien ships we saw in Nessie's gob.
+
+291
+00:14:08,900 --> 00:14:10,040
+把那裡放大點看 得嗎
+Enhance that bit, would you?
+
+292
+00:14:14,920 --> 00:14:17,520
+其中的一艘是克林貢D7級戰巡
+One of the vessels is a D7-class Klingon cruiser.
+
+293
+00:14:17,520 --> 00:14:18,730
+裡面可能有倖存者嗎
+Could any of them have survived?
+
+294
+00:14:19,180 --> 00:14:20,220
+極其不可能
+Highly unlikely.
+
+295
+00:14:20,220 --> 00:14:21,820
+船體裝甲板將會被拆解
+The hull plating would be disassembled,
+
+296
+00:14:21,820 --> 00:14:22,880
+所有可呼吸空氣都會洩漏出去
+venting all breathable air.
+
+297
+00:14:22,880 --> 00:14:24,840
+即便是克林貢人都不能殺出一條血路
+Even the Klingons couldn't fight their way out.
+
+298
+00:14:24,840 --> 00:14:27,880
+這些拾荒者 他們從艦船上拿走中意的東西
+These scavengers, they take what they please from ships--
+
+299
+00:14:27,880 --> 00:14:30,300
+不管艦員的死活 還要把這些技術篡改後據為己有
+damn the crew-- and pervert the tech into their own.
+
+300
+00:14:30,300 --> 00:14:31,570
+我們沒法估量他們到底有多大能耐
+We've no idea what they're capable of.
+
+301
+00:14:32,420 --> 00:14:33,180
+查普爾說得對
+Chapel's right.
+
+302
+00:14:33,180 --> 00:14:34,800
+如果速度就是我們的武器 那好鋼必須用在刀刃上
+If speed is our weapon, then we have to press it.
+
+303
+00:14:34,800 --> 00:14:35,860
+什麼速度
+What speed?
+
+304
+00:14:36,340 --> 00:14:37,910
+恕我直言 指揮官
+Uh, with all due respect, Commander--
+
+305
+00:14:37,910 --> 00:14:40,480
+還是 代理艦長
+I mean, Acting Captain?
+
+306
+00:14:40,480 --> 00:14:41,800
+還是就是艦長
+Is it just Captain? Uh...
+
+307
+00:14:42,200 --> 00:14:44,750
+長官 他們本可以輕鬆摧毀法拉格特號
+Sir, they easily could've destroyed the Farragut
+
+308
+00:14:44,750 --> 00:14:47,760
+或是把我們塞進那該死的巨大囊袋裡擄走
+or made off with us tucked in their bloody huge pouch,
+
+309
+00:14:47,760 --> 00:14:48,640
+但他們沒有這麼做
+but they didn't.
+
+310
+00:14:48,640 --> 00:14:49,880
+你心裡對此有什麼推論嗎
+And you have a theory as to why?
+
+311
+00:14:49,880 --> 00:14:52,300
+可能因為你的星艦受損太嚴重了
+Because your ship's so banged up
+
+312
+00:14:52,300 --> 00:14:53,660
+不值得他們去偷吧
+it wasn't worth stealing?
+
+313
+00:14:55,500 --> 00:14:57,900
+那我需要你變出個奇蹟了 斯考特先生
+Well, then I need you to perform some miracles, Mr. Scott.
+
+314
+00:14:57,900 --> 00:14:59,900
+按順序 我們先弄引擎 再弄武器
+We need engines and weapons, in that order.
+
+315
+00:14:59,900 --> 00:15:00,620
+明白
+Aye.
+
+316
+00:15:00,620 --> 00:15:01,380
+把損傷修理好
+Patch up the wounded.
+
+317
+00:15:01,380 --> 00:15:02,500
+盡快讓它們重新上線
+Get them back to work as soon as you can.
+
+318
+00:15:02,500 --> 00:15:03,500
+我們得弄清楚
+We need to figure out where
+
+319
+00:15:03,600 --> 00:15:04,830
+那艘拾荒船要駛向哪裡
+that scavenger ship is headed
+
+320
+00:15:04,940 --> 00:15:06,080
+這樣才能設法快他們一步
+so we can find a way to get there first.
+
+321
+00:15:06,170 --> 00:15:08,870
+就這樣吧 讓我們開工
+That's it. Let's get going.
+
+322
+00:15:21,790 --> 00:15:23,260
+真是懷念渦輪電梯啊
+Really missing the turbolift.
+
+323
+00:15:23,260 --> 00:15:25,430
+沒事 就剩八層甲板兩條梯子要爬了
+Only eight decks and two access ladders left to go.
+
+324
+00:15:30,700 --> 00:15:32,570
+哦不 別開槍
+Oh! Oh, no, don't shoot.
+
+325
+00:15:33,100 --> 00:15:36,260
+人活了五千年可不是為了挨槍子的
+You don't live to be 5,000 by getting yourself shot a lot.
+
+326
+00:15:36,260 --> 00:15:37,470
+我們正在前往輪機艙的路上
+We're on our way to Engineering.
+
+327
+00:15:37,470 --> 00:15:39,840
+這可不興去了 除非你想
+Bad place to be right now unless you're fond
+
+328
+00:15:39,940 --> 00:15:44,150
+被自己汩汩湧出的鮮血嗆死
+of choking to death on your own gurgling blood.
+
+329
+00:15:44,240 --> 00:15:45,710
+怎麼會這樣
+Wh... From what?
+
+330
+00:15:45,810 --> 00:15:47,650
+都怪那條臍帶
+The umbilical!
+
+331
+00:15:48,680 --> 00:15:49,820
+跟著我 來
+Come with me. Come.
+
+332
+00:15:49,880 --> 00:15:52,380
+那裡瀰漫著有毒氣體
+It's flooded with toxic gas.
+
+333
+00:15:52,490 --> 00:15:55,360
+它直接穿透了我們的船體
+It's tunneled straight through our hull.
+
+334
+00:15:55,420 --> 00:15:57,420
+它已經接入了我們的動力系統
+It's tapped into our power systems,
+
+335
+00:15:57,420 --> 00:16:00,360
+計算機網絡和燃料貯箱
+our computer network, our fuel storage.
+
+336
+00:16:00,360 --> 00:16:04,040
+我們連輔助動力都沒剩多少
+We've barely any auxiliary power left.
+
+337
+00:16:04,040 --> 00:16:05,540
+如果我們不想法把它斷掉
+If we don't disconnect it,
+
+338
+00:16:05,540 --> 00:16:07,140
+就沒有足夠的動力來逃脫了
+we will not have enough to escape.
+
+339
+00:16:07,140 --> 00:16:08,820
+既然空氣是有毒的 我們需要戴上呼吸器
+If the air is toxic, we'll need breathers
+
+340
+00:16:08,820 --> 00:16:10,100
+才能接近臍帶
+to get close to the umbilical.
+
+341
+00:16:10,100 --> 00:16:12,520
+拿上東西 米勒少尉會護衛你們的隊伍
+Grab them. Ensign Miller will escort your team.
+
+342
+00:16:12,520 --> 00:16:13,740
+我們擺脫了那東西的那一刻
+The second we disconnect from that thing,
+
+343
+00:16:13,740 --> 00:16:15,340
+就要馬上準備好逃離
+we need to be ready to fly.
+
+344
+00:16:15,340 --> 00:16:16,780
+是 艦長
+Yes, Captain.
+
+345
+00:16:23,440 --> 00:16:24,780
+對 給我聽著
+Yeah, you heard right.
+
+346
+00:16:24,780 --> 00:16:27,440
+你最好給我管用 你這小破玩意
+You better start doing your job, you daft piece of...
+
+347
+00:16:27,440 --> 00:16:28,340
+斯科特先生
+Mr. Scott?
+
+348
+00:16:28,340 --> 00:16:29,540
+一切進展順利嗎
+Everything okay in there?
+
+349
+00:16:30,320 --> 00:16:33,160
+會的會的 只要我先拆幾個東西出來
+Soon will be, once I've torn a few things out
+
+350
+00:16:33,160 --> 00:16:34,540
+然後再把它們裝回去
+and put them back proper.
+
+351
+00:16:34,540 --> 00:16:36,300
+然後 這需要多久
+An-And how long will that take?
+
+352
+00:16:36,300 --> 00:16:38,760
+正常的做法嗎 兩天
+To do it right? Two days.
+
+353
+00:16:38,870 --> 00:16:40,270
+唔
+Hmm.
+
+354
+00:16:41,130 --> 00:16:42,900
+要不你先這樣 先確保
+Why don't you start with doing it the way
+
+355
+00:16:42,900 --> 00:16:44,800
+我們不會立即散架爆炸
+where we won't immediately explode,
+
+356
+00:16:44,800 --> 00:16:46,220
+然後再在此基礎上做點別的
+and we'll take it from there?
+
+357
+00:16:47,880 --> 00:16:49,260
+史波克和烏乎拉有突破了
+Spock and Uhura made a breakthrough.
+
+358
+00:16:49,260 --> 00:16:51,120
+哦 是嗎 哎喲
+Oh, aye? Oh.
+
+359
+00:16:51,120 --> 00:16:52,710
+這艘拾荒船在赫利孔γ星
+The mineral that the scavenger ship was collecting
+
+360
+00:16:52,710 --> 00:16:54,910
+收集的礦物是奧登金
+at Helicon Gamma-- it was aldentium.
+
+361
+00:16:54,910 --> 00:16:56,350
+哦我聽過
+Oh, I've heard of it.
+
+362
+00:16:56,350 --> 00:16:59,500
+有幾個種族把它用在推進系統上
+A few species use it in their... propulsion systems.
+
+363
+00:16:59,500 --> 00:17:02,280
+附近還有另一顆擁有大量礦藏的行星
+There's another world nearby with significant deposits--
+
+364
+00:17:02,280 --> 00:17:04,800
+沙利文星 就在他們的路線上
+Sullivan's Planet-- directly in their path.
+
+365
+00:17:06,420 --> 00:17:07,700
+有人居住嗎
+Inhabited?
+
+366
+00:17:07,700 --> 00:17:09,930
+超過一億人口
+Over a hundred million people.
+
+367
+00:17:09,930 --> 00:17:12,200
+而且是曲速前文明 所以還有不干涉原則
+Pre-warp, so the non-interference directive
+
+368
+00:17:12,200 --> 00:17:13,800
+意味著我們不能直接警告他們
+means we can't warn them.
+
+369
+00:17:13,800 --> 00:17:15,470
+不過我們也沒別的手段做些什麼
+Not that there's anything we could do anyway.
+
+370
+00:17:15,470 --> 00:17:17,580
+但聽著 我們一定要比他們先到那裡
+Listen, we need to get there first.
+
+371
+00:17:17,580 --> 00:17:19,300
+給拾荒船設個埋伏
+Set a trap for the scavengers.
+
+372
+00:17:19,300 --> 00:17:21,670
+你不會是覺得 在他們搶跑了這麼久之後
+You're not asking me to warp us past them,
+
+373
+00:17:21,770 --> 00:17:23,170
+我還能讓咱們趕到他們前頭去吧
+with the head start they've got?
+
+374
+00:17:23,310 --> 00:17:24,980
+這樣 恢復曲速動力我沒問題
+Look, I can give us warp power,
+
+375
+00:17:25,110 --> 00:17:27,040
+但如果你覺得這東西
+but if you think this tub will hold together
+
+376
+00:17:27,150 --> 00:17:30,490
+都被砸成這樣了 在高曲速下還能不散架
+at high speed after the beating she just took,
+
+377
+00:17:30,620 --> 00:17:32,220
+還是少做白日夢了
+your bum's out the window.
+
+378
+00:17:33,150 --> 00:17:34,490
+等離子導管都
+The plasma manifolds...
+
+379
+00:17:34,490 --> 00:17:35,760
+我理解
+I understand.
+
+380
+00:17:35,860 --> 00:17:37,300
+我不覺得你理解
+No, I'm not sure you do.
+
+381
+00:17:37,390 --> 00:17:38,860
+你拿到了個爛攤子 對吧
+You were handed a raw deal, all right?
+
+382
+00:17:38,990 --> 00:17:40,360
+沒人會指責你搞砸了什麼
+No one can fault you for that.
+
+383
+00:17:40,460 --> 00:17:43,430
+但如果我們把這艘船推得太猛 把她弄散架了
+But if we push this ship too hard and it fails,
+
+384
+00:17:43,600 --> 00:17:45,700
+那就是我們的問題了
+that's our fault, not theirs.
+
+385
+00:17:45,700 --> 00:17:47,470
+這是風險
+It's a risk.
+
+386
+00:17:47,530 --> 00:17:49,700
+但我把賭注壓在我們自己身上
+But I am betting on us.
+
+387
+00:17:50,480 --> 00:17:52,380
+準備進入最高曲速
+Prepare for maximum warp.
+
+388
+00:18:04,400 --> 00:18:05,600
+怎麼了
+What's the problem?
+
+389
+00:18:05,600 --> 00:18:06,890
+我剛剛繞開了所有安全措施
+I just bypassed every safety feature
+
+390
+00:18:06,890 --> 00:18:09,590
+建立了與艦舵控制的直接連接
+to make a direct connection to the helm controls.
+
+391
+00:18:10,430 --> 00:18:12,100
+我本該立即被電得魂飛魄散的
+I should've shocked the bejesus out of myself.
+
+392
+00:18:12,100 --> 00:18:14,180
+沒把自己炸得灰頭土臉你還失望了嗎
+Disappointed you didn't set your hair on fire?
+
+393
+00:18:14,180 --> 00:18:15,530
+如果剩餘的電力連讓我觸電都做不到
+If there's not enough power to do that,
+
+394
+00:18:15,530 --> 00:18:17,800
+那就更不夠驅動星艦轉向了
+there's nowhere near enough to steer the ship.
+
+395
+00:18:19,100 --> 00:18:20,370
+這聲音是好跡象嗎
+That's a good sound, right?
+
+396
+00:18:20,370 --> 00:18:22,460
+這船不會叫得很開心吧
+The ship is happy screaming?
+
+397
+00:18:22,460 --> 00:18:24,240
+是提醒我們動作要快點了
+It's a reminder to work faster.
+
+398
+00:18:24,520 --> 00:18:26,340
+我們能人工點火推力器嗎
+Can we fire the thrusters manually?
+
+399
+00:18:28,340 --> 00:18:30,980
+呃 如果我們想死得痛快的話 可以
+I mean, we can if we want to very quickly die.
+
+400
+00:18:30,980 --> 00:18:33,600
+機動推力器使用化學反應點火
+The maneuvering thrusters use a chemical reaction.
+
+401
+00:18:33,600 --> 00:18:35,050
+它們可以手動觸發
+They can be triggered by hand.
+
+402
+00:18:35,050 --> 00:18:37,680
+但沒有通訊 我們就無法協調推力器的工作
+But with no comms, we'd have no way to coordinate them.
+
+403
+00:18:37,680 --> 00:18:40,480
+沒有傳感器 我們就只能完全盲飛
+With no sensors, we'd be flying literally blind.
+
+404
+00:18:40,480 --> 00:18:42,520
+為什麼要傳感器 我們可以自己看
+Who needs sensors? We have eyes.
+
+405
+00:18:42,520 --> 00:18:44,420
+別忘了也沒有護盾和偏導儀
+Add to that no shields or navigational deflector.
+
+406
+00:18:44,420 --> 00:18:46,360
+只要我們犯點錯誤
+If we make a mistake,
+
+407
+00:18:46,360 --> 00:18:47,620
+而且這個情況下肯定會
+which we definitely would,
+
+408
+00:18:47,620 --> 00:18:49,140
+我們就要變成艙壁上的一團黑炭了
+we end up a scorch mark on the wall.
+
+409
+00:18:49,140 --> 00:18:50,840
+通訊問題嗎
+Communication issue?
+
+410
+00:18:50,840 --> 00:18:52,820
+那我來得正好
+I got here just in time, then.
+
+411
+00:18:53,360 --> 00:18:55,200
+這可能是第一次
+This may be the first time I'm glad
+
+412
+00:18:55,200 --> 00:18:58,870
+我慶幸自己在1980年代生活過
+to have lived through the 1980s.
+
+413
+00:19:00,510 --> 00:19:01,910
+艦長
+Captain.
+
+414
+00:19:05,750 --> 00:19:07,440
+它直接連在了我們的電網上
+It is hooked directly into our power grid,
+
+415
+00:19:07,440 --> 00:19:09,480
+我們的計算機系統上 還有燃料吊艙上
+our computer systems, and our fuel pods.
+
+416
+00:19:09,480 --> 00:19:11,660
+可以嘗試用相位槍切斷它
+We could try to sever it with our phasers.
+
+417
+00:19:11,660 --> 00:19:13,180
+釋放出的能量會炸掉半艘船的
+That much energy would take out half the ship.
+
+418
+00:19:15,090 --> 00:19:16,460
+找掩護
+Cover!
+
+419
+00:19:38,520 --> 00:19:39,750
+我不覺得他們能透過煙霧看清我們
+I don't think they can see us through the smoke.
+
+420
+00:19:39,750 --> 00:19:41,020
+快把她帶出去
+Let's get her out of here.
+
+421
+00:19:47,750 --> 00:19:49,790
+烏乎拉 情況報告
+Uhura, status.
+
+422
+00:19:49,790 --> 00:19:51,760
+接近曲速七級 艦長
+Approaching warp seven, sir.
+
+423
+00:19:54,360 --> 00:19:56,560
+行吧 雖然這船現在基本是拿膠帶黏起來的
+Well, Farragut may be held together by duct tape
+
+424
+00:19:56,560 --> 00:19:59,800
+但只要沒散架就行
+at this point, but as long as it holds...
+
+425
+00:20:01,000 --> 00:20:03,370
+傳感器顯示我們已經超越拾荒船了
+Sensors indicate we have overtaken the scavenger vessel.
+
+426
+00:20:04,400 --> 00:20:05,840
+幹得不錯 各位
+Excellent work, everyone.
+
+427
+00:20:05,840 --> 00:20:08,000
+我們還有多久抵達沙利文星
+How long until we reach Sullivan's Planet?
+
+428
+00:20:08,000 --> 00:20:10,540
+兩個小時 如果能保持當前速度的話
+Two hours, if we can maintain this speed.
+
+429
+00:20:11,000 --> 00:20:13,980
+如果之前有任何人跟我說 這是不可能的
+I will be accepting drinks in the galley
+
+430
+00:20:13,980 --> 00:20:18,920
+一會都得來餐廳請我幾杯酒
+from everyone who said that this was impossible.
+
+431
+00:20:20,710 --> 00:20:24,320
+當然 是在我們把你們的船救出來之後
+After we have saved your ship, of course.
+
+432
+00:20:24,320 --> 00:20:25,520
+當然
+Of course.
+
+433
+00:20:56,190 --> 00:20:57,260
+報告
+Report.
+
+434
+00:20:57,260 --> 00:20:58,780
+我們掉出了曲速
+Well, we've dropped out of warp,
+
+435
+00:20:58,780 --> 00:21:00,360
+並且失去了所有引擎動力
+and I've lost all engine power.
+
+436
+00:21:00,360 --> 00:21:01,620
+艦長 按照計劃 現在我們
+Captain, our stratagem has put us
+
+437
+00:21:01,620 --> 00:21:02,760
+直接位於拾荒船前方的路徑上
+directly in the path of the scavenger vessel.
+
+438
+00:21:02,860 --> 00:21:04,230
+我很清楚 史波克
+I am aware, Spock.
+
+439
+00:21:04,330 --> 00:21:05,560
+我跟你說過的 等離子導管全炸開花了
+It's the plasma manifolds-- they've blown out.
+
+440
+00:21:05,700 --> 00:21:06,700
+那就想盡一切辦法
+Well, then take whoever you need
+
+441
+00:21:06,800 --> 00:21:08,140
+用你能用的一切資源和人力去修
+and get down there and fix them.
+
+442
+00:21:08,200 --> 00:21:09,400
+它們直接炸沒了 沒法修了
+They are gone! Beyond repair!
+
+443
+00:21:09,500 --> 00:21:10,700
+我們現在得進船塢
+We'll need to put into spacedock now
+
+444
+00:21:10,800 --> 00:21:12,070
+才能更換它們了
+and replace them.
+
+445
+00:21:12,270 --> 00:21:16,110
+我們 我們把她推得太猛了
+We just... we pushed her too hard.
+
+446
+00:21:16,110 --> 00:21:18,050
+現在只能坐以待斃了
+We're dead in the water.
+
+447
+00:21:25,660 --> 00:21:27,580
+我告訴過你了 我檢查過讀數了
+I told you, I rechecked the numbers
+
+448
+00:21:27,580 --> 00:21:29,820
+而且檢查了三次 三次都告訴我
+and re-rechecked them, and all three times confirmed
+
+449
+00:21:29,820 --> 00:21:32,390
+現在曲速引擎就是個超大號鎮紙 什麼用也不頂了
+the warp engines are now giant paperweights.
+
+450
+00:21:32,390 --> 00:21:33,990
+我們還有一部分脈衝動力
+We still have some impulse power.
+
+451
+00:21:33,990 --> 00:21:35,190
+但也不夠
+Not nearly enough.
+
+452
+00:21:35,700 --> 00:21:37,800
+我看我們能做的就是裝死
+I'm afraid all we can do is play dead
+
+453
+00:21:37,800 --> 00:21:40,100
+希望拾荒船能再次忽略我們
+and hope the scavenger ignores us.
+
+454
+00:21:40,100 --> 00:21:42,440
+有可能他們還是只打算去快樂地吞掉行星
+There's a chance it'll just go on its merry planet-eating way.
+
+455
+00:21:42,440 --> 00:21:45,880
+我們的另一個選項是棄艦並使用穿梭機撤離
+Our other option is to abandon ship and escape by shuttle.
+
+456
+00:21:46,310 --> 00:21:48,380
+我們可以派一架穿梭機到最近的子空間通訊中繼
+We could take one to the nearest subspace relay
+
+457
+00:21:48,380 --> 00:21:49,180
+然後呼叫星際艦隊
+and hail Starfleet.
+
+458
+00:21:49,180 --> 00:21:50,080
+等我們到的時候
+By the time we get there,
+
+459
+00:21:50,080 --> 00:21:51,760
+沙利文星上的所有人早就死透了
+everyone on Sullivan's Planet will be dead.
+
+460
+00:21:52,280 --> 00:21:53,710
+結論就是 兩個選擇都很災難
+So we're agreed, both options are terrible,
+
+461
+00:21:53,710 --> 00:21:56,060
+但我們總得選一個 一個小時後他們就到那了
+but we have to pick one. In one hour it'll be here.
+
+462
+00:21:56,060 --> 00:21:59,740
+我們只有一個小時來決定哪個更不災難一些
+That's how long we've got to decide which is least terrible.
+
+463
+00:21:59,740 --> 00:22:01,500
+這也不是我們能決定的
+That is not our decision to make.
+
+464
+00:22:05,900 --> 00:22:07,360
+我哪個都不選
+I pick neither option.
+
+465
+00:22:09,500 --> 00:22:12,440
+好吧 那很勇敢了 而且 如果你不介意我這麼說的話
+Okay. That is a bold and-- if you don't mind me saying--
+
+466
+00:22:12,440 --> 00:22:14,200
+簡直離譜到家了
+highly unorthodox choice.
+
+467
+00:22:14,300 --> 00:22:15,400
+行了
+Okay.
+
+468
+00:22:15,540 --> 00:22:16,940
+長官 他只是很擔心
+Sir, he's just concerned.
+
+469
+00:22:17,040 --> 00:22:18,720
+他們還扣著我們的人
+They have our crew,
+
+470
+00:22:18,720 --> 00:22:21,000
+而且正在前往一顆有人居住的行星
+and the planet they're headed for is inhabited.
+
+471
+00:22:21,000 --> 00:22:22,170
+我們無法警告他們 除非
+We won't be able to warn them without...
+
+472
+00:22:22,270 --> 00:22:23,740
+謝謝你 烏乎拉少尉
+Thank you, Ensign Uhura.
+
+473
+00:22:23,880 --> 00:22:25,750
+我對情況很清楚
+I'm up to speed on the particulars.
+
+474
+00:22:25,880 --> 00:22:27,450
+沒有進一步解釋的必要
+No need for further discussion.
+
+475
+00:22:27,450 --> 00:22:29,360
+那我們怎麼給你選項呢
+Then how will we provide you with options?
+
+476
+00:22:29,360 --> 00:22:31,320
+我不需要選項
+I don't need options.
+
+477
+00:22:32,200 --> 00:22:33,520
+我不需要你們喋喋不休
+I don't need chattering voices.
+
+478
+00:22:33,520 --> 00:22:35,420
+我現在需要清空頭腦
+What I need is to clear my head.
+
+479
+00:22:35,420 --> 00:22:37,020
+但我現在沒辦法
+And I can't do it with all this...
+
+480
+00:22:44,530 --> 00:22:46,800
+好吧 情況本來可以更好的
+Well, that could have gone better.
+
+481
+00:22:46,900 --> 00:22:48,400
+不可能 怎麼可能
+No. How?
+
+482
+00:22:48,500 --> 00:22:50,660
+這是他第一次坐艦長椅 是吧
+This is his first time in the chair, right?
+
+483
+00:22:51,120 --> 00:22:53,040
+他以前也接管過指揮 但從來沒像這樣
+He's had the conn before but never like this.
+
+484
+00:22:53,940 --> 00:22:56,610
+他表現出典型的受脅迫下的緊張跡象
+He's showing classic signs of strain under duress.
+
+485
+00:22:56,710 --> 00:22:57,810
+他感受到的壓力肯定很
+The pressure he must be feeling...
+
+486
+00:22:57,910 --> 00:22:59,650
+啊 太棒了 起初他還無所顧忌
+Aye, great. First he's reckless,
+
+487
+00:22:59,750 --> 00:23:01,920
+現在他又要跟樹枝一樣一折就斷了
+now he's liable to snap like a twig.
+
+488
+00:23:02,050 --> 00:23:04,020
+假設他真斷了 那怎麼樣 嗯
+Let's say he does. What then, huh?
+
+489
+00:23:04,020 --> 00:23:07,120
+我們就要採取措施來
+We would take steps to...
+
+490
+00:23:07,120 --> 00:23:09,060
+解除他的指揮權
+remove him from command.
+
+491
+00:23:09,060 --> 00:23:12,360
+那 那些措施具體是什麼
+And... what would those steps be, exactly?
+
+492
+00:23:12,360 --> 00:23:14,500
+作為艦上當前最高級別的醫療軍官
+As ranking medical officer on board,
+
+493
+00:23:14,980 --> 00:23:16,860
+我有權評估他的健康狀況
+it's within my power to evaluate him
+
+494
+00:23:16,860 --> 00:23:19,900
+並在他在心理上不適合的情況下 解除他的職務
+and, if he is mentally unfit, remove him from duty.
+
+495
+00:23:19,900 --> 00:23:23,170
+好吧 在我們考慮這條路之前
+Okay, before we even think about going down this road,
+
+496
+00:23:23,270 --> 00:23:24,670
+我們應該先考慮
+we should consider
+
+497
+00:23:24,770 --> 00:23:26,510
+他還能工作 這只是他的風格
+that he's still working on his command style.
+
+498
+00:23:26,640 --> 00:23:29,610
+對啊 現在他的風格是裝死
+Aye. Right now his style is lacking.
+
+499
+00:23:29,680 --> 00:23:31,350
+這就是問題
+That's my point.
+
+500
+00:23:31,440 --> 00:23:32,810
+我們或許可以幫助他找到方法
+Maybe we can help him find it.
+
+501
+00:23:32,950 --> 00:23:34,990
+我以前見過他處理危機
+I've seen him in a crisis before,
+
+502
+00:23:35,080 --> 00:23:37,150
+他沒有被迫當艦長的壓力的時候
+when he didn't have the pressures of being captain.
+
+503
+00:23:37,900 --> 00:23:41,750
+他能看到連我都想不到的自己的潛力
+He saw something in me that I hadn't seen in myself.
+
+504
+00:23:41,850 --> 00:23:43,490
+這救了我的命
+It saved my life.
+
+505
+00:23:44,930 --> 00:23:46,260
+我覺得他只是需要有人提醒
+I think he just needs to be reminded
+
+506
+00:23:46,260 --> 00:23:48,260
+他身上也有這種潛力
+that same thing is in him.
+
+507
+00:23:48,330 --> 00:23:50,130
+那我們中就有人需要和他談談
+Well, one of us should talk to him.
+
+508
+00:23:50,200 --> 00:23:51,840
+他很顯然很激動
+He is clearly agitated.
+
+509
+00:23:52,280 --> 00:23:54,130
+或許風格更冷靜的人
+Perhaps someone with a less emotional style
+
+510
+00:23:54,130 --> 00:23:56,000
+去和他談 會更有效果
+might be more effective.
+
+511
+00:24:06,810 --> 00:24:08,550
+莫雷爾 撐住
+Maurer... come on.
+
+512
+00:24:08,680 --> 00:24:10,020
+莫雷爾 清醒點
+Maurer, stay with us.
+
+513
+00:24:10,120 --> 00:24:11,760
+來不及了  必須現在治療她
+She can't wait. We have to treat her now.
+
+514
+00:24:11,850 --> 00:24:13,250
+現在 那兩個傢伙還在外面晃蕩呢
+What, with those two things roaming around?
+
+515
+00:24:13,350 --> 00:24:14,620
+別無選擇了
+We have no choice.
+
+516
+00:24:22,660 --> 00:24:24,030
+沒法對他們造成任何傷害
+They're not taking any damage.
+
+517
+00:24:24,030 --> 00:24:26,570
+進這裡 左舷餐廳
+In here, the Port Galley.
+
+518
+00:24:31,780 --> 00:24:33,320
+沒有毒氣 安全了
+No fumes. We're safe.
+
+519
+00:24:37,640 --> 00:24:38,680
+她在大出血
+She's bleeding out.
+
+520
+00:24:38,680 --> 00:24:40,040
+我需要醫療箱
+I need a medkit.
+
+521
+00:24:40,040 --> 00:24:41,480
+等一下 我覺得
+Wait, wait, wait, I think...
+
+522
+00:24:47,160 --> 00:24:49,080
+要是我們有通訊器和能用的傳送器
+If we had comms and a functioning transporter,
+
+523
+00:24:49,080 --> 00:24:50,220
+是能救她的
+we could have saved her.
+
+524
+00:24:50,220 --> 00:24:52,360
+未必 那些離子粒子
+You don't know. Those ion particles
+
+525
+00:24:52,360 --> 00:24:54,260
+就像子彈一樣 能撕裂皮肉和骨骼
+are like bullets. They rip through flesh and bone,
+
+526
+00:24:54,260 --> 00:24:55,490
+雖然原始 但殺傷力十足
+primitive but effective.
+
+527
+00:25:07,620 --> 00:25:09,240
+可他們的防護服卻異常先進
+And yet their suits are highly advanced.
+
+528
+00:25:09,240 --> 00:25:11,300
+我從沒見過能吸收相位槍火力的設備
+I have never seen a device absorb phaser fire like that.
+
+529
+00:25:11,300 --> 00:25:12,620
+這不合常理
+It doesn't make sense.
+
+530
+00:25:12,620 --> 00:25:13,380
+或許他們來自
+Maybe they're from some
+
+531
+00:25:13,380 --> 00:25:15,420
+宇宙中某個永遠無法用常理解釋的陰暗角落
+dark corner of the cosmos that'll never make sense.
+
+532
+00:25:15,420 --> 00:25:17,220
+我們得想辦法解決他們的護甲防禦
+We have to find a way to get through their defenses somehow.
+
+533
+00:25:19,820 --> 00:25:21,220
+沒人見過他們 但我知道
+No one has ever seen them, but I know
+
+534
+00:25:21,220 --> 00:25:23,790
+即便是戈恩人 也把他們視作怪物
+they were considered monsters, even by the Gorn.
+
+535
+00:25:24,400 --> 00:25:25,790
+相位槍調至擊殺模式
+Set phasers to kill.
+
+536
+00:25:45,780 --> 00:25:48,280
+這可是我從伊塞奈特釀酒廠進口的酒
+I had this imported from an Ithenite distillery.
+
+537
+00:25:49,320 --> 00:25:50,790
+我會賠你一瓶的
+I'll get you another one.
+
+538
+00:26:17,280 --> 00:26:19,950
+就像我的一位老朋友曾經說的
+As an old friend of mine once said,
+
+539
+00:26:19,950 --> 00:26:22,050
+「要有光」
+"Let there be light."
+
+540
+00:26:24,020 --> 00:26:25,450
+快點進來吧
+Come, come, come.
+
+541
+00:26:25,450 --> 00:26:27,820
+她的艙室
+Her quarters are...
+
+542
+00:26:27,820 --> 00:26:30,390
+和我想像中的一模一樣
+exactly what I expected.
+
+543
+00:26:32,630 --> 00:26:35,500
+在這 不對 好了
+Here. No, no. Okay.
+
+544
+00:26:35,590 --> 00:26:37,160
+在這裡
+There you are.
+
+545
+00:26:37,300 --> 00:26:38,770
+不是你
+Not you.
+
+546
+00:26:38,830 --> 00:26:40,400
+你以前倒是活潑
+You were once bouncy
+
+547
+00:26:40,500 --> 00:26:42,470
+又開朗 可新鮮勁一過
+and cheerful, but when the novelty wore off,
+
+548
+00:26:42,570 --> 00:26:44,270
+就有點嚇人了
+you got a little creepy.
+
+549
+00:26:44,370 --> 00:26:45,540
+這些破爛玩意兒
+How is any of this junk
+
+550
+00:26:45,670 --> 00:26:47,140
+怎麼幫我們飛離這裡啊
+going to help us fly out of here?
+
+551
+00:26:47,210 --> 00:26:48,610
+我的老天
+Oh, my goodness,
+
+552
+00:26:48,680 --> 00:26:51,880
+我以前就靠這個操控過不少星艦呢
+I piloted many a starship with this.
+
+553
+00:26:52,010 --> 00:26:54,480
+雖然是8比特的船嘛
+Granted, they were 8-bit,
+
+554
+00:26:54,550 --> 00:26:57,020
+但週五晚上玩這個還挺有意思的
+but it was a good time on a Friday night.
+
+555
+00:26:58,180 --> 00:26:59,150
+啊 找到了
+Ah, found it.
+
+556
+00:26:59,220 --> 00:27:00,760
+拿著
+Take.
+
+557
+00:27:00,850 --> 00:27:03,850
+這該不會是
+Is this a, uh,
+
+558
+00:27:03,960 --> 00:27:05,860
+個人按摩器吧
+personal massager?
+
+559
+00:27:05,960 --> 00:27:10,030
+哦 這在以前可是最先進的通訊器
+Oh, this was once a state-of-the-art communicator.
+
+560
+00:27:10,130 --> 00:27:11,830
+得插在牆上才能用
+You had to plug it into the wall,
+
+561
+00:27:11,930 --> 00:27:15,800
+不過要是有人煩你 你就能讓他們一直等著
+but if people annoyed you, you'd put them on hold.
+
+562
+00:27:15,900 --> 00:27:17,570
+應該還有更多的
+I think there are more.
+
+563
+00:27:17,670 --> 00:27:19,870
+所以信號是通過有線傳輸的
+So the signals are grounded,
+
+564
+00:27:19,970 --> 00:27:22,110
+從一根線纜直接傳到另一根線纜
+transmitted cable to cable.
+
+565
+00:27:22,210 --> 00:27:23,480
+拿著那個
+Take that.
+
+566
+00:27:23,580 --> 00:27:27,280
+這樣就能防止信號被干擾了
+Which will insulate them from being jammed.
+
+567
+00:27:27,380 --> 00:27:28,550
+我們要讓船員們
+We're going to have the crew
+
+568
+00:27:28,650 --> 00:27:31,050
+拆除船上所有的銅纜
+strip the ship for copper cables,
+
+569
+00:27:31,150 --> 00:27:34,720
+然後給進取號重新布線
+and we're going to wire the Enterprise.
+
+570
+00:27:39,530 --> 00:27:41,400
+快去吧
+Go on.
+
+571
+00:27:56,110 --> 00:27:58,410
+我和維瑞爾艦長之前有一局棋沒下完
+Captain V'Rel and I had an ongoing game.
+
+572
+00:27:58,540 --> 00:28:00,080
+那是我第一次覺得
+For the first time, I think I was
+
+573
+00:28:00,180 --> 00:28:01,450
+自己快要贏她了
+on my way to beating her,
+
+574
+00:28:01,580 --> 00:28:03,180
+可我們始終沒機會結束那局
+but we never had the chance to finish.
+
+575
+00:28:03,280 --> 00:28:04,780
+我記得當時棋盤就擺成這樣
+I think this is how we left the board.
+
+576
+00:28:04,880 --> 00:28:06,010
+恕我打擾
+If I may interrupt.
+
+577
+00:28:06,120 --> 00:28:07,620
+哦 你已經打擾了
+Oh, you already have.
+
+578
+00:28:08,450 --> 00:28:09,920
+別停
+Don't stop now.
+
+579
+00:28:10,020 --> 00:28:11,860
+你否決了兩個有缺陷的方案
+You rightly dismissed two flawed courses of action,
+
+580
+00:28:11,960 --> 00:28:13,800
+但時間緊迫 我們需要新計劃
+but time is short and we require a new plan.
+
+581
+00:28:13,930 --> 00:28:17,730
+輪到維瑞爾走棋 我已經把她逼入絕境了
+It was V'Rel's move, and I had her in a corner.
+
+582
+00:28:18,770 --> 00:28:21,310
+要是能想到她接下來會怎麼走就好了
+If I could just figure out what she would have done next.
+
+583
+00:28:21,400 --> 00:28:23,440
+你現在是代理艦長 船員們都在等你
+You are acting captain. Your crew is waiting.
+
+584
+00:28:23,540 --> 00:28:25,610
+讓他們等太久對事態
+To keep them waiting longer would be...
+
+585
+00:28:26,470 --> 00:28:27,780
+沒有好處
+...not good.
+
+586
+00:28:27,780 --> 00:28:29,090
+問題是
+Here's the thing.
+
+587
+00:28:32,510 --> 00:28:33,780
+我慌了神
+I'm frozen.
+
+588
+00:28:33,780 --> 00:28:34,910
+這倒讓我有點意外
+I find this surprising.
+
+589
+00:28:35,280 --> 00:28:36,120
+你哥哥常說
+Your brother speaks often
+
+590
+00:28:36,120 --> 00:28:37,960
+你一直想要指揮星艦
+of your aspirations for command
+
+591
+00:28:38,050 --> 00:28:39,720
+也很有領導才能
+and of your affinity for leadership.
+
+592
+00:28:39,820 --> 00:28:41,120
+其實他原話是
+Actually, he said
+
+593
+00:28:41,220 --> 00:28:42,350
+你不管面對誰
+you are not afraid to throw your weight around,
+
+594
+00:28:42,450 --> 00:28:43,490
+都敢直言發令 毫不含糊
+no matter who's in front of you.
+
+595
+00:28:43,590 --> 00:28:45,360
+是啊 這倒像山姆會說的話
+Yeah, that sounds like Sam.
+
+596
+00:28:48,510 --> 00:28:49,740
+某種程度上 他說得沒錯
+And in a way he's right.
+
+597
+00:28:49,740 --> 00:28:51,330
+從我加入星艦學院那天起
+From the moment I joined the Academy,
+
+598
+00:28:52,080 --> 00:28:53,300
+我就下定決心要比任何人都快地
+I was determined to sit in that chair
+
+599
+00:28:53,300 --> 00:28:55,900
+坐上那把艦長椅
+faster than anyone before me
+
+600
+00:28:55,900 --> 00:28:58,070
+因為我覺得自己比別人更懂行
+because I thought I knew better.
+
+601
+00:28:58,070 --> 00:28:59,600
+覺得自己比別人更優秀
+I thought I was better.
+
+602
+00:28:59,600 --> 00:29:01,560
+每當我覺得命令不合理時
+Whenever orders don't make sense to me,
+
+603
+00:29:01,560 --> 00:29:03,340
+而且我總是覺得不合理
+which happens more often than I'd like,
+
+604
+00:29:04,440 --> 00:29:07,840
+我總想 該由我來下達命令才對
+I always think that I should be the one giving them.
+
+605
+00:29:07,840 --> 00:29:11,480
+之前 我讓維雷爾艦長派一支登陸小隊
+Earlier, I told Captain V'Rel to send a landing party
+
+606
+00:29:11,480 --> 00:29:12,820
+去赫利孔γ星
+to Helicon Gamma.
+
+607
+00:29:14,680 --> 00:29:16,820
+我當時極力勸說她
+I pushed her hard on it.
+
+608
+00:29:18,600 --> 00:29:20,490
+還好她沒聽我的
+Thank God she ignored me,
+
+609
+00:29:20,490 --> 00:29:23,620
+不然爆炸時 我們只能在地表等死
+otherwise we'd all be standing on the surface when it exploded.
+
+610
+00:29:24,200 --> 00:29:26,270
+優秀的艦長知道該何時傾聽
+Good leaders know when to listen
+
+611
+00:29:26,270 --> 00:29:27,270
+何時堅持己見
+and when not to.
+
+612
+00:29:29,660 --> 00:29:31,140
+而我連這一點也沒做到
+Well, I failed at that test, too.
+
+613
+00:29:31,140 --> 00:29:33,180
+斯科特先生也警告過我
+Mr. Scott warned me
+
+614
+00:29:33,180 --> 00:29:34,440
+不要強行啟動引擎
+not to push the engines,
+
+615
+00:29:34,440 --> 00:29:35,880
+可我還是命令他這麼做了
+but I ordered him to anyway.
+
+616
+00:29:35,880 --> 00:29:38,720
+我這段時間一直憑直覺行事
+I've been flying by the seat of my pants this whole time,
+
+617
+00:29:38,720 --> 00:29:39,880
+一次次做決定
+making call after call
+
+618
+00:29:39,880 --> 00:29:42,450
+卻完全不知道這些決定會帶我們走向何方
+with no clue where they'd lead us,
+
+619
+00:29:42,450 --> 00:29:43,950
+只能指望自己碰巧選對
+hoping I'd luck into the right one,
+
+620
+00:29:43,950 --> 00:29:46,320
+結果卻讓我們困在這
+and all I did was put us belly up in the path of
+
+621
+00:29:46,320 --> 00:29:47,850
+直面那個什麼終極毀滅者
+the ultimate destroyer.
+
+622
+00:29:47,850 --> 00:29:49,760
+現在你確實陷入了信心危機
+And now you are having a crisis of confidence,
+
+623
+00:29:50,460 --> 00:29:51,760
+但你還是得繼續領導大家
+but you still have to lead.
+
+624
+00:29:51,760 --> 00:29:53,380
+說真的 我也想啊
+Believe me, I'd love to,
+
+625
+00:29:53,380 --> 00:29:55,260
+可我現在完全沒頭緒
+but there's nothing coming to me.
+
+626
+00:29:59,530 --> 00:30:02,700
+我媽媽常說一句話
+My mom was fond of an expression.
+
+627
+00:30:04,380 --> 00:30:06,840
+「實現目標的人 往往不知道接下來該怎麼辦」
+"The dog who caught the car."
+
+628
+00:30:09,440 --> 00:30:11,950
+如今我終於有了機會
+Now that I've finally latched onto one...
+
+629
+00:30:14,050 --> 00:30:16,850
+卻不知道該怎麼應對
+...I have no idea what to do with it.
+
+630
+00:30:17,620 --> 00:30:21,290
+在瓦肯星 我們也有一句類似的話
+On Vulcan, we have a similar expression.
+
+631
+00:30:22,190 --> 00:30:24,730
+「咬到自己尾巴的賽拉獸」
+"The sehlat who ate its tail."
+
+632
+00:30:25,160 --> 00:30:26,560
+不過我要指出 你比那種
+Though I would point out you have
+
+633
+00:30:26,560 --> 00:30:28,960
+四足野獸有更多的優勢
+a significant leg up over a quadrupedal beast.
+
+634
+00:30:28,960 --> 00:30:30,630
+你的人類直覺
+Your human intuition.
+
+635
+00:30:30,630 --> 00:30:33,780
+它一直指引著我們 我們現在還都好好活著
+It has guided us this far. We are all still here.
+
+636
+00:30:33,780 --> 00:30:35,330
+我建議你繼續相信它
+I recommend you keep following it.
+
+637
+00:30:41,760 --> 00:30:42,760
+好的
+Okay.
+
+638
+00:30:43,780 --> 00:30:45,620
+既然你這麼說
+If you insist.
+
+639
+00:30:47,960 --> 00:30:50,660
+斯科提 那艘拾荒船還有多久到
+Scotty, how long until that scavenger ship gets here?
+
+640
+00:30:50,660 --> 00:30:53,700
+不到 20 分鐘 但這只是估算
+Less than 20 minutes, but that's just an estimate.
+
+641
+00:30:53,700 --> 00:30:54,890
+對我來說夠了
+Well, it's good enough for me.
+
+642
+00:30:55,560 --> 00:30:57,260
+很高興看到你回來了 長官
+Glad to see you back, sir.
+
+643
+00:30:57,840 --> 00:30:59,230
+我也是
+Me, too.
+
+644
+00:30:59,230 --> 00:31:02,640
+我知道我們開局不順
+Look, I know we got off to a rough start here,
+
+645
+00:31:02,640 --> 00:31:05,480
+我說什麼也彌補不了這一點
+and there's nothing I can say that can make up for that.
+
+646
+00:31:05,480 --> 00:31:08,100
+而且激昂的演講也不是我的強項
+Rousing speeches aren't exactly my forte.
+
+647
+00:31:08,100 --> 00:31:09,440
+長官 我覺得你說得很好
+I think you're doing just fine, sir.
+
+648
+00:31:10,000 --> 00:31:13,410
+但我要跟在座各位說清楚
+But let me be crystal clear to each of you.
+
+649
+00:31:13,410 --> 00:31:15,660
+即便我之前的行為讓你們有別的想法
+Even if my actions indicated otherwise,
+
+650
+00:31:15,660 --> 00:31:19,420
+我也絕不會放棄營救進取號
+I have no intention of giving up on rescuing the Enterprise,
+
+651
+00:31:19,420 --> 00:31:21,720
+畢竟我們兩隊船員的生命都危在旦夕
+not with the lives of both of our crews on the line.
+
+652
+00:31:21,720 --> 00:31:23,800
+謝謝您 長官 我正需要聽到這句話
+Thank you, sir. I needed to hear that.
+
+653
+00:31:23,800 --> 00:31:25,100
+我也需要聽聽你們的想法
+And I need to hear from you.
+
+654
+00:31:25,900 --> 00:31:27,060
+我們現在掌握了什麼情況
+What do we know?
+
+655
+00:31:27,060 --> 00:31:29,020
+除了我們困在太空中動彈不得之外
+Besides the fact that we're dead in space,
+
+656
+00:31:29,020 --> 00:31:31,400
+關於這些拾荒者 我們還知道什麼
+what do we know about these scavengers?
+
+657
+00:31:31,400 --> 00:31:33,960
+他們的船肯定有什麼弱點
+Their ship has to have some kind of weakness.
+
+658
+00:31:33,960 --> 00:31:36,720
+烏乎拉 你觀察到了什麼
+Uhura, what have you seen?
+
+659
+00:31:36,720 --> 00:31:38,460
+裡面有很多船
+Ships, a lot of them,
+
+660
+00:31:38,460 --> 00:31:41,130
+來自象限的各個角落 它擄走船隻
+from across the quadrant. It appropriates them,
+
+661
+00:31:41,130 --> 00:31:42,400
+竊取它們的能力
+steals their functionality,
+
+662
+00:31:42,470 --> 00:31:43,770
+然後為己所用
+and bends that to its own needs.
+
+663
+00:31:43,770 --> 00:31:45,270
+而且它的欲望永無止境
+And its needs are bottomless.
+
+664
+00:31:45,270 --> 00:31:47,380
+它只懂得不斷吞噬 讓自己變得更大
+All it does is consume and make itself bigger.
+
+665
+00:31:47,380 --> 00:31:49,880
+它變得越大 需要的就越多
+The bigger it gets, the more it requires.
+
+666
+00:31:49,880 --> 00:31:51,750
+然後就會去吞噬下一個資源 就是
+Then it moves on to devour the next resource, like...
+
+667
+00:31:51,810 --> 00:31:52,810
+它永遠不會停下
+it will never stop,
+
+668
+00:31:52,950 --> 00:31:54,350
+它永遠不會滿足
+you know, it'll never have enough.
+
+669
+00:31:54,450 --> 00:31:57,190
+沒錯 斯科提 你剛才已經找到了他們的弱點
+Exactly. Scotty, you just found their weakness:
+
+670
+00:31:57,320 --> 00:31:59,820
+極度過分的吞噬欲
+their ravenous need to consume.
+
+671
+00:31:59,950 --> 00:32:01,720
+無盡的貪慾
+Bottomless greed.
+
+672
+00:32:01,820 --> 00:32:02,960
+我們可以利用這點來對抗它們
+We can use that against them.
+
+673
+00:32:03,020 --> 00:32:03,850
+該怎麼做
+How?
+
+674
+00:32:04,630 --> 00:32:06,500
+這就要輪到你出場了
+That's where you come in.
+
+675
+00:32:06,500 --> 00:32:08,380
+我需要你用奧登金充滿等離子歧管
+I need you to fill the plasma manifold
+
+676
+00:32:08,380 --> 00:32:10,160
+直到溢出為止
+until it's overflowing with aldentium.
+
+677
+00:32:10,160 --> 00:32:11,340
+不 不 歧管只是個沒用的殼子
+No-no, the-the manifold's a useless husk,
+
+678
+00:32:11,430 --> 00:32:13,440
+況且船上連一滴奧登金都沒有
+and we don't have a drop of aldentium on board.
+
+679
+00:32:14,000 --> 00:32:16,200
+我們只需要讓它看起來像
+We just need to make it look like we do.
+
+680
+00:32:16,200 --> 00:32:17,200
+隨著奧登金衰變
+As aldentium decays,
+
+681
+00:32:17,200 --> 00:32:18,820
+這個過程中會釋放出很多反質子
+it gives off lots of anti-protons.
+
+682
+00:32:18,820 --> 00:32:20,680
+我可以用反質子來填充混合室
+Well, I could flood the intermix chamber with anti-protons
+
+683
+00:32:20,770 --> 00:32:22,770
+讓我們的引擎看起來像是由奧登金驅動的
+and make it look like our engines run on aldentium.
+
+684
+00:32:22,870 --> 00:32:25,210
+它們會發現我們的蹤跡 被我們的排氣管吸引過來
+They'll catch the scent and gravitate towards our tailpipe.
+
+685
+00:32:25,310 --> 00:32:27,450
+我們要把法拉格特號
+We are going to make the Farragut
+
+686
+00:32:27,550 --> 00:32:31,040
+偽裝成一場令拾荒者垂涎欲滴的盛宴
+into a banquet that's impossible for these scavengers to resist, 
+
+687
+00:32:31,040 --> 00:32:32,020
+當它們來赴宴時
+and when they come to dine,
+
+688
+00:32:32,150 --> 00:32:34,090
+就該後悔得腸子都青了
+we're going to make them regret it.
+
+689
+00:32:37,160 --> 00:32:39,460
+艦長已經下令了
+The captain has given his orders.
+
+690
+00:32:45,530 --> 00:32:49,030
+我還是覺得這麼叫怪怪的 維瑞爾還活著呢
+I still feel funny being called that while V'Rel's alive.
+
+691
+00:32:49,140 --> 00:32:52,010
+我保證一有機會就會盡快給你降職
+I promise to demote you at the earliest opportunity.
+
+692
+00:32:53,710 --> 00:32:59,010
+等等 所以在這些拾荒者嘗試吃掉我們的時候 我們又該怎麼辦
+Wait, so what exactly do we do after we get these scavengers to try and eat us?
+
+693
+00:32:59,010 --> 00:33:01,150
+這就是這個計劃有點瘋狂的地方了
+Here's where the plan gets a little crazy.
+
+694
+00:33:01,210 --> 00:33:03,560
+什麼這個計劃有點瘋狂的地方
+This is where the plan gets crazy?
+
+695
+00:33:03,560 --> 00:33:04,780
+幸好你正坐著呢 查普爾護士
+Glad you're sitting down, Nurse Chapel.
+
+696
+00:33:04,880 --> 00:33:06,980
+尤其是你 斯考特先生
+You especially, Mr. Scott,
+
+697
+00:33:07,090 --> 00:33:09,060
+你不會喜歡這個的
+are not going to love it.
+
+698
+00:33:23,900 --> 00:33:25,200
+拉安
+La'An!
+
+699
+00:34:26,740 --> 00:34:29,020
+警告 環境指標危險
+
+700
+00:34:46,490 --> 00:34:47,320
+你還好嗎
+You all right?
+
+701
+00:34:47,320 --> 00:34:48,080
+還好
+Yeah.
+
+702
+00:34:49,720 --> 00:34:52,060
+它沒有開槍
+It... didn't shoot.
+
+703
+00:34:54,960 --> 00:34:56,660
+為什麼它不殺了我
+Why didn't it kill me?
+
+704
+00:35:09,740 --> 00:35:10,910
+我們可能只有一分鐘的時間
+We may only have a minute.
+
+705
+00:35:10,910 --> 00:35:12,760
+該怎麼把這死東西從我的船上弄下來
+How do we get this thing the hell off my ship?
+
+706
+00:35:12,760 --> 00:35:15,360
+如果我們不能切斷它 那麼說服它們呢
+Well, if we can't disconnect it, what if we convince them to?
+
+707
+00:35:15,360 --> 00:35:17,240
+-什麼意思 -讓它們自願斷開連接
+- How do you mean? - Make them want to disconnect it.
+
+708
+00:35:17,240 --> 00:35:19,350
+讓它們嚐到點
+Give them a taste of something...
+
+709
+00:35:19,450 --> 00:35:20,750
+難吃的東西
+highly undesirable.
+
+710
+00:35:21,560 --> 00:35:22,840
+我懂了 讓它覺得反胃酸了
+I see, stir up a little acid reflux?
+
+711
+00:35:22,840 --> 00:35:24,020
+是的
+Yeah.
+
+712
+00:35:24,020 --> 00:35:25,740
+重子粒子如何
+What about, uh, baryon particles?
+
+713
+00:35:25,740 --> 00:35:27,190
+那它們的燃料和美好的一天就都該完蛋了
+That would ruin their fuel and their day.
+
+714
+00:35:27,290 --> 00:35:28,760
+我們其中一個必須進入曲速引擎下面的
+One of us would have to access the waste system
+
+715
+00:35:28,860 --> 00:35:30,100
+廢物處理系統
+beneath the warp drive.
+
+716
+00:35:30,200 --> 00:35:32,540
+廢物處理系統 好吧 你去吧
+Waste system? All right, you do that.
+
+717
+00:35:34,340 --> 00:35:36,000
+我得把燃料管道隔離
+I have to isolate the fuel line.
+
+718
+00:35:37,540 --> 00:35:39,300
+還有  拿一個超耦合器過來
+And bring a hyper coupler.
+
+719
+00:35:40,110 --> 00:35:41,610
+拉安
+La'An
+
+720
+00:35:41,670 --> 00:35:44,170
+小心點 還有一個外星人活著
+Be careful, that other alien's still out there.
+
+721
+00:35:59,260 --> 00:36:01,830
+女士們 上次我幹這種話
+Ladies, I haven't done this
+
+722
+00:36:01,830 --> 00:36:04,500
+還是給死人樂隊打雜的時候呢
+since I was a roadie for the Dead.
+
+723
+00:36:05,400 --> 00:36:07,570
+你這個種族還可以和死人交流嗎
+Your species can communicate with dead people?
+
+724
+00:36:08,800 --> 00:36:09,440
+你好
+Hello?
+
+725
+00:36:09,440 --> 00:36:10,940
+是的 是的
+Ah, ah, yes, yes.
+
+726
+00:36:10,940 --> 00:36:13,780
+上尉 找你的
+Uh, uh, Lieutenant, it's for you.
+
+727
+00:36:18,160 --> 00:36:18,920
+喂
+Hello?
+
+728
+00:36:18,920 --> 00:36:20,360
+右舷推進器已經準備好了
+Starboard thrusters are ready.
+
+729
+00:36:20,360 --> 00:36:22,420
+左舷推進器也準備就緒
+Port thrusters standing by.
+
+730
+00:36:24,180 --> 00:36:27,050
+好吧 艾麗卡 小心別墜機
+Okay, Erica, don't crash.
+
+731
+00:36:36,080 --> 00:36:37,760
+拾荒者星艦已脫離曲速
+The scavenger vessel has dropped out of warp.
+
+732
+00:36:37,760 --> 00:36:40,360
+反質子 正在反著質子
+Anti-protons... anti-protoning?
+
+733
+00:36:40,430 --> 00:36:42,870
+我們現在已經美味到極限了
+We're as juicy a target as I can make us.
+
+734
+00:36:42,930 --> 00:36:44,700
+紅色警報 各崗位準備
+Red alert. All stations prepare for...
+
+735
+00:36:46,840 --> 00:36:49,210
+好吧 準備被吃
+...well, for that.
+
+736
+00:36:49,380 --> 00:36:50,820
+脈衝引擎準備
+Ready impulse engines.
+
+737
+00:36:50,820 --> 00:36:51,500
+已就緒
+Standing by.
+
+738
+00:36:52,080 --> 00:36:53,210
+她掌舵過多少次
+How many times has she helmed?
+
+739
+00:36:53,210 --> 00:36:54,910
+兩次 包括這次
+Twice, including now.
+
+740
+00:36:56,260 --> 00:36:57,430
+脈衝全速 烏乎拉
+Full impulse, Uhura.
+
+741
+00:37:13,580 --> 00:37:14,800
+斯考提 輪到你了
+Scotty, your turn.
+
+742
+00:37:14,800 --> 00:37:15,670
+如果你堅持的話
+If you insist.
+
+743
+00:37:15,670 --> 00:37:16,810
+我堅持 斯考特先生
+I do, Mr. Scott.
+
+744
+00:37:16,900 --> 00:37:19,000
+聽我口令分離
+Detach at my mark.
+
+745
+00:37:23,140 --> 00:37:24,080
+分離
+Mark.
+
+746
+00:37:32,200 --> 00:37:33,600
+史波克
+Spock?
+
+747
+00:37:34,690 --> 00:37:37,120
+貪吃蛇咬到自己尾巴了 艦長
+The sehlat has eaten its tail, Captain.
+
+748
+00:37:37,120 --> 00:37:39,320
+拾荒者星艦已被癱瘓
+The scavenger ship has been disabled.
+
+749
+00:37:40,540 --> 00:37:43,600
+烏乎拉 盡快找到進取號
+Uhura, get us line of sight to the Enterprise as quickly as you can.
+
+750
+00:37:46,460 --> 00:37:48,000
+接收到信號傳輸
+Incoming transmission.
+
+751
+00:37:48,000 --> 00:37:50,340
+是法拉格特號 僅音頻
+It's the Farragut, audio only.
+
+752
+00:37:50,340 --> 00:37:51,670
+進取號 能收到嗎
+Enterprise, do you read?
+
+753
+00:37:51,670 --> 00:37:53,200
+可算來了啊 少尉
+Took you long enough, Ensign.
+
+754
+00:37:53,200 --> 00:37:54,800
+我也很高興聽到你的聲音
+Good to hear your voice, too.
+
+755
+00:37:54,800 --> 00:37:57,720
+我們受損嚴重 但是我們已經癱瘓了拾荒者星艦
+We're pretty banged up, but we disabled the scavenger ship.
+
+756
+00:37:57,720 --> 00:37:59,480
+告訴她這只是暫時的
+Tell her it's just temporary.
+
+757
+00:37:59,480 --> 00:38:00,520
+能持續多久
+How temporary?
+
+758
+00:38:00,520 --> 00:38:02,480
+不清楚 但這是你們的機會
+No idea, but this is your chance.
+
+759
+00:38:02,580 --> 00:38:03,920
+越獄的機會
+For a jailbreak.
+
+760
+00:38:10,890 --> 00:38:12,660
+左 右舷推進器
+Port and starboard thrusters,
+
+761
+00:38:12,660 --> 00:38:14,430
+百分之十動力
+give me ten percent.
+
+762
+00:38:16,130 --> 00:38:18,340
+我們得關閉推進器 我們還沒脫離束縛
+we got to kill those thrusters. We are not off-leash.
+
+763
+00:38:20,860 --> 00:38:22,600
+艦長 找到燃料線路了嗎
+Captain, any luck finding the fuel line?
+
+764
+00:38:22,600 --> 00:38:25,000
+我有一個相當可靠的猜測
+I've got a pretty solid guess.
+
+765
+00:38:28,840 --> 00:38:30,510
+把那個連接器遞給我
+Hand me that connector?
+
+766
+00:38:32,320 --> 00:38:33,980
+你最好後退一步
+And you might want to take a step back.
+
+767
+00:38:34,880 --> 00:38:37,550
+如果爆炸 整個工程部船體都會被炸掉
+If it explodes, it will take out the entire engineering hull.
+
+768
+00:38:37,550 --> 00:38:38,850
+多退幾步吧
+A big step, then?
+
+769
+00:38:47,900 --> 00:38:50,700
+重子粒子正在進入氘粒子流
+Baryon particles are entering the deuterium stream.
+
+770
+00:38:50,700 --> 00:38:54,580
+混合物 正在失去穩定
+The mixture is... destabilizing.
+
+771
+00:38:54,580 --> 00:38:55,700
+趁我們還沒被這東西吸走
+Let's get the hell out of here
+
+772
+00:38:55,700 --> 00:38:57,100
+趕緊跑路吧
+before we get sucked out with this thing.
+
+773
+00:39:06,140 --> 00:39:07,060
+等等
+Wait.
+
+774
+00:39:07,060 --> 00:39:08,590
+緊急系統正在重啟
+Emergency systems are rebooting.
+
+775
+00:39:09,030 --> 00:39:10,750
+艦長做到了 這些臍帶正在脫離
+Captain did it. The umbilical's detached.
+
+776
+00:39:10,750 --> 00:39:12,250
+左 右舷推進器
+Port and starboard thrusters,
+
+777
+00:39:12,250 --> 00:39:13,320
+百分之五十
+50%.
+
+778
+00:39:14,520 --> 00:39:15,900
+右舷推進器減緩點
+Ease off starboard thrusters. Whoa.
+
+779
+00:39:15,900 --> 00:39:18,320
+別減這麼多 給我百分之三十
+N-Not that easy. Give me 30%.
+
+780
+00:39:18,320 --> 00:39:20,320
+百分之五十 現在等下
+50%. Now wait.
+
+781
+00:39:20,320 --> 00:39:21,560
+五十 八十
+50, 80.
+
+782
+00:39:21,560 --> 00:39:22,860
+切斷右舷推進器
+Cut starboard thrusters.
+
+783
+00:39:25,100 --> 00:39:27,500
+我也不想說風涼話 但是你要撞牆
+Hate to backseat-drive, but you're hitting the wall.
+
+784
+00:39:27,570 --> 00:39:28,900
+左舷推進器全速
+Full port thrusters.
+
+785
+00:39:29,030 --> 00:39:30,870
+推進器控制無響應
+Thruster controls aren't responding.
+
+786
+00:39:30,970 --> 00:39:32,440
+這要完蛋了
+That's real bad.
+
+787
+00:39:32,540 --> 00:39:33,740
+等等 我有個想法
+Wait, I have an idea.
+
+788
+00:39:33,870 --> 00:39:35,770
+洗耳恭聽
+I'm all ears.
+
+789
+00:39:35,870 --> 00:39:38,170
+中校?
+Commander?
+
+790
+00:39:39,280 --> 00:39:41,050
+中校?
+Commander?
+
+791
+00:40:03,670 --> 00:40:07,170
+好 右舷推進器動力20%
+Yes! Starboard thrusters to 20%.
+
+792
+00:40:08,600 --> 00:40:10,110
+保持平衡
+Keep us even.
+
+793
+00:40:12,460 --> 00:40:13,480
+艦長
+Captain.
+
+794
+00:40:14,820 --> 00:40:16,160
+是拾荒者
+The scavenger.
+
+795
+00:40:19,880 --> 00:40:21,920
+拾荒者星艦的系統正在恢復運行
+The scavenger vessel's systems are coming back on line.
+
+796
+00:40:21,920 --> 00:40:23,560
+他們正在瞄準進取號
+They are targeting Enterprise.
+
+797
+00:40:23,660 --> 00:40:24,800
+相位炮鎖定
+Lock phasers.
+
+798
+00:40:24,890 --> 00:40:26,660
+呃
+Uh...
+
+799
+00:40:26,760 --> 00:40:27,900
+艦長 我們的武器無法
+Sir, the grapplers have proven
+
+800
+00:40:27,990 --> 00:40:29,730
+有效應對那些抓鈎
+to be resistant to our weapons.
+
+801
+00:40:29,830 --> 00:40:31,970
+好吧 史波克
+Okay, Spock.
+
+802
+00:40:32,060 --> 00:40:33,660
+你有什麼主意嗎
+What do you got?
+
+803
+00:41:26,650 --> 00:41:30,250
+史波克先生 掃描殘骸中的生命信號
+Mr. Spock, scan the debris for life signs.
+
+804
+00:41:35,690 --> 00:41:38,160
+近7000個生命信號
+Approximately 7,000 life signs,
+
+805
+00:41:38,600 --> 00:41:40,340
+在迅速減少
+but they are dwindling quickly.
+
+806
+00:41:40,340 --> 00:41:42,030
+我們能把生還者傳送到船上嗎
+Can we beam survivors aboard?
+
+807
+00:41:44,340 --> 00:41:45,740
+我們有心無力
+Not even if we wanted to.
+
+808
+00:41:45,740 --> 00:41:48,270
+殘骸的碎片會影響傳送器 無法鎖定
+There's too much debris to get a transporter lock.
+
+809
+00:41:55,110 --> 00:41:56,980
+艦長
+Captain?
+
+810
+00:41:56,980 --> 00:41:58,380
+那些生命信號
+The life signs.
+
+811
+00:41:58,480 --> 00:42:00,780
+是的 史波克先生
+Yes, Mr. Spock?
+
+812
+00:42:26,440 --> 00:42:28,910
+那些生命信號全都是人類
+The life signs are all human.
+
+813
+00:42:40,790 --> 00:42:42,990
+船體上的標記
+The markings on the hull.
+
+814
+00:42:44,100 --> 00:42:45,760
+我們能看得更清楚一點嗎
+Can you get us a clearer image?
+
+815
+00:42:46,560 --> 00:42:47,760
+好的
+Aye.
+
+816
+00:42:57,940 --> 00:43:01,180
+我在歷史數據庫裡找到了這個
+I found this in our historical database.
+
+817
+00:43:03,500 --> 00:43:05,450
+21世紀中期
+In the mid-21st century,
+
+818
+00:43:05,450 --> 00:43:07,520
+在與瓦肯人的第一次接觸之前
+before first contact with the Vulcans,
+
+819
+00:43:07,520 --> 00:43:09,430
+有一群科學家 他們認為
+a group of scientists believed
+
+820
+00:43:09,430 --> 00:43:13,500
+岌岌可危的地球環境
+that Earth's environmental crisis was too severe
+
+821
+00:43:13,500 --> 00:43:16,790
+沒有復原的可能 所以他們建造了一艘飛船
+to recover from, so they built a ship.
+
+822
+00:43:17,220 --> 00:43:19,100
+他們希望這艘船能讓人類文明
+They hoped it would carry humanity
+
+823
+00:43:19,100 --> 00:43:21,730
+在其他世界中繼續生根發芽
+to civilizations in other worlds.
+
+824
+00:43:21,730 --> 00:43:24,100
+但事與願違
+But it failed.
+
+825
+00:43:24,170 --> 00:43:26,470
+這艘船消失了
+The ship disappeared.
+
+826
+00:43:27,370 --> 00:43:29,270
+全體船員
+The entire crew,
+
+827
+00:43:29,270 --> 00:43:32,140
+他們的家人 都消失了
+their families, gone.
+
+828
+00:43:35,680 --> 00:43:37,850
+此後音訊全無
+Never heard from again.
+
+829
+00:43:38,720 --> 00:43:41,790
+我還記得這艘船發射升空時的事
+I remember when it launched.
+
+830
+00:43:41,790 --> 00:43:46,020
+那時我們還沒有發明曲速引擎
+We-we hadn't yet invented warp drive.
+
+831
+00:43:46,970 --> 00:43:51,130
+第三次世界大戰才堪堪結束
+We'd barely put out the fires of the Third World War.
+
+832
+00:43:51,130 --> 00:43:54,830
+熬過戰爭的國家不多 其中一個
+One of the few nations left standing
+
+833
+00:43:54,830 --> 00:43:58,800
+在他們殘存的航天計劃中挑選
+sifted through the ashes of their space program,
+
+834
+00:43:58,800 --> 00:44:02,160
+走遍全世界招募了一批船員
+scoured the world for a crew.
+
+835
+00:44:02,160 --> 00:44:03,500
+可以說
+You might say...
+
+836
+00:44:05,170 --> 00:44:08,010
+那是當年最出類拔萃的一批人
+...they were the best of us,
+
+837
+00:44:08,010 --> 00:44:10,380
+最為樂觀積極
+the most optimistic,
+
+838
+00:44:10,840 --> 00:44:13,500
+他們拚盡全力尋找
+searching for a way to carry on
+
+839
+00:44:13,500 --> 00:44:15,760
+延續文明之火的方式
+the flame of life.
+
+840
+00:44:15,760 --> 00:44:17,540
+那麼多船員
+All those people.
+
+841
+00:44:18,680 --> 00:44:20,460
+7000條生命
+7,000 souls.
+
+842
+00:44:20,460 --> 00:44:23,360
+他們是初始船員們的後人
+The descendants of the original inhabitants.
+
+843
+00:44:23,360 --> 00:44:25,030
+到底出了什麼差錯
+So what went wrong?
+
+844
+00:44:27,580 --> 00:44:29,440
+他們為什麼會從那樣一批優秀的船員變成
+How did they go from that to...
+
+845
+00:44:31,200 --> 00:44:33,170
+現在這個樣子
+...whatever it is they became?
+
+846
+00:44:43,750 --> 00:44:45,350
+請進
+Come in.
+
+847
+00:44:48,050 --> 00:44:49,180
+啊
+Ah...
+
+848
+00:44:49,290 --> 00:44:50,690
+只是想當面告訴你
+Just wanted to let you know in person,
+
+849
+00:44:50,760 --> 00:44:52,460
+姆'本加醫生說維瑞爾艦長
+Dr. M'Benga says that Captain V'Rel is going
+
+850
+00:44:52,560 --> 00:44:54,030
+之後會完全康復的
+to make a complete recovery.
+
+851
+00:44:54,130 --> 00:44:56,400
+我們會把法拉格特號拖回船塢
+We'll tow Farragut back to spacedock.
+
+852
+00:44:56,490 --> 00:44:57,730
+你只需要
+Then you only have
+
+853
+00:44:57,860 --> 00:44:59,360
+再撐一會兒就好
+to hold the fort down a little while longer.
+
+854
+00:44:59,460 --> 00:45:02,200
+拖回去一艘沒了曲速艙的船
+I'm imagining the look on Admiral April's face
+
+855
+00:45:02,300 --> 00:45:04,800
+我幾乎都能想像到艾普里爾上將的表情了
+when he sees us pull in with no nacelles.
+
+856
+00:45:04,900 --> 00:45:07,180
+他喜歡畢宿五威士忌
+He likes Aldebaran whiskey.
+
+857
+00:45:07,680 --> 00:45:09,040
+備好一瓶以備不時之需
+Maybe have a bottle ready.
+
+858
+00:45:09,140 --> 00:45:11,380
+可能你會覺得很難受 但你確實做出了正確的決定
+You know, it might not feel like it, but you made the right call.
+
+859
+00:45:11,480 --> 00:45:13,180
+我們遭到了攻擊
+We were under attack.
+
+860
+00:45:13,280 --> 00:45:16,720
+你拯救了幾百條生命 法拉格特號上的和進取號上的
+You saved hundreds of lives, both here and on Enterprise.
+
+861
+00:45:16,820 --> 00:45:18,820
+未知船隻
+Number of...
+
+862
+00:45:18,920 --> 00:45:22,290
+上的預估傷亡人數是
+estimated human casualties on unknown vessel...
+
+863
+00:45:23,820 --> 00:45:25,620
+七千
+...7,000.
+
+864
+00:45:28,720 --> 00:45:30,060
+我可以坐下嗎
+Well, may I?
+
+865
+00:45:30,060 --> 00:45:32,230
+請坐
+Please.
+
+866
+00:45:39,240 --> 00:45:40,710
+你知道 我剛晉升
+You know, when, uh...
+
+867
+00:45:40,710 --> 00:45:42,880
+為大副的時候
+when I got bumped up to first officer,
+
+868
+00:45:42,940 --> 00:45:44,670
+我記得我經常懷疑鮑勃
+I remember second-guessing Bob--
+
+869
+00:45:44,780 --> 00:45:47,320
+就是艾普里爾上將
+uh, Admiral April-- a lot.
+
+870
+00:45:47,410 --> 00:45:49,180
+難道他沒有為此糾正你的想法嗎
+Did he ever straighten you out?
+
+871
+00:45:49,180 --> 00:45:50,019
+沒有
+No.
+
+872
+00:45:50,019 --> 00:45:52,420
+他給了我一個深刻的教訓
+He let me learn a very hard lesson.
+
+873
+00:45:53,680 --> 00:45:55,090
+重大的決定背後需要肩負的責任
+The big decisions-- they seem so simple
+
+874
+00:45:55,090 --> 00:45:57,160
+只有在別人身上才看起來輕鬆
+when someone else has to live with the consequences,
+
+875
+00:45:57,290 --> 00:45:59,960
+但當你坐在艦長的位置上 作出的每一個決定
+but the choices you make in that chair...
+
+876
+00:46:00,960 --> 00:46:02,960
+都是你需要肩負的責任
+...they are yours to make...
+
+877
+00:46:04,440 --> 00:46:06,170
+其後果
+...and what comes after...
+
+878
+00:46:07,680 --> 00:46:09,670
+也是你必須承擔的
+...that is yours to live with.
+
+879
+00:46:10,380 --> 00:46:13,340
+有一些決定會讓你悔恨終生
+Some decisions you will regret for the rest of your life,
+
+880
+00:46:13,340 --> 00:46:14,840
+但你仍然不得不去做
+but you still have to make them.
+
+881
+00:46:14,840 --> 00:46:16,240
+那些人都是人類
+They were human beings.
+
+882
+00:46:19,080 --> 00:46:20,760
+為什麼我會覺得更難受了
+Why does that make it feel so much worse?
+
+883
+00:46:20,760 --> 00:46:21,850
+我能說的只有
+All I can say is...
+
+884
+00:46:23,059 --> 00:46:25,450
+同情你的敵人是工作時的必經之途
+...having empathy for your adversary is part of the job.
+
+885
+00:46:25,450 --> 00:46:27,190
+但我沒有
+But I didn't.
+
+886
+00:46:28,180 --> 00:46:30,320
+我沒想過他們會是人類
+I didn't think of them as people...
+
+887
+00:46:30,320 --> 00:46:32,060
+從頭到尾
+at all.
+
+888
+00:46:33,090 --> 00:46:34,460
+然後一切都無法挽回了
+Until it was too late.
+
+889
+00:46:34,460 --> 00:46:36,500
+也許這正是我們應當反思的
+Well, maybe that's the lesson.
+
+890
+00:46:37,760 --> 00:46:39,020
+同情是不看對象的
+Empathy isn't conditional.
+
+891
+00:46:39,020 --> 00:46:40,280
+有就是有 沒有就是沒有
+It's either given or it isn't.
+
+892
+00:46:40,280 --> 00:46:43,040
+他們肯定看見了我們的模樣
+They... clearly saw us,
+
+893
+00:46:43,720 --> 00:46:46,000
+要麼他們沒有認出我們 要麼他們不在乎
+and either they didn't recognize us or they didn't care.
+
+894
+00:46:46,000 --> 00:46:47,360
+無論過去兩百年
+Whatever journey they had been through
+
+895
+00:46:47,360 --> 00:46:48,800
+發生了什麼 他們已經不是當初的那批船員了
+the last 200 years, it broke them.
+
+896
+00:46:48,800 --> 00:46:49,740
+他們離開地球的時候
+When they left Earth...
+
+897
+00:46:51,920 --> 00:46:54,780
+是全人類中最優秀的
+...they were the best humanity had to offer.
+
+898
+00:46:54,780 --> 00:46:57,020
+他們過去並不是怪物
+They weren't monsters.
+
+899
+00:46:59,020 --> 00:47:01,520
+我們在同樣的情況下也會變成那樣嗎
+Is that what we would become in the same circumstances?
+
+900
+00:47:01,520 --> 00:47:03,290
+我想我們不會的
+I'd like to believe we wouldn't.
+
+901
+00:47:03,660 --> 00:47:04,460
+為什麼
+Why not?
+
+902
+00:47:04,460 --> 00:47:06,110
+因為我們對他們懷有同情
+Because of how you're feeling right now.
+
+903
+00:47:06,110 --> 00:47:07,360
+因為下一次你作為艦長下達指令的時候
+Because the next time you're in that chair,
+
+904
+00:47:07,360 --> 00:47:09,200
+你會想起我們與我們的敵人
+you will remember we are often not that different
+
+905
+00:47:09,290 --> 00:47:11,460
+並沒有那麼不同
+from our enemy.
+
+906
+00:47:13,190 --> 00:47:15,430
+這種認識
+And that knowledge,
+
+907
+00:47:15,430 --> 00:47:17,300
+從現在起
+from this moment on,
+
+908
+00:47:18,000 --> 00:47:19,540
+會永遠指引著你
+will continue to guide you.
+
+909
+00:47:28,510 --> 00:47:31,610
+晚安 柯克艦長
+Good night, Captain Kirk.
+
